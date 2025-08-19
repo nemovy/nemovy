@@ -1,1693 +1,975 @@
 #EXTM3U
-#EXTINF:-1 group-title='центральное тв',Кавказ 24
+#EXTINF: -1 group-title='Эфирные', Кавказ 24
 http://dmi3y-tv.ru/hls/zabava/region/STAVR/CH_KAVKAZ24.m3u8
-#EXTINF:-1 group-title='центральное тв',СВОЁ ТВ HD (Ставрополь)
+#EXTINF: -1 group-title='Эфирные', СВОЁ ТВ HD (Ставрополь)
 http://dmi3y-tv.ru/hls/zabava/region/STAVR/CH_SVOETVHD.m3u8
-#EXTINF:-1 group-title='центральное тв',АТВ (Ставрополь)
+#EXTINF: -1 group-title='Эфирные', АТВ (Ставрополь)
 http://dmi3y-tv.ru/hls/zabava/region/STAVR/CH_ATV.m3u8
-#EXTINF: -1 group-title='центральное тв', Первый канал
-http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV.m3u8
-#EXTINF: -1 group-title='центральное тв', Россия 1
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1.m3u8
-#EXTINF: -1 group-title='центральное тв', Матч!
-http://dmi3y-tv.ru/hls/DVB-T2/CH_MATCHTV.m3u8
-#EXTINF: -1 group-title='центральное тв', НТВ
-http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV.m3u8
-#EXTINF: -1 group-title='центральное тв', Пятый канал
-http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV.m3u8
-#EXTINF: -1 group-title='центральное тв', Россия К
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIAK.m3u8
-#EXTINF: -1 group-title='центральное тв', Россия 24
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA24.m3u8
-#EXTINF: -1 group-title='центральное тв', Карусель
-http://dmi3y-tv.ru/hls/DVB-T2/CH_KARUSEL.m3u8
-#EXTINF: -1 group-title='центральное тв', ОТР
-http://dmi3y-tv.ru/hls/DVB-T2/CH_OTR.m3u8
-#EXTINF: -1 group-title='центральное тв', ТВЦ
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC.m3u8
-#EXTINF: -1 group-title='центральное тв', РЕН ТВ
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV.m3u8
-#EXTINF: -1 group-title='центральное тв', СПАС
-http://dmi3y-tv.ru/hls/DVB-T2/CH_SPAS.m3u8
-#EXTINF: -1 group-title='центральное тв', СТС
-http://dmi3y-tv.ru/hls/DVB-T2/CH_STS.m3u8
-#EXTINF: -1 group-title='центральное тв', Домашний
-http://dmi3y-tv.ru/hls/DVB-T2/CH_DOMASHNIY.m3u8
-#EXTINF: -1 group-title='центральное тв', ТВ3
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3.m3u8
-#EXTINF: -1 group-title='центральное тв', Пятница!
-http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY.m3u8
-#EXTINF: -1 group-title='центральное тв', Звезда
-http://dmi3y-tv.ru/hls/DVB-T2/CH_ZVEZDA.m3u8
-#EXTINF: -1 group-title='центральное тв', МИР
-http://dmi3y-tv.ru/hls/DVB-T2/CH_MIR.m3u8
-#EXTINF: -1 group-title='центральное тв', ТНТ
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT.m3u8
-#EXTINF: -1 group-title='центральное тв', МУЗ ТВ
-http://dmi3y-tv.ru/hls/DVB-T2/CH_MUZTV.m3u8
-#EXTINF: -1 group-title='центральное тв', Звезда
-http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
-#EXTINF: -1 group-title='центральное тв', Звезда Плюс HD
-http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
-#EXTINF: -1 group-title='центральное тв', СОЮЗ HD
-http://dmi3y-tv.ru/hls/CH_SOYUZHD.m3u8
-#EXTINF: -1 group-title='центральное тв', Вести ФМ
+#EXTINF: -1 group-title='Эфирные', Первый канал (Ставрополь)
+http://dmi3y-tv.ru/hls/zabava/region/STAVR/CH_1TV.m3u8
+#EXTINF: -1 group-title='Эфирные', Россия 1 (Ставрополь)
+http://dmi3y-tv.ru/hls/zabava/region/STAVR/CH_ROSSIA1.m3u8
+#EXTINF: -1 group-title='Эфирные', Матч! (Ставрополь)
+http://dmi3y-tv.ru/hls/zabava/region/STAVR/CH_MATCHTV.m3u8
+#EXTINF: -1 group-title='Эфирные', НТВ (Ставрополь)
+http://dmi3y-tv.ru/hls/zabava/region/STAVR/CH_NTV.m3u8
+#EXTINF: -1 group-title='Эфирные', Пятый канал (Ставрополь)
+http://dmi3y-tv.ru/hls/zabava/region/STAVR/CH_5TV.m3u8
+#EXTINF: -1 group-title='Эфирные', Россия K (Ставрополь)
+http://dmi3y-tv.ru/hls/zabava/region/STAVR/CH_ROSSIAK.m3u8
+#EXTINF: -1 group-title='Эфирные', Россия 24 (Ставрополь)
+http://dmi3y-tv.ru/hls/zabava/region/STAVR/CH_ROSSIA24.m3u8
+#EXTINF: -1 group-title='Эфирные', ОТР (Ставрополь)
+http://dmi3y-tv.ru/hls/zabava/region/STAVR/CH_OTR.m3u8
+#EXTINF: -1 group-title='Эфирные', ТВЦ (Ставрополь)
+http://dmi3y-tv.ru/hls/zabava/region/STAVR/CH_TVC.m3u8
+#EXTINF: -1 group-title='Эфирные', РЕН ТВ (Ставрополь)
+http://dmi3y-tv.ru/hls/zabava/region/STAVR/CH_RENTV.m3u8
+#EXTINF: -1 group-title='Эфирные', СТС (Ставрополь)
+http://dmi3y-tv.ru/hls/zabava/region/STAVR/CH_STS.m3u8
+#EXTINF: -1 group-title='Эфирные', Домашний (Ставрополь)
+http://dmi3y-tv.ru/hls/zabava/region/STAVR/CH_DOMASHNIY.m3u8
+#EXTINF: -1 group-title='Эфирные', ТВ3 (Ставрополь)
+http://dmi3y-tv.ru/hls/zabava/region/STAVR/CH_TV3.m3u8
+#EXTINF: -1 group-title='Эфирные', Пятница! (Ставрополь)
+http://dmi3y-tv.ru/hls/zabava/region/STAVR/CH_FRIDAY.m3u8
+#EXTINF: -1 group-title='Эфирные', Звезда (Ставрополь)
+http://dmi3y-tv.ru/hls/zabava/region/STAVR/CH_ZVEZDA.m3u8
+#EXTINF: -1 group-title='Эфирные', Кавказ 24 (Ставрополь)
+http://dmi3y-tv.ru/hls/zabava/region/STAVR/CH_KAVKAZ24.m3u8
+#EXTINF: -1 group-title='Эфирные', СВОЁ ТВ HD (Ставрополь)
+http://dmi3y-tv.ru/hls/zabava/region/STAVR/CH_SVOETVHD.m3u8
+#EXTINF: -1 group-title='Эфирные', АТВ (Ставрополь)
+http://dmi3y-tv.ru/hls/zabava/region/STAVR/CH_ATV.m3u8
+#EXTINF: -1 group-title='Эфирные', Своё ТВ Ставрополь HD
+http://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R03_STV-PLUS/variant.m3u8
+#EXTINF: -1 group-title='Эфирные', Вести ФМ
 http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_192kbps
-#EXTINF: -1 group-title='центральное тв', Маяк
+#EXTINF: -1 group-title='Эфирные', Маяк
 http://icecast-vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps
-#EXTINF: -1 group-title='центральное тв', Радио России
+#EXTINF: -1 group-title='Эфирные', Радио России
 http://icecast-vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Первый канал (-1)
+#EXTINF: -1 group-title='Федеральные плюс', Первый канал (-1)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV-1.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Первый канал
+#EXTINF: -1 group-title='Федеральные плюс', Первый канал
 http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Первый канал ( 2)
+#EXTINF: -1 group-title='Федеральные плюс', Первый канал ( 2)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_2.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Первый канал ( 4)
+#EXTINF: -1 group-title='Федеральные плюс', Первый канал ( 4)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_4.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Первый канал ( 6)
+#EXTINF: -1 group-title='Федеральные плюс', Первый канал ( 6)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_6.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Первый канал ( 7)
+#EXTINF: -1 group-title='Федеральные плюс', Первый канал ( 7)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_7.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Первый канал ( 8)
+#EXTINF: -1 group-title='Федеральные плюс', Первый канал ( 8)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_8.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Первый канал ( 9)
+#EXTINF: -1 group-title='Федеральные плюс', Первый канал ( 9)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_9.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Россия 1 (-1)
+#EXTINF: -1 group-title='Федеральные плюс', Россия 1 (-1)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1-1.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Россия 1
+#EXTINF: -1 group-title='Федеральные плюс', Россия 1
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Россия 1 ( 2)
+#EXTINF: -1 group-title='Федеральные плюс', Россия 1 ( 2)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_2.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Россия 1 ( 4)
+#EXTINF: -1 group-title='Федеральные плюс', Россия 1 ( 4)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_4.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Россия 1 ( 6)
+#EXTINF: -1 group-title='Федеральные плюс', Россия 1 ( 6)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_6.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Россия 1 ( 7)
+#EXTINF: -1 group-title='Федеральные плюс', Россия 1 ( 7)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_7.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Россия 1 ( 8)
+#EXTINF: -1 group-title='Федеральные плюс', Россия 1 ( 8)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_8.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Россия 1 ( 9)
+#EXTINF: -1 group-title='Федеральные плюс', Россия 1 ( 9)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_9.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Матч!
+#EXTINF: -1 group-title='Федеральные плюс', Матч!
 http://dmi3y-tv.ru/hls/DVB-T2/CH_MATCHTV.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', НТВ (-1)
+#EXTINF: -1 group-title='Федеральные плюс', НТВ (-1)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV-1.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', НТВ
+#EXTINF: -1 group-title='Федеральные плюс', НТВ
 http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', НТВ ( 2)
+#EXTINF: -1 group-title='Федеральные плюс', НТВ ( 2)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_2.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', НТВ ( 4)
+#EXTINF: -1 group-title='Федеральные плюс', НТВ ( 4)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_4.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', НТВ ( 6)
+#EXTINF: -1 group-title='Федеральные плюс', НТВ ( 6)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_6.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', НТВ ( 7)
+#EXTINF: -1 group-title='Федеральные плюс', НТВ ( 7)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_7.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Пятый канал (-1)
+#EXTINF: -1 group-title='Федеральные плюс', Пятый канал (-1)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV-1.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Пятый канал
+#EXTINF: -1 group-title='Федеральные плюс', Пятый канал
 http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Пятый канал ( 2)
+#EXTINF: -1 group-title='Федеральные плюс', Пятый канал ( 2)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_2.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Пятый канал ( 4)
+#EXTINF: -1 group-title='Федеральные плюс', Пятый канал ( 4)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_4.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Пятый канал ( 6)
+#EXTINF: -1 group-title='Федеральные плюс', Пятый канал ( 6)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_6.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Пятый канал ( 7)
+#EXTINF: -1 group-title='Федеральные плюс', Пятый канал ( 7)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_7.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Россия К (-1)
+#EXTINF: -1 group-title='Федеральные плюс', Россия К (-1)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIAK-1.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Россия К
+#EXTINF: -1 group-title='Федеральные плюс', Россия К
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIAK.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Россия К ( 2)
+#EXTINF: -1 group-title='Федеральные плюс', Россия К ( 2)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIAK_2.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Россия К ( 4)
+#EXTINF: -1 group-title='Федеральные плюс', Россия К ( 4)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIAK_4.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Россия К ( 6)
+#EXTINF: -1 group-title='Федеральные плюс', Россия К ( 6)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIAK_6.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Россия К ( 7)
+#EXTINF: -1 group-title='Федеральные плюс', Россия К ( 7)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIAK_7.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Россия 24
+#EXTINF: -1 group-title='Федеральные плюс', Россия 24
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA24.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Россия 24 ( 2)
+#EXTINF: -1 group-title='Федеральные плюс', Россия 24 ( 2)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA24_2.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Россия 24 ( 6)
+#EXTINF: -1 group-title='Федеральные плюс', Россия 24 ( 6)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA24_6.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Карусель (-1)
+#EXTINF: -1 group-title='Федеральные плюс', Карусель (-1)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_KARUSEL-1.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Карусель
+#EXTINF: -1 group-title='Федеральные плюс', Карусель
 http://dmi3y-tv.ru/hls/DVB-T2/CH_KARUSEL.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Карусель ( 2)
+#EXTINF: -1 group-title='Федеральные плюс', Карусель ( 2)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_KARUSEL_2.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Карусель ( 4)
+#EXTINF: -1 group-title='Федеральные плюс', Карусель ( 4)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_KARUSEL_4.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Карусель ( 6)
+#EXTINF: -1 group-title='Федеральные плюс', Карусель ( 6)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_KARUSEL_6.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Карусель ( 7)
+#EXTINF: -1 group-title='Федеральные плюс', Карусель ( 7)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_KARUSEL_7.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Карусель ( 8)
+#EXTINF: -1 group-title='Федеральные плюс', Карусель ( 8)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_KARUSEL_8.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', ОТР
+#EXTINF: -1 group-title='Федеральные плюс', ОТР
 http://dmi3y-tv.ru/hls/DVB-T2/CH_OTR.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', ТВЦ (-1)
+#EXTINF: -1 group-title='Федеральные плюс', ТВЦ (-1)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC-1.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', ТВЦ
+#EXTINF: -1 group-title='Федеральные плюс', ТВЦ
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', ТВЦ ( 2)
+#EXTINF: -1 group-title='Федеральные плюс', ТВЦ ( 2)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_2.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', ТВЦ ( 4)
+#EXTINF: -1 group-title='Федеральные плюс', ТВЦ ( 4)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_4.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', ТВЦ ( 6)
+#EXTINF: -1 group-title='Федеральные плюс', ТВЦ ( 6)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_6.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', ТВЦ ( 7)
+#EXTINF: -1 group-title='Федеральные плюс', ТВЦ ( 7)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_7.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', РЕН ТВ (-1)
+#EXTINF: -1 group-title='Федеральные плюс', РЕН ТВ (-1)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV-1.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', РЕН ТВ
+#EXTINF: -1 group-title='Федеральные плюс', РЕН ТВ
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', РЕН ТВ ( 2)
+#EXTINF: -1 group-title='Федеральные плюс', РЕН ТВ ( 2)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV_2.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', РЕН ТВ ( 4)
+#EXTINF: -1 group-title='Федеральные плюс', РЕН ТВ ( 4)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV_4.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', РЕН ТВ ( 6)
+#EXTINF: -1 group-title='Федеральные плюс', РЕН ТВ ( 6)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV_6.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', РЕН ТВ ( 7)
+#EXTINF: -1 group-title='Федеральные плюс', РЕН ТВ ( 7)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV_7.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', СПАС (-1)
+#EXTINF: -1 group-title='Федеральные плюс', СПАС (-1)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_SPAS-1.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', СПАС
+#EXTINF: -1 group-title='Федеральные плюс', СПАС
 http://dmi3y-tv.ru/hls/DVB-T2/CH_SPAS.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', СПАС ( 2)
+#EXTINF: -1 group-title='Федеральные плюс', СПАС ( 2)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_SPAS_2.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', СПАС ( 4)
+#EXTINF: -1 group-title='Федеральные плюс', СПАС ( 4)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_SPAS_4.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', СПАС ( 6)
+#EXTINF: -1 group-title='Федеральные плюс', СПАС ( 6)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_SPAS_6.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', СПАС ( 7)
+#EXTINF: -1 group-title='Федеральные плюс', СПАС ( 7)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_SPAS_7.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', СТС (-1)
+#EXTINF: -1 group-title='Федеральные плюс', СТС (-1)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_STS-1.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', СТС
+#EXTINF: -1 group-title='Федеральные плюс', СТС
 http://dmi3y-tv.ru/hls/DVB-T2/CH_STS.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', СТС ( 2)
+#EXTINF: -1 group-title='Федеральные плюс', СТС ( 2)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_STS_2.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', СТС ( 4)
+#EXTINF: -1 group-title='Федеральные плюс', СТС ( 4)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_STS_4.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', СТС ( 6)
+#EXTINF: -1 group-title='Федеральные плюс', СТС ( 6)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_STS_6.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', СТС ( 7)
+#EXTINF: -1 group-title='Федеральные плюс', СТС ( 7)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_STS_7.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Домашний (-1)
+#EXTINF: -1 group-title='Федеральные плюс', Домашний (-1)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_DOMASHNIY-1.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Домашний
+#EXTINF: -1 group-title='Федеральные плюс', Домашний
 http://dmi3y-tv.ru/hls/DVB-T2/CH_DOMASHNIY.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Домашний ( 2)
+#EXTINF: -1 group-title='Федеральные плюс', Домашний ( 2)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_DOMASHNIY_2.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Домашний ( 4)
+#EXTINF: -1 group-title='Федеральные плюс', Домашний ( 4)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_DOMASHNIY_4.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Домашний ( 6)
+#EXTINF: -1 group-title='Федеральные плюс', Домашний ( 6)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_DOMASHNIY_6.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Домашний ( 7)
+#EXTINF: -1 group-title='Федеральные плюс', Домашний ( 7)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_DOMASHNIY_7.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', ТВ3 (-1)
+#EXTINF: -1 group-title='Федеральные плюс', ТВ3 (-1)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3-1.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', ТВ3
+#EXTINF: -1 group-title='Федеральные плюс', ТВ3
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', ТВ3 ( 4)
+#EXTINF: -1 group-title='Федеральные плюс', ТВ3 ( 4)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_4.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', ТВ3 ( 6)
+#EXTINF: -1 group-title='Федеральные плюс', ТВ3 ( 6)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_6.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', ТВ3 ( 7)
+#EXTINF: -1 group-title='Федеральные плюс', ТВ3 ( 7)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_7.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Пятница! (-1)
+#EXTINF: -1 group-title='Федеральные плюс', Пятница! (-1)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY-1.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Пятница!
+#EXTINF: -1 group-title='Федеральные плюс', Пятница!
 http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Пятница! ( 2)
+#EXTINF: -1 group-title='Федеральные плюс', Пятница! ( 2)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY_2.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Пятница! ( 4)
+#EXTINF: -1 group-title='Федеральные плюс', Пятница! ( 4)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY_4.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Пятница! ( 6)
+#EXTINF: -1 group-title='Федеральные плюс', Пятница! ( 6)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY_6.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Пятница! ( 7)
+#EXTINF: -1 group-title='Федеральные плюс', Пятница! ( 7)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY_7.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Звезда (-1)
+#EXTINF: -1 group-title='Федеральные плюс', Звезда (-1)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_ZVEZDA-1.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Звезда
+#EXTINF: -1 group-title='Федеральные плюс', Звезда
 http://dmi3y-tv.ru/hls/DVB-T2/CH_ZVEZDA.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Звезда ( 2)
+#EXTINF: -1 group-title='Федеральные плюс', Звезда ( 2)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_ZVEZDA_2.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Звезда ( 4)
+#EXTINF: -1 group-title='Федеральные плюс', Звезда ( 4)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_ZVEZDA_4.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Звезда ( 6)
+#EXTINF: -1 group-title='Федеральные плюс', Звезда ( 6)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_ZVEZDA_6.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Звезда ( 7)
+#EXTINF: -1 group-title='Федеральные плюс', Звезда ( 7)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_ZVEZDA_7.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', МИР (-1)
+#EXTINF: -1 group-title='Федеральные плюс', МИР (-1)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_MIR-1.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', МИР
+#EXTINF: -1 group-title='Федеральные плюс', МИР
 http://dmi3y-tv.ru/hls/DVB-T2/CH_MIR.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', МИР ( 2)
+#EXTINF: -1 group-title='Федеральные плюс', МИР ( 2)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_MIR_2.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', МИР ( 4)
+#EXTINF: -1 group-title='Федеральные плюс', МИР ( 4)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_MIR_4.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', МИР ( 6)
+#EXTINF: -1 group-title='Федеральные плюс', МИР ( 6)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_MIR_6.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', МИР ( 7)
+#EXTINF: -1 group-title='Федеральные плюс', МИР ( 7)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_MIR_7.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', ТНТ (-1)
+#EXTINF: -1 group-title='Федеральные плюс', ТНТ (-1)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT-1.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', ТНТ
+#EXTINF: -1 group-title='Федеральные плюс', ТНТ
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', ТНТ ( 2)
+#EXTINF: -1 group-title='Федеральные плюс', ТНТ ( 2)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT_2.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', ТНТ ( 4)
+#EXTINF: -1 group-title='Федеральные плюс', ТНТ ( 4)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT_4.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', ТНТ ( 6)
+#EXTINF: -1 group-title='Федеральные плюс', ТНТ ( 6)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT_6.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', ТНТ ( 7)
+#EXTINF: -1 group-title='Федеральные плюс', ТНТ ( 7)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT_7.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', МУЗ ТВ (-1)
+#EXTINF: -1 group-title='Федеральные плюс', МУЗ ТВ (-1)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_MUZTV-1.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', МУЗ ТВ
+#EXTINF: -1 group-title='Федеральные плюс', МУЗ ТВ
 http://dmi3y-tv.ru/hls/DVB-T2/CH_MUZTV.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', МУЗ ТВ ( 2)
+#EXTINF: -1 group-title='Федеральные плюс', МУЗ ТВ ( 2)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_MUZTV_2.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', МУЗ ТВ ( 4)
+#EXTINF: -1 group-title='Федеральные плюс', МУЗ ТВ ( 4)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_MUZTV_4.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', МУЗ ТВ ( 6)
+#EXTINF: -1 group-title='Федеральные плюс', МУЗ ТВ ( 6)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_MUZTV_6.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', МУЗ ТВ ( 7)
+#EXTINF: -1 group-title='Федеральные плюс', МУЗ ТВ ( 7)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_MUZTV_7.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Че! (-1)
+#EXTINF: -1 group-title='Федеральные плюс', Че! (-1)
 http://dmi3y-tv.ru/hls/zabava/CH_CHE-1.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Че!
+#EXTINF: -1 group-title='Федеральные плюс', Че!
 http://dmi3y-tv.ru/hls/zabava/CH_CHE.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Че! ( 2)
+#EXTINF: -1 group-title='Федеральные плюс', Че! ( 2)
 http://dmi3y-tv.ru/hls/zabava/CH_CHE_2.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Че! ( 4)
+#EXTINF: -1 group-title='Федеральные плюс', Че! ( 4)
 http://dmi3y-tv.ru/hls/zabava/CH_CHE_4.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Че! ( 6)
+#EXTINF: -1 group-title='Федеральные плюс', Че! ( 6)
 http://dmi3y-tv.ru/hls/zabava/CH_CHE_6.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Че! ( 7)
+#EXTINF: -1 group-title='Федеральные плюс', Че! ( 7)
 http://dmi3y-tv.ru/hls/zabava/CH_CHE_7.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Ю (-1)
+#EXTINF: -1 group-title='Федеральные плюс', Ю (-1)
 http://dmi3y-tv.ru/hls/zabava/CH_U-1.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Ю
+#EXTINF: -1 group-title='Федеральные плюс', Ю
 http://dmi3y-tv.ru/hls/zabava/CH_U.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Ю ( 2)
+#EXTINF: -1 group-title='Федеральные плюс', Ю ( 2)
 http://dmi3y-tv.ru/hls/zabava/CH_U_2.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Ю ( 4)
+#EXTINF: -1 group-title='Федеральные плюс', Ю ( 4)
 http://dmi3y-tv.ru/hls/zabava/CH_U_4.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Ю ( 6)
+#EXTINF: -1 group-title='Федеральные плюс', Ю ( 6)
 http://dmi3y-tv.ru/hls/zabava/CH_U_6.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Ю ( 7)
+#EXTINF: -1 group-title='Федеральные плюс', Ю ( 7)
 http://dmi3y-tv.ru/hls/zabava/CH_U_7.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', СТС Love (-1)
+#EXTINF: -1 group-title='Федеральные плюс', СТС Love (-1)
 http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE-1.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', СТС Love
+#EXTINF: -1 group-title='Федеральные плюс', СТС Love
 http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', СТС Love ( 2)
+#EXTINF: -1 group-title='Федеральные плюс', СТС Love ( 2)
 http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE_2.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', СТС Love ( 4)
+#EXTINF: -1 group-title='Федеральные плюс', СТС Love ( 4)
 http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE_4.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', 2x2
+#EXTINF: -1 group-title='Федеральные плюс', 2x2
 http://dmi3y-tv.ru/hls/zabava/CH_2X2.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', 2x2 ( 2)
+#EXTINF: -1 group-title='Федеральные плюс', 2x2 ( 2)
 http://dmi3y-tv.ru/hls/zabava/CH_2X2_2.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', 2x2 ( 4)
+#EXTINF: -1 group-title='Федеральные плюс', 2x2 ( 4)
 http://dmi3y-tv.ru/hls/zabava/CH_2X2_4.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', 2x2 ( 6)
+#EXTINF: -1 group-title='Федеральные плюс', 2x2 ( 6)
 http://dmi3y-tv.ru/hls/zabava/CH_2X2_6.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', 2x2 ( 7)
+#EXTINF: -1 group-title='Федеральные плюс', 2x2 ( 7)
 http://dmi3y-tv.ru/hls/zabava/CH_2X2_7.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Суббота! (-1)
+#EXTINF: -1 group-title='Федеральные плюс', Суббота! (-1)
 http://dmi3y-tv.ru/hls/zabava/CH_SUBBOTA-1.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Суббота!
+#EXTINF: -1 group-title='Федеральные плюс', Суббота!
 http://dmi3y-tv.ru/hls/zabava/CH_SUBBOTA.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Суббота! ( 2)
+#EXTINF: -1 group-title='Федеральные плюс', Суббота! ( 2)
 http://dmi3y-tv.ru/hls/zabava/CH_SUBBOTA_2.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Суббота! ( 4)
+#EXTINF: -1 group-title='Федеральные плюс', Суббота! ( 4)
 http://dmi3y-tv.ru/hls/zabava/CH_SUBBOTA_4.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Суббота! ( 6)
+#EXTINF: -1 group-title='Федеральные плюс', Суббота! ( 6)
 http://dmi3y-tv.ru/hls/zabava/CH_SUBBOTA_6.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Суббота! ( 7)
+#EXTINF: -1 group-title='Федеральные плюс', Суббота! ( 7)
 http://dmi3y-tv.ru/hls/zabava/CH_SUBBOTA_7.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', ТНТ4 (-1)
+#EXTINF: -1 group-title='Федеральные плюс', ТНТ4 (-1)
 http://dmi3y-tv.ru/hls/zabava/CH_TNT4-1.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', ТНТ4
+#EXTINF: -1 group-title='Федеральные плюс', ТНТ4
 http://dmi3y-tv.ru/hls/zabava/CH_TNT4.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', ТНТ4 ( 2)
+#EXTINF: -1 group-title='Федеральные плюс', ТНТ4 ( 2)
 http://dmi3y-tv.ru/hls/zabava/CH_TNT4_2.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', ТНТ4 ( 4)
+#EXTINF: -1 group-title='Федеральные плюс', ТНТ4 ( 4)
 http://dmi3y-tv.ru/hls/zabava/CH_TNT4_4.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', ТНТ4 ( 6)
+#EXTINF: -1 group-title='Федеральные плюс', ТНТ4 ( 6)
 http://dmi3y-tv.ru/hls/zabava/CH_TNT4_6.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', ТНТ4 ( 7)
+#EXTINF: -1 group-title='Федеральные плюс', ТНТ4 ( 7)
 http://dmi3y-tv.ru/hls/zabava/CH_TNT4_7.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', СТС Love ( 2)
+#EXTINF: -1 group-title='Федеральные плюс', СТС Love ( 2)
 http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE_2.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', СТС Love ( 4)
+#EXTINF: -1 group-title='Федеральные плюс', СТС Love ( 4)
 http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE_4.m3u8
-#EXTINF: -1 group-title='ИНФО:РАЗВЛЕК', LIFE TV [RUS/EST]
+#EXTINF: -1 group-title='ИНФО', LIFE TV [RUS/EST]
 http://dmi3y-tv.ru/hls/CH_LIFETV_RUSEST.m3u8
-#EXTINF: -1 group-title='ИНФО:РАЗВЛЕК', Твое ТВ HD
+#EXTINF: -1 group-title='ИНФО', Твое ТВ HD
 http://dmi3y-tv.ru/hls/CH_TVOETVHD.m3u8
-#EXTINF: -1 group-title='ИНФО:РАЗВЛЕК', МИР 24
+#EXTINF: -1 group-title='ИНФО', МИР 24
 http://dmi3y-tv.ru/hls/CH_MIR24.m3u8
-#EXTINF: -1 group-title='ИНФО:РАЗВЛЕК', Красная линия
+#EXTINF: -1 group-title='ИНФО', Красная линия
 http://dmi3y-tv.ru/hls/CH_REDLINE.m3u8
-#EXTINF: -1 group-title='ИНФО:РАЗВЛЕК', Всё ТВ
+#EXTINF: -1 group-title='ИНФО', Всё ТВ
 http://dmi3y-tv.ru/hls/zabava/CH_VSETV.m3u8
-#EXTINF: -1 group-title='ИНФО:РАЗВЛЕК', 8 канал
+#EXTINF: -1 group-title='ИНФО', 8 канал
 http://dmi3y-tv.ru/hls/CH_8CHANNEL.m3u8
-#EXTINF: -1 group-title='ИНФО:РАЗВЛЕК', E TV HD
+#EXTINF: -1 group-title='ИНФО', E TV HD
 http://dmi3y-tv.ru/hls/CH_ETVHD.m3u8
-#EXTINF: -1 group-title='ИНФО:РАЗВЛЕК', TVM Channel
-http://dmi3y-tv.ru/hls/CH_TVMCHANNEL.m3u8
-#EXTINF: -1 group-title='ИНФО:РАЗВЛЕК', Надежда HD720
+#EXTINF: -1 group-title='ИНФО', Надежда HD720
 http://dmi3y-tv.ru/hls/CH_NADEZHDAHD720.m3u8
-#EXTINF: -1 group-title='ИНФО:РАЗВЛЕК', Три Ангела
+#EXTINF: -1 group-title='ИНФО', Три Ангела
 http://dmi3y-tv.ru/hls/CH_3ANGELA.m3u8
-#EXTINF: -1 group-title='ИНФО:РАЗВЛЕК', 7tv
+#EXTINF: -1 group-title='ИНФО', 7tv
 http://dmi3y-tv.ru/hls/CH_7TV.m3u8
-#EXTINF: -1 group-title='ИНФО:РАЗВЛЕК', LIFE TV [RUS]
+#EXTINF: -1 group-title='ИНФО', LIFE TV [RUS]
 http://dmi3y-tv.ru/hls/CH_LIFETV_RUS.m3u8
-#EXTINF: -1 group-title='ИНФО:РАЗВЛЕК', Каскад-24
+#EXTINF: -1 group-title='ИНФО', Каскад-24
 http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_KASKAD/variant.m3u8
-#EXTINF: -1 group-title='ИНФО:РАЗВЛЕК', КВН ТВ
+#EXTINF: -1 group-title='ИНФО', КВН ТВ
 http://31.148.48.15:80/KVN_TV/index.m3u8?token=test
-#EXTINF: -1 group-title='ИНФО:РАЗВЛЕК', Твоё ТВ
+#EXTINF: -1 group-title='ИНФО', Твоё ТВ
 http://84.38.180.145:8080/tvoetv/index.m3u8
-#EXTINF: -1 group-title='ИНФО:РАЗВЛЕК', Телекафе
+#EXTINF: -1 group-title='ИНФО', Телекафе
 http://31.148.48.15:80/Telekafe/index.m3u8
-#EXTINF: -1 group-title='ИНФО:РАЗВЛЕК', Три Ангела
+#EXTINF: -1 group-title='ИНФО', Три Ангела
 http://hls.tv.3angels.ru/stream/HQ.m3u8
-#EXTINF: -1 group-title='ИНФО:РАЗВЛЕК', Радость Моя
+#EXTINF: -1 group-title='ИНФО', Радость Моя
 http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
-#EXTINF: -1 group-title='ИНФО:РАЗВЛЕК', Мир
+#EXTINF: -1 group-title='ИНФО', Мир
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/video_800x450_avc1/variant.m3u8
-#EXTINF: -1 group-title='ИНФО:РАЗВЛЕК', ТВ Центр
+#EXTINF: -1 group-title='ИНФО', ТВ Центр
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/video_800x450_avc1/variant.m3u8
-#EXTINF: -1 group-title='ИНФО:РАЗВЛЕК', ЛДПР ТВ
+#EXTINF: -1 group-title='ИНФО', ЛДПР ТВ
 http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
-#EXTINF: -1 group-title='ИНФО:РАЗВЛЕК', Известия HD
+#EXTINF: -1 group-title='ИНФО', Известия HD
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF: -1 group-title='ИНФО:РАЗВЛЕК', Евроновости
+#EXTINF: -1 group-title='ИНФО', Евроновости
 http://m3u8.ott.blue/watch/7045/video.m3u8?geo=auto&token=94450098895765784220366841698509
-#EXTINF: -1 group-title='ИНФО:РАЗВЛЕК', Вместе-РФ
-http://cdn-01.bonus-tv.ru:80/vmesterf/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='ИНФО:РАЗВЛЕК', Крик-ТВ
+#EXTINF: -1 group-title='ИНФО', Крик-ТВ
 http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
-#EXTINF: -1 group-title='ИНФО:РАЗВЛЕК', Москва 24
+#EXTINF: -1 group-title='ИНФО', Москва 24
 http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_MOSKOV24/variant.m3u8
-#EXTINF: -1 group-title='ИНФО:РАЗВЛЕК', Твоё ТВ HD Юмор
+#EXTINF: -1 group-title='ИНФО', Твоё ТВ HD Юмор
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
-#EXTINF: -1 group-title='ИНФО:РАЗВЛЕК', Теледом HD
+#EXTINF: -1 group-title='ИНФО', Теледом HD
 http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
-#EXTINF: -1 group-title='ИНФО:РАЗВЛЕК', Тео-ТВ
+#EXTINF: -1 group-title='ИНФО', Тео-ТВ
 http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_TEOTV/variant.m3u8
-#EXTINF: -1 group-title='ИНФО:РАЗВЛЕК', Просвещение
+#EXTINF: -1 group-title='ИНФО', Просвещение
 http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='ИНФО:РАЗВЛЕК', 555 Hunt Fishing TV
+#EXTINF: -1 group-title='ИНФО', 555 Hunt Fishing TV
 http://193.169.178.29:8081/podsekaiTV/chanelHD1080/playlist.m3u8
-#EXTINF: -1 group-title='ИНФО:РАЗВЛЕК', Эфир-24 Релакс
+#EXTINF: -1 group-title='ИНФО', Эфир-24 Релакс
 http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_EFIR/variant.m3u8
-#EXTINF: -1 group-title='ИНФО:РАЗВЛЕК', МИР HD
+#EXTINF: -1 group-title='ИНФО', МИР HD
 http://dmi3y-tv.ru/hls/T2/CH_MIRHD.m3u8
-#EXTINF: -1 group-title='ИНФО:РАЗВЛЕК', Ратник HD
+#EXTINF: -1 group-title='ИНФО', Ратник HD
 http://dmi3y-tv.ru/hls/CH_RATNIKHD.m3u8
-#EXTINF: -1 group-title='ИНФО:РАЗВЛЕК', НТВ-Мир
+#EXTINF: -1 group-title='ИНФО', НТВ-Мир
 https://streaming.goodstream.cyou/live/213.m3u8
-#EXTINF: -1 group-title='ИНФО:РАЗВЛЕК', Соловьев.Live HD
+#EXTINF: -1 group-title='ИНФО', Соловьев.Live HD
 http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1.m3u8
-#EXTINF: -1 group-title='ИНФО:РАЗВЛЕК', EuroNews
-http://ott.server-iptv.live/140/video.m3u8?token=A3b61a999e
-#EXTINF: -1 group-title='ИНФО:РАЗВЛЕК', Ностальгия
+#EXTINF: -1 group-title='ИНФО', Ностальгия
 http://178.124.152.238:8088/nostalgia
-#EXTINF: -1 group-title='ИНФО:РАЗВЛЕК', Твоё ТВ HD Юмор
+#EXTINF: -1 group-title='ИНФО', Твоё ТВ HD Юмор
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
-#EXTINF: -1 group-title='ИНФО:РАЗВЛЕК', Новый мир
-https://vm4984530.52ssd.had.wf/memfs/c31f67cb-ba7a-44e7-bffa-828c3a205f80.m3u8
-#EXTINF: -1 group-title='ИНФО:РАЗВЛЕК', Перец
-https://cdn3.skygo.mn/live/disk1/Che/HLS-FTA/Che.m3u8
-#EXTINF: -1 group-title='ИНФО:РАЗВЛЕК', Калейдоскоп ТВ
+#EXTINF: -1 group-title='ИНФО', Калейдоскоп ТВ
 https://stream-msk-08.ott.tricolor.tv/dtv/id862_MSKSG-PVR-1--Kaleydoskop/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc0MTAwNTkzOSwiaHdpZCI6IjUyNmZhZDdjYzRkMTFmYmNhNDEwNmFiOTFjNTFmNjc4NWY3ZjYxN2FmMDk5NzY0ZjczNGIxMTI2MGM4NDNlODciLCJsYXN0X3JlcV9kYXRlIjoxNzQwNDAxMTM5LCJzZXNzaW9uX2lkIjoiYjZkNjkyZDI1N2ZjNjQ0NzM1MjZjZWVmYjdkOWVhNjUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ix3vf4NI6snMQ6FXhBa6rWaboApbdaOCFXZ-CzNPCgE&curPos=24022025122116&sid=74ed220f-9145-4ff0-bee4-14351c6fa46e
-#EXTINF: -1 group-title='ИНФО:РАЗВЛЕК', КВН-ТВ
-http://65.21.85.175:8000/play/a013/index.m3u8?token=livetv
-#EXTINF: -1 group-title='ИНФО:РАЗВЛЕК', Теледом HD
+#EXTINF: -1 group-title='ИНФО', Теледом HD
 http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
-#EXTINF: -1 group-title='ИНФО:РАЗВЛЕК', E TV
+#EXTINF: -1 group-title='ИНФО', E TV
 http://stream-msk-09.ott.tricolor.tv/dtv/id484_MSKSG-PVR-1--Telekanal_E_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc0MTAwNTkzOSwiaHdpZCI6IjUyNmZhZDdjYzRkMTFmYmNhNDEwNmFiOTFjNTFmNjc4NWY3ZjYxN2FmMDk5NzY0ZjczNGIxMTI2MGM4NDNlODciLCJsYXN0X3JlcV9kYXRlIjoxNzQwNDAxMTM5LCJzZXNzaW9uX2lkIjoiYjZkNjkyZDI1N2ZjNjQ0NzM1MjZjZWVmYjdkOWVhNjUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ix3vf4NI6snMQ6FXhBa6rWaboApbdaOCFXZ-CzNPCgE&curPos=24022025122116&sid=74ed220f-9145-4ff0-bee4-14351c6fa46e
-#EXTINF: -1 group-title='ИНФО:РАЗВЛЕК', КУХНЯ-ТВ
+#EXTINF: -1 group-title='ИНФО', КУХНЯ-ТВ
 http://178.124.152.238:8088/kuhnya
-#EXTINF: -1 group-title='ИНФО:РАЗВЛЕК', Анекдот ТВ
+#EXTINF: -1 group-title='ИНФО', Анекдот ТВ
 http://stream-msk-06.ott.tricolor.tv/dtv/id358_MSKSG-PVR-1--Anekdot_TV/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc0MTAwNTkzOSwiaHdpZCI6IjUyNmZhZDdjYzRkMTFmYmNhNDEwNmFiOTFjNTFmNjc4NWY3ZjYxN2FmMDk5NzY0ZjczNGIxMTI2MGM4NDNlODciLCJsYXN0X3JlcV9kYXRlIjoxNzQwNDAxMTM5LCJzZXNzaW9uX2lkIjoiYjZkNjkyZDI1N2ZjNjQ0NzM1MjZjZWVmYjdkOWVhNjUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ix3vf4NI6snMQ6FXhBa6rWaboApbdaOCFXZ-CzNPCgE&curPos=24022025122116&sid=74ed220f-9145-4ff0-bee4-14351c6fa46e
-#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Кино и сериалы (СМОТРИМ)
-http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALY.m3u8
-#EXTINF: -1 group-title='КИНО СЕРИАЛ1', KINO 24
-http://dmi3y-tv.ru/hls/CH_KINO24.m3u8
-#EXTINF: -1 group-title='КИНО СЕРИАЛ1', КОШМАР
-http://dmi3y-tv.ru/hls/CH_KOSHMAR.m3u8
-#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Кинопоказ
-http://31.148.48.15:80/Kinopokaz/index.m3u8?token=test
-#EXTINF: -1 group-title='КИНО СЕРИАЛ1', CINEMA
-http://dmi3y-tv.ru/hls/CH_CINEMA.m3u8
-#EXTINF: -1 group-title='КИНО СЕРИАЛ1', 1FILMAX
-http://195.9.195.3:8080/hls/204708.m3u8
-#EXTINF: -1 group-title='КИНО СЕРИАЛ1', 2FILMAX
-http://195.9.195.3:8080/hls/204717.m3u8
-#EXTINF: -1 group-title='КИНО СЕРИАЛ1', ПАМЯТЬ HD
-http://92.53.64.197:5050/IPTVPLAYPAMYAT.tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF: -1 group-title='КИНО СЕРИАЛ1', УЖАСТИК HD
-http://92.53.64.197:5050/IPTVPLAYUZHASTIK.tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF: -1 group-title='КИНО СЕРИАЛ1', PROMO HD
-http://92.53.64.197:5050/IPTVPLAYPROMO.tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF: -1 group-title='КИНО СЕРИАЛ1', СМОТРИМ
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
-#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Retrovision Movies
-https://fl1001.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Кинозалы 1
-https://fl1001.bozztv.com/ushba13/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Кинозалы 2
-https://fl1001.bozztv.com/ushba14/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Кинозалы 3
-https://fl1001.bozztv.com/ushba24/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Кинозалы 4
-https://fl1001.bozztv.com/ushba26/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Кинозалы 5
-https://fl1001.bozztv.com/ushba-films-b/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Кинозалы 6
-https://fl1001.bozztv.com/ushba-films-c/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Кинозалы 7
-https://fl1001.bozztv.com/ushba-films-d/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Кинозалы 8
-https://fl1001.bozztv.com/ushba-films-e/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Кинозалы 9
-https://fl1001.bozztv.com/ushba-films-f/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Кинозалы 10
-https://fl1001.bozztv.com/ushba-films-g/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Кинозалы 11
-https://fl1001.bozztv.com/ushba-films-h/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Кинозалы 12
-https://fl1001.bozztv.com/ushba-films-i/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Кинозалы 13
-https://fl1001.bozztv.com/ushba-films-j/index.m3u8
-#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Кинозалы 14
-https://fl1001.bozztv.com/ushba-films-m/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Кинозалы 15
-https://fl1001.bozztv.com/ushba-films-p/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Кинозалы 16
-https://fl1001.bozztv.com/ushba-films-t/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Кинозалы 17
-https://fl1001.bozztv.com/ushba-films-yz/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Кинозалы 18
-https://fl1001.bozztv.com/ushba-films-n/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Кинозалы 19
-https://fl1001.bozztv.com/ushba-films-qr/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Кинозалы 20
-https://fl1001.bozztv.com/ushba-films-uv/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Кинозалы 21
-https://fl1001.bozztv.com/ushba-films-o/index.m3u8
-#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Кинозалы 22
-https://fl1001.bozztv.com/ushba-films-s/index.m3u8
-#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Кинозалы 23
-https://fl1001.bozztv.com/ushba-films-w/index.m3u8
-#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Кинозалы 24
-https://fl1001.bozztv.com/ushba-rfilrms-0/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Кинозалы 25
-https://fl1001.bozztv.com/ushba-rfilrms-a/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Кинозалы 26
-https://fl1001.bozztv.com/ushba-rfilrms-b/index.m3u8
-#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Кинозалы 27
-https://fl1001.bozztv.com/ushba-rfilrms-c/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Кинозалы 28
-https://fl1001.bozztv.com/ushba-rfilrms-d/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Кинозалы 29
-https://fl1001.bozztv.com/ushba-rfilrms-e/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Кинозалы 30
-https://fl1001.bozztv.com/ushba-rfilrms-g/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Кинозалы 31
-https://fl1001.bozztv.com/ushba-rfilrms-i/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Кинозалы 32
-https://fl1001.bozztv.com/ushba-rfilrms-k/index.m3u8
-#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Кинозалы 33
-https://fl1001.bozztv.com/ushba-rfilrms-p/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Кинозалы 34
-https://fl1001.bozztv.com/ushba-rfilrms-v/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Кинозалы 35
-https://fl1001.bozztv.com/ushba-rfilrms-z/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Кино и сериалы HD (СМОТРИМ)
-http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALYHD.m3u8
-#EXTINF: -1 group-title='КИНО СЕРИАЛ1', КИНО ТВ
-http://dmi3y-tv.ru/hls/CH_KINOTV.m3u8
-#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Viju TV1000 Русское
-http://130.193.73.10:8937/play/a02u
-#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Viju TV1000 Action
-http://130.193.73.10:8937/play/a02t
-#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Cinema Космос ТВ
-http://178.124.152.238:8088/cinema
-#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Viasat Kino World
-https://wowza1.leisertv.com/live/tv1000russiakino.stream/playlist.m3u8
-#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Amedia Premium HD
-http://195.18.23.20:8000/play/3/index.m3u8
-#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Ретро ТВ
-http://194.158.218.123:8880/Retrotv/index.m3u8
-#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Дом кино
-https://streaming.goodstream.cyou/live/44.m3u8
-#EXTINF: -1 group-title='ДЕТСКИ1', Ералаш
+#EXTINF: -1 group-title='Детские', Ералаш
 https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='ДЕТСКИ1', Ani
-http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigher.m3u8
-#EXTINF: -1 group-title='ДЕТСКИ1', МультСказки HD
-http://92.53.64.197:5050/IPTVPLAYMultSkazki.tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF: -1 group-title='ДЕТСКИ1', Солнце (-1)
-http://dmi3y-tv.ru/hls/zabava/CH_DISNEY-1.m3u8
-#EXTINF: -1 group-title='ДЕТСКИ1', Солнце
+#EXTINF: -1 group-title='Детские', Солнце
 http://dmi3y-tv.ru/hls/zabava/CH_DISNEY.m3u8
-#EXTINF: -1 group-title='ДЕТСКИ1', Солнце ( 2)
+#EXTINF: -1 group-title='Детские', Солнце ( 2)
 http://dmi3y-tv.ru/hls/zabava/CH_DISNEY_2.m3u8
-#EXTINF: -1 group-title='ДЕТСКИ1', Солнце ( 4)
+#EXTINF: -1 group-title='Детские', Солнце ( 4)
 http://dmi3y-tv.ru/hls/zabava/CH_DISNEY_4.m3u8
-#EXTINF: -1 group-title='ДЕТСКИ1', Солнце ( 6)
+#EXTINF: -1 group-title='Детские', Солнце ( 6)
 http://dmi3y-tv.ru/hls/zabava/CH_DISNEY_6.m3u8
-#EXTINF: -1 group-title='ДЕТСКИ1', Солнце ( 7)
+#EXTINF: -1 group-title='Детские', Солнце ( 7)
 http://dmi3y-tv.ru/hls/zabava/CH_DISNEY_7.m3u8
-#EXTINF: -1 group-title='ДЕТСКИ1', Радость моя
+#EXTINF: -1 group-title='Детские', Радость моя
 http://dmi3y-tv.ru/hls/CH_RADOSTMOYA.m3u8
-#EXTINF: -1 group-title='ДЕТСКИ1', МУЛЬТ
+#EXTINF: -1 group-title='Детские', МУЛЬТ
 http://dmi3y-tv.ru/hls/CH_MULT.m3u8
-#EXTINF: -1 group-title='ДЕТСКИ1', МУЛЬТ И МУЗЫКА
+#EXTINF: -1 group-title='Детские', МУЛЬТ И МУЗЫКА
 http://dmi3y-tv.ru/hls/CH_MULTIMUZYKA.m3u8
-#EXTINF: -1 group-title='ДЕТСКИ1', Ani
+#EXTINF: -1 group-title='Детские', Ani
 http://dmi3y-tv.ru/hls/CH_ANI.m3u8
-#EXTINF: -1 group-title='ДЕТСКИ1', Карусель
+#EXTINF: -1 group-title='Детские', Карусель
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/video_800x450_avc1/variant.m3u8
-#EXTINF: -1 group-title='ДЕТСКИ1', Смайлик ТВ
-https://5d23269b3ec0c.streamlock.net/WEB_Smilik/Smilik.stream/playlist.m3u8
-#EXTINF: -1 group-title='ДЕТСКИ1', 2x2
+#EXTINF: -1 group-title='Детские', 2x2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/video_800x450_avc1/variant.m3u8
-#EXTINF: -1 group-title='ДЕТСКИ1', Мульт HD
-http://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
-#EXTINF: -1 group-title='ДЕТСКИ1', Пингвин Лоло
-http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='ДЕТСКИ1', Мамонтёнок
-http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='ДЕТСКИ1', Детский телеканал Мультимания
-http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='ДЕТСКИ1', МУЛЬТ HD
-http://dmi3y-tv.ru/hls/CH_MULTHD.m3u8
-#EXTINF: -1 group-title='ДЕТСКИ1', МАМА
-http://dmi3y-tv.ru/hls/CH_MAMA.m3u8
-#EXTINF: -1 group-title='Познаватель1', Вот ТВ HD
-http://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_VOTTV/variant.m3u8
-#EXTINF: -1 group-title='Познаватель1', 12 Канал HD
-http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
-#EXTINF: -1 group-title='Познаватель1', Аист
-http://141.101.205.134:8080/hls/tvaist.m3u8
-#EXTINF: -1 group-title='Познаватель1', Теледом ТВ
-http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
-#EXTINF: -1 group-title='Познаватель1', к16
-http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
-#EXTINF: -1 group-title='Познаватель1', Ветта 24
-http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
-#EXTINF: -1 group-title='Познаватель1', Известия ТВ
-http://hls-igi.cdnvideo.ru/igi/igi_lq/playlist.m3u8
-#EXTINF: -1 group-title='Познаватель1', РЖД ТВ
-http://hls.tva.cdnvideo.ru/tva/tva.sdp/playlist.m3u8
-#EXTINF: -1 group-title='Познаватель1', ТРК Евразия
-http://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
-#EXTINF: -1 group-title='Познаватель1', Наш Дом
-http://85.234.33.63/stream/c11.m3u8
-#EXTINF: -1 group-title='Познаватель1', Радость Моя
-https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
-#EXTINF: -1 group-title='Познаватель1', Эхо ТВ
-https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
-#EXTINF: -1 group-title='Познаватель1', Прима
-http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playlist.m3u8
-#EXTINF: -1 group-title='Познаватель1', Univer TV
-http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
-#EXTINF: -1 group-title='Познаватель1', ПРОДВИЖЕНИЕ
-http://dmi3y-tv.ru/hls/CH_PRODVIZHENIE.m3u8
-#EXTINF: -1 group-title='Познаватель1', Ратник
-http://dmi3y-tv.ru/hls/CH_RATNIK.m3u8
-#EXTINF: -1 group-title='Познаватель1', Звезда Плюс
-http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
-#EXTINF: -1 group-title='Познаватель1', МосОбр ТВ
-http://retc.educom.ru/mosobrtv/tv1/index.m3u8
-#EXTINF: -1 group-title='Познаватель1', Нано
-http://s1.tv-nano.com/Nano_rec/video.m3u8
-#EXTINF: -1 group-title='Познаватель1', Просвещение
-https://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8
-#EXTINF: -1 group-title='Познаватель1', Ратник
-http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
-#EXTINF: -1 group-title='Познаватель1', RT Doc
-https://hls.rt.com/hls/rtdru.m3u8
-#EXTINF: -1 group-title='Познаватель1', Эхо TV
-https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
-#EXTINF: -1 group-title='Познаватель1', Star Media
-https://fl1001.bozztv.com/ushba4/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='Познаватель1', Документалка 1
-https://fl1001.bozztv.com/ushba28/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='Познаватель1', Документалка 3
-https://fl1001.bozztv.com/ushba38/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='Познаватель1', Viju Nature
-http://130.193.73.10:8937/play/a01k
-#EXTINF: -1 group-title='Познаватель1', Viju Explore
-http://130.193.73.10:8937/play/a01j
-#EXTINF: -1 group-title='Познаватель1', Viju+ Planet HD
-http://130.193.73.10:8937/play/a01l
-#EXTINF: -1 group-title='Познаватель1', Terra HD
-http://130.193.73.10:8937/play/a01g
-#EXTINF: -1 group-title='Познаватель1', Nat Geo Wild СНГ HD
-http://78.130.250.2:8023/play/a02c/index.m3u8
-#EXTINF: -1 group-title='Познаватель1', History
-http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
-#EXTINF: -1 group-title='Познаватель1', ТСВ
-http://iptv-hls.idc.md:8200/hls/2/live1.m3u8
-#EXTINF: -1 group-title='Познаватель1', Моя Планета
-http://tv.streams.baikal-telecom.net:8080/Moya_Planeta/index.m3u8
-#EXTINF: -1 group-title='Познаватель1', Домашние животные
-http://130.193.73.10:8937/play/a02d
-#EXTINF: -1 group-title='Познаватель1', Просвещение
-http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='Познаватель1', 360° Международный HD
-http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/mono.m3u8
-#EXTINF: -1 group-title='Познаватель1', Первый Космический HD
-http://stream-msk-03.ott.tricolor.tv/dtv/id159_MSKSG-PVR-1--HD_Eureka/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc0MTAwNTkzOSwiaHdpZCI6IjUyNmZhZDdjYzRkMTFmYmNhNDEwNmFiOTFjNTFmNjc4NWY3ZjYxN2FmMDk5NzY0ZjczNGIxMTI2MGM4NDNlODciLCJsYXN0X3JlcV9kYXRlIjoxNzQwNDAxMTM5LCJzZXNzaW9uX2lkIjoiYjZkNjkyZDI1N2ZjNjQ0NzM1MjZjZWVmYjdkOWVhNjUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ix3vf4NI6snMQ6FXhBa6rWaboApbdaOCFXZ-CzNPCgE&curPos=24022025122116&sid=74ed220f-9145-4ff0-bee4-14351c6fa46e
-#EXTINF: -1 group-title='Познаватель1', Усадьба
-http://194.158.218.123:8880/Usadba/index.m3u8
-#EXTINF: -1 group-title='Познаватель1', Загородная жизнь
-http://185.57.68.33/40/mpegts
-#EXTINF: -1 group-title='Познаватель1', Big Planet
-http://109.200.130.123:7537/play/a02j
-#EXTINF: -1 group-title='Познаватель1', RTG HD
-http://tv.streams.baikal-telecom.net:8080/RTG_HD/index.m3u8
-#EXTINF: -1 group-title='Познаватель1', RTG TV
-http://178.124.152.238:8088/rtg
-#EXTINF: -1 group-title='СПОРТ1', Матч! (Архив)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
-#EXTINF: -1 group-title='СПОРТ1', Матч ТВ
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/video_800x450_avc1/variant.m3u8
-#EXTINF: -1 group-title='СПОРТ1', Red Bull TV
-http://dmi3y-tv.ru/hls/CH_REDBULLTV.m3u8
-#EXTINF: -1 group-title='СПОРТ1', M-1 Global
-http://stream-msk-10.ott.tricolor.tv/dtv/id524_MSKSG-PVR-1--M1_Global/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc0MTAwNTkzOSwiaHdpZCI6IjUyNmZhZDdjYzRkMTFmYmNhNDEwNmFiOTFjNTFmNjc4NWY3ZjYxN2FmMDk5NzY0ZjczNGIxMTI2MGM4NDNlODciLCJsYXN0X3JlcV9kYXRlIjoxNzQwNDAxMTM5LCJzZXNzaW9uX2lkIjoiYjZkNjkyZDI1N2ZjNjQ0NzM1MjZjZWVmYjdkOWVhNjUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ix3vf4NI6snMQ6FXhBa6rWaboApbdaOCFXZ-CzNPCgE&curPos=24022025122116&sid=74ed220f-9145-4ff0-bee4-14351c6fa46e
-#EXTINF: -1 group-title='СПОРТ1', Eurosport 2
-http://rr2.73mtv.org/~109e1a3c05fcad5b22d13b9453dc0db5122/58/hls/pl.m3u8
-#EXTINF: -1 group-title='СПОРТ1', Старт HD
-http://stream-msk-13.ott.tricolor.tv/dtv/id625_MSKSG-PVR-1--Start/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc0MTAwNTkzOSwiaHdpZCI6IjUyNmZhZDdjYzRkMTFmYmNhNDEwNmFiOTFjNTFmNjc4NWY3ZjYxN2FmMDk5NzY0ZjczNGIxMTI2MGM4NDNlODciLCJsYXN0X3JlcV9kYXRlIjoxNzQwNDAxMTM5LCJzZXNzaW9uX2lkIjoiYjZkNjkyZDI1N2ZjNjQ0NzM1MjZjZWVmYjdkOWVhNjUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ix3vf4NI6snMQ6FXhBa6rWaboApbdaOCFXZ-CzNPCgE&curPos=24022025122116&sid=74ed220f-9145-4ff0-bee4-14351c6fa46e
-#EXTINF: -1 group-title='СПОРТ1', Матч! Арена
-http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
-#EXTINF: -1 group-title='СПОРТ1', KHL
-http://178.124.152.238:8088/khl
-#EXTINF: -1 group-title='СПОРТ1', КХЛ HD
-http://tv.streams.baikal-telecom.net:8080/KHL_HD/mpegts
-#EXTINF: -1 group-title='СПОРТ1', NHL (Интересные моменты)
-https://nhl-firetv.amagi.tv/playlist.m3u8
-#EXTINF: -1 group-title='СПОРТ1', ТВ Спорт
-http://stream-msk-06.ott.tricolor.tv/dtv/id733_MSKSG-PVR-1--Sportivnii/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc0MTAwNTkzOSwiaHdpZCI6IjUyNmZhZDdjYzRkMTFmYmNhNDEwNmFiOTFjNTFmNjc4NWY3ZjYxN2FmMDk5NzY0ZjczNGIxMTI2MGM4NDNlODciLCJsYXN0X3JlcV9kYXRlIjoxNzQwNDAxMTM5LCJzZXNzaW9uX2lkIjoiYjZkNjkyZDI1N2ZjNjQ0NzM1MjZjZWVmYjdkOWVhNjUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ix3vf4NI6snMQ6FXhBa6rWaboApbdaOCFXZ-CzNPCgE&curPos=24022025122116&sid=74ed220f-9145-4ff0-bee4-14351c6fa46e
-#EXTINF: -1 group-title='СПОРТ1', Конный мир HD
-http://cdn-01.bonus-tv.ru/kmir/mono.m3u8
-#EXTINF: -1 group-title='СПОРТ1', Астрахань Спорт
-http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
-#EXTINF: -1 group-title='СПОРТ1', Мир баскетбола
-http://130.193.73.10:8937/play/a04m
-#EXTINF: -1 group-title='СПОРТ1', Extreme sports
-http://109.200.130.123:7537/play/a02p
-#EXTINF: -1 group-title='СПОРТ1', IMPACT Wrestling
-https://d2tuwvs0ja335j.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF: -1 group-title='СПОРТ1', A21 Network
-https://tv.a21network.ru/content/37909/index.m3u8
-#EXTINF: -1 group-title='СПОРТ1', Canal Motor
-http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
-#EXTINF: -1 group-title='СПОРТ1', Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Джон Уик 2 [США/2017]
-http://dmi3y-tv.ru/hls/film/DJONUIK2.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Джон Уик 3 [США/2019]
-http://dmi3y-tv.ru/hls/film/DJONUIK3.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Другой мир [США/2003]
-http://dmi3y-tv.ru/hls/film/DRUGOYMIR.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Другой мир 2: Эволюция [США/2006]
-http://dmi3y-tv.ru/hls/film/DRUGOYMIR2.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Другой мир. Восстание ликанов [США/2008]
-http://dmi3y-tv.ru/hls/film/DRUGOYMIR_VOSSTANIE_LIKANOV.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Другой мир. Войны крови [США/2016]
-http://dmi3y-tv.ru/hls/film/DRUGOYMIR_VOINY_KROVI.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Прогулка среди могил [США/2014]
-http://dmi3y-tv.ru/hls/film/PSM.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Книга Илая [США/2010]
-http://dmi3y-tv.ru/hls/film/KNIGAILAYA.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Остров проклятых [США/2009]
-http://dmi3y-tv.ru/hls/film/OP.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Медальон [США/2012]
-http://dmi3y-tv.ru/hls/film/MEDALON.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Иностранец [США/2017]
-http://dmi3y-tv.ru/hls/film/INOSTRANETZ.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Репродукция [США/2018]
-http://dmi3y-tv.ru/hls/film/REPRODUKCIYA.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Ловушка времени [США/2017]
-http://dmi3y-tv.ru/hls/film/LOVUSHKA_VREMENI.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Морской бой [США/2012]
-http://dmi3y-tv.ru/hls/film/MORSKOY_BOY.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', После нашей эры [США/2013]
-http://dmi3y-tv.ru/hls/film/POSLE_NASHEY_ERY.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Разлом времени [США/2017]
-http://dmi3y-tv.ru/hls/film/RAZLOM_VREMENI.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Соник в кино [США/2020]
-http://dmi3y-tv.ru/hls/film/SONIC_V_KINO.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Сквозь снег [США/2013]
-http://dmi3y-tv.ru/hls/film/SKVOZ_SNEG.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Ван Хельсинг [США/2004]
-http://dmi3y-tv.ru/hls/film/VAN_HELSING.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Черная дыра [США/2000]
-http://dmi3y-tv.ru/hls/film/CHERNAYA_DYRA.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Хроники Риддика [США/2004]
-http://dmi3y-tv.ru/hls/film/HRONIKI_RIDDIKA.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Дивергент [США/2014]
-http://dmi3y-tv.ru/hls/film/DIVERGENT.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Дивергент. глава 2: Инсургент [США/2015]
-http://dmi3y-tv.ru/hls/film/DIVERGENT2_INSURGENT.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Морские паразиты [США/2019]
-http://dmi3y-tv.ru/hls/film/MORSKIE_PARAZITY.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', 47 ронинов [США/2013]
-http://dmi3y-tv.ru/hls/film/47RONINOV.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Джек Ричер [США/2012]
-http://dmi3y-tv.ru/hls/film/DZHEK_RICHER.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Джек Ричер 2: Никогда не возвращайся [США/2016]
-http://dmi3y-tv.ru/hls/film/DZHEK_RICHER2.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Смокинг [США/2002]
-http://dmi3y-tv.ru/hls/film/SMOKING.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Патруль времени [КИТАЙ/2010]
-http://dmi3y-tv.ru/hls/film/PATRUL_VREMENI.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Черная молния [РОССИЯ/2009]
-http://dmi3y-tv.ru/hls/film/CHERNAYA_MOLNIYA.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Интерстеллар [США/2014]
-http://dmi3y-tv.ru/hls/film/INTERSTELLAR.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Гемини [США/2019]
-http://dmi3y-tv.ru/hls/film/GEMINI.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Человек из стали [США/2013]
-http://dmi3y-tv.ru/hls/film/CHELOVEK_IZ_STALI.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Матрица [США/1999]
-http://dmi3y-tv.ru/hls/film/THE_MATRIX.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Матрица: Перезагрузка [США/2003]
-http://dmi3y-tv.ru/hls/film/THE_MATRIX_PEREZAGRUZKA.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Матрица: Революция [США/2003]
-http://dmi3y-tv.ru/hls/film/THE_MATRIX_REVOLYUCIYA.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Пол: Секретный материальчик [США/2011]
-http://dmi3y-tv.ru/hls/film/POL_SEKRETNY_MATERIALCHIK.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Потрошители [США/2009]
-http://dmi3y-tv.ru/hls/film/POTROSHITELI.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Дитя робота [США/2018]
-http://dmi3y-tv.ru/hls/film/DITYA_ROBOTA.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Где-то во времени [США/2018]
-http://dmi3y-tv.ru/hls/film/GDETO_VO_VREMENI.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Ремнант: Всё ещё вижу тебя [США/2018]
-http://dmi3y-tv.ru/hls/film/REMNANT_VSE_ESHE_VIZHU_TEBYA.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Пришелец [РОССИЯ/2018]
-http://dmi3y-tv.ru/hls/film/PRISHELEC.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Континуум [США/2014]
-http://dmi3y-tv.ru/hls/film/KONTINUUM.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Гравитация [США/2013]
-http://dmi3y-tv.ru/hls/film/GRAVITACIYA.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Обливион [США/2013]
-http://dmi3y-tv.ru/hls/film/OBLIVION.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Призрачный патруль [США/2013]
-http://dmi3y-tv.ru/hls/film/PRIZRACHNY_PATRUL.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Фантом [РОССИЯ/США/2011]
-http://dmi3y-tv.ru/hls/film/FANTOM.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Я легенда [США/2007]
-http://dmi3y-tv.ru/hls/film/YA_LEGENDA.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Нечто [США/2011]
-http://dmi3y-tv.ru/hls/film/NECHTO.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Призрак [РОССИЯ/2015]
-http://dmi3y-tv.ru/hls/film/PRIZRAK.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Кловерфилд 10 [США/2016]
-http://dmi3y-tv.ru/hls/film/KLOVERFILD.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Потерянный остров [РОССИЯ/2019]
-http://dmi3y-tv.ru/hls/film/POTERYANNY_OSTROV.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Джиперс Криперс [США/2001]
-http://dmi3y-tv.ru/hls/film/DZHIPERS_KRIPERS.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Поезд в Пусан [КОРЕЯ/2016]
-http://dmi3y-tv.ru/hls/film/POEZDVPUSAN.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Проклятие Спящей красавицы [США/2015]
-http://dmi3y-tv.ru/hls/film/PROKLYATIESPYASHEYKRASAVITSY.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Аниара: Космическая обитель [США/2018]
-http://dmi3y-tv.ru/hls/film/ANIARA_KOSMICHESKAYAOBITEL.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Ледяной капкан [США/2020]
-http://dmi3y-tv.ru/hls/film/LEDYANOY_KAPKAN.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Салют-7 [РОССИЯ/2017]
-http://dmi3y-tv.ru/hls/film/SALYUT7.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Мумия [США/1999]
-http://dmi3y-tv.ru/hls/film/MUMIYA.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Мумия возвращается [США/2001]
-http://dmi3y-tv.ru/hls/film/MUMIYA_VOZVRASHAETSYA.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Мумия: Гробница Императора Драконов [США/2008]
-http://dmi3y-tv.ru/hls/film/MUMIYA_GROBNITSAIMPERATORADRAKONOV.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Царь скорпионов [США/2002]
-http://dmi3y-tv.ru/hls/film/TSAR_SKORPIONOV.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Тёмная башня [США/2017]
-http://dmi3y-tv.ru/hls/film/TEMNAYA_BASHNYA.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Война миров Z [США/2013]
-http://dmi3y-tv.ru/hls/film/VOYNA_MIROV_Z.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Новый Человек-паук: Высокое напряжение [США/2014]
-http://dmi3y-tv.ru/hls/film/NEW_CHELOVEK_PAUK_VYSOKOENAPRYAZHENIE.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Человек-паук. Возвращение домой [США/2017]
-http://dmi3y-tv.ru/hls/film/CHELOVEK_PAUK_VOZVRASHENIEDOMOY.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Человек-паук: Вдали от дома [США/2019]
-http://dmi3y-tv.ru/hls/film/CHELOVEK_PAUK_VDALI_OT_DOMA.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Веном [США/2018]
-http://dmi3y-tv.ru/hls/film/VENOM.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Дитя человеческое [США/2006]
-http://dmi3y-tv.ru/hls/film/DITYA_CHELOVECHESKOE.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Водный мир [США/1995]
-http://dmi3y-tv.ru/hls/film/VODNYI_MIR.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Ёлки [РОССИЯ/2010]
-http://dmi3y-tv.ru/hls/film/ELKI.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Ёлки 2 [РОССИЯ/2011]
-http://dmi3y-tv.ru/hls/film/ELKI2.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Ёлки 3 [РОССИЯ/2013]
-http://dmi3y-tv.ru/hls/film/ELKI3.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Ёлки 1914 [РОССИЯ/2014]
-http://dmi3y-tv.ru/hls/film/ELKI1914.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Ёлки 5 [РОССИЯ/2016]
-http://dmi3y-tv.ru/hls/film/ELKI5.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Ёлки новые [РОССИЯ/2017]
-http://dmi3y-tv.ru/hls/film/ELKI_NOVYE.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Ёлки лохматые [РОССИЯ/2014]
-http://dmi3y-tv.ru/hls/film/ELKI_LOHMATYE.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Джунгли [РОССИЯ/2012]
-http://dmi3y-tv.ru/hls/film/DZHUNGLI.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Наша Russia: Яйца судьбы [РОССИЯ/2010]
-http://dmi3y-tv.ru/hls/film/NASHA_RUSSIA_YAYTSASUDBY.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Призрачный гонщик [США/2007]
-http://dmi3y-tv.ru/hls/film/PRIZRACHNY_GONSHIK.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Трансформеры [США/2007]
-http://dmi3y-tv.ru/hls/film/TRANSFORMERY.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Трансформеры 2: Месть падших [США/2009]
-http://dmi3y-tv.ru/hls/film/TRANSFORMERY2.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Трансформеры 3: Темная сторона Луны [США/2011]
-http://dmi3y-tv.ru/hls/film/TRANSFORMERY3.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Трансформеры 4: Эпоха истребления [США/2014]
-http://dmi3y-tv.ru/hls/film/TRANSFORMERY4.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Трансформеры 5: Последний рыцарь [США/2017]
-http://dmi3y-tv.ru/hls/film/TRANSFORMERY5.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Бамблби [США/2018]
-http://dmi3y-tv.ru/hls/film/BAMBLBI.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Последний киногерой [США/1993]
-http://dmi3y-tv.ru/hls/film/POSLEDNIY_KINOGEROY.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Терминатор. Да придет спаситель [США/2009]
-http://dmi3y-tv.ru/hls/film/TERMINATOR_DA_PRIDET_SPASITEL.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Терминатор: Генезис [США/2015]
-http://dmi3y-tv.ru/hls/film/TERMINATOR_GENEZIS.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Человек на Луне [США/2018]
-http://dmi3y-tv.ru/hls/film/CHELOVEK_NA_LUNE.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Боевой робот номер 4 [США/2020]
-http://dmi3y-tv.ru/hls/film/BOEVOY_ROBOT_N4.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Черепашки-ниндзя [США/2014]
-http://dmi3y-tv.ru/hls/film/CHEREPASHKI_NINDZYA.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Черепашки-ниндзя 2 [США/2016]
-http://dmi3y-tv.ru/hls/film/CHEREPASHKI_NINDZYA2.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Шестой день [США/2000]
-http://dmi3y-tv.ru/hls/film/6_DEN.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Хэнкок [США/2008]
-http://dmi3y-tv.ru/hls/film/HENKOK.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Назад в будущее 2 [США/1989]
-http://dmi3y-tv.ru/hls/film/NAZAD_V_BUDUSHEE2.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Кладбище домашних животных [США/2019]
-http://dmi3y-tv.ru/hls/film/KLADBISHE_DOMASHNIH_ZHIVOTNYH.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Дракулов [РОССИЯ/2021]
-http://dmi3y-tv.ru/hls/film/DRAKULOV.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Живое [США/2017]
-http://dmi3y-tv.ru/hls/film/ZHIVOE.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Охотники на ведьм [США/2012]
-http://dmi3y-tv.ru/hls/film/OHOTNIKI_NA_VEDM.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Звонок 2 [США/2005]
-http://dmi3y-tv.ru/hls/film/ZVONOK2.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Дом напротив [США/2016]
-http://dmi3y-tv.ru/hls/film/DOM_NAPROTIV.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Злой дух [КАНАДА/2017]
-http://dmi3y-tv.ru/hls/film/ZLOY_DUH.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Добро пожаловать в Зомбилэнд! [США/2009]
-http://dmi3y-tv.ru/hls/film/DOBRO_POZHALOVAT_V_ZOMBILEND.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Судная ночь 2 [США/2014]
-http://dmi3y-tv.ru/hls/film/SUDNAYA_NOCH2.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Судная ночь 3 [США/2016]
-http://dmi3y-tv.ru/hls/film/SUDNAYA_NOCH3.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Судная ночь навсегда [США/2021]
-http://dmi3y-tv.ru/hls/film/SUDNAYA_NOCH_NAVSEGDA.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Крик [США/1996]
-http://dmi3y-tv.ru/hls/film/KRIK.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Крик 2 [США/1997]
-http://dmi3y-tv.ru/hls/film/KRIK2.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Крик 3 [США/1997]
-http://dmi3y-tv.ru/hls/film/KRIK3.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Пиковая дама: Зазеркалье [РОССИЯ/2018]
-http://dmi3y-tv.ru/hls/film/PIKOVAYA_DAMA_ZAZERKALE.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', мама! [США/2017]
-http://dmi3y-tv.ru/hls/film/MAMA.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Пассажиры [США/2016]
-http://dmi3y-tv.ru/hls/film/PASSAZHIRY.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Охотники за привидениями 2 [США/1989]
-http://dmi3y-tv.ru/hls/film/OHOTNIKI_ZA_PRIVIDENIYAMI2.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Другие [США/2001]
-http://dmi3y-tv.ru/hls/film/DRUGIE.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Девушка в поезде [США/2016]
-http://dmi3y-tv.ru/hls/film/DEVUSHKA_V_POEZDE.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Астрал 2 [США/2013]
-http://dmi3y-tv.ru/hls/film/ASTRAL2.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Астрал 3 [США/2015]
-http://dmi3y-tv.ru/hls/film/ASTRAL3.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Астрал 4: Последний ключ [США/2018]
-http://dmi3y-tv.ru/hls/film/ASTRAL4.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Вирус страха [США/2020]
-http://dmi3y-tv.ru/hls/film/VIRUS_STRAHA.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Слендермен [США/2018]
-http://dmi3y-tv.ru/hls/film/SLENDERMEN.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Детские игры 2 [США/1990]
-http://dmi3y-tv.ru/hls/film/DETSKIE_IGRY2.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Детские игры 3 [США/1991]
-http://dmi3y-tv.ru/hls/film/DETSKIE_IGRY3.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Потомство Чаки [США/2004]
-http://dmi3y-tv.ru/hls/film/POTOMSTVO_CHAKI.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Легенда Зорро [США/2005]
-http://dmi3y-tv.ru/hls/film/LEGENDA_ZORRO.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Хранитель времени [США/2011]
-http://dmi3y-tv.ru/hls/film/HRANITEL_VREMENI.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Капкан времени [США/2005]
-http://dmi3y-tv.ru/hls/film/KAPKAN_VREMENI.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Братья Гримм [США/2005]
-http://dmi3y-tv.ru/hls/film/BRATYA_GRIMM.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Ангелы Чарли 2: Только вперед [США/2003]
-http://dmi3y-tv.ru/hls/film/ANGELY_CHARLI2.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Ангелы Чарли [США/2019]
-http://dmi3y-tv.ru/hls/film/ANGELY_CHARLI_2019.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Джуманджи: Новый уровень [США/2019]
-http://dmi3y-tv.ru/hls/film/DZHUMANDZHI_NEW_UROVEN.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Доспехи бога: В поисках сокровищ [КНР/США/2017]
-http://dmi3y-tv.ru/hls/film/DOSPEHIBOGA_V_POISKAH_SOKROVISH.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Люди в черном [США/1997]
-http://dmi3y-tv.ru/hls/film/LYUDI_V_CHERNOM.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Люди в черном. Интернэшнл [США/2019]
-http://dmi3y-tv.ru/hls/film/LYUDI_V_CHERNOM_INT.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Агент Джонни Инглиш [США/2003]
-http://dmi3y-tv.ru/hls/film/AGENT_DZHONNI_INGLISH.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Агент Джонни Инглиш: Перезагрузка [США/2011]
-http://dmi3y-tv.ru/hls/film/AGENT_DZHONNI_INGLISH_PEREZAGRUZKA.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Время [США/2021]
-http://dmi3y-tv.ru/hls/film/VREMYA.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Форсаж 9 [США/2021]
-http://dmi3y-tv.ru/hls/film/FORSAZH9.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Ледокол [РОССИЯ/2016]
-http://dmi3y-tv.ru/hls/film/LEDOKOL.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Пришельцы на чердаке [США/2009]
-http://dmi3y-tv.ru/hls/film/PRISHELTSY_NA_CHERDAKE.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Знакомьтесь: Дэйв [США/2008]
-http://dmi3y-tv.ru/hls/film/ZNAKOMTES_DEYV.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Тысяча слов [США/2009]
-http://dmi3y-tv.ru/hls/film/1000SLOV.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Библиотекарь 2: Возвращение в Копи Царя Соломона [США/2006]
-http://dmi3y-tv.ru/hls/film/BIBLIOTEKAR2.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Библиотекарь 3: Проклятие иудовой чаши [США/2008]
-http://dmi3y-tv.ru/hls/film/BIBLIOTEKAR3.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Белоснежка и охотник [США/2012]
-http://dmi3y-tv.ru/hls/film/BELOSNEZHKA_I_OHOTNIK.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Разлом [США/2018]
-http://dmi3y-tv.ru/hls/film/RAZLOM.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Выкрутасы [РОССИЯ/2010]
-http://dmi3y-tv.ru/hls/film/VYKRUTASY.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', День выборов [РОССИЯ/2007]
-http://dmi3y-tv.ru/hls/film/DEN_VYBOROV.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Плохие парни навсегда [США/2020]
-http://dmi3y-tv.ru/hls/film/PLOHIE_PARNI_NAVSEGDA.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Дом большой мамочки [США/2000]
-http://dmi3y-tv.ru/hls/film/DOM_BOLSHOY_MAMOCHKI.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Дом большой мамочки 2 [США/2006]
-http://dmi3y-tv.ru/hls/film/DOM_BOLSHOY_MAMOCHKI2.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Представь себе [США/2008]
-http://dmi3y-tv.ru/hls/film/PREDSTAV_SEBE.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Эван Всемогущий [США/2007]
-http://dmi3y-tv.ru/hls/film/EVAN_VSEMOGUSHIY.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Бросок кобры [США/2009]
-http://dmi3y-tv.ru/hls/film/BROSOK_KOBRY.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Бросок кобры 2 [США/2013]
-http://dmi3y-tv.ru/hls/film/BROSOK_KOBRY2.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Стартрек: Бесконечность [США/2016]
-http://dmi3y-tv.ru/hls/film/STARTREK_BESKONECHNOST.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Миссия невыполнима [США/1996]
-http://dmi3y-tv.ru/hls/film/MISSIYA_NEVYPOLNIMA.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Миссия невыполнима 2 [США/2000]
-http://dmi3y-tv.ru/hls/film/MISSIYA_NEVYPOLNIMA2.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Миссия невыполнима 3 [США/2006]
-http://dmi3y-tv.ru/hls/film/MISSIYA_NEVYPOLNIMA3.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Миссия невыполнима: Протокол Фантом [США/2011]
-http://dmi3y-tv.ru/hls/film/MISSIYA_NEVYPOLNIMA_PROTOKOL_FANTOM.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Миссия невыполнима: Племя изгоев [США/2015]
-http://dmi3y-tv.ru/hls/film/MISSIYA_NEVYPOLNIMA_PLEMYA_IZGOEV.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Миссия невыполнима: Последствия [США/2018]
-http://dmi3y-tv.ru/hls/film/MISSIYA_NEVYPOLNIMA_POSLEDSTVIYA.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Лара Крофт: Расхитительница гробниц [США/2001]
-http://dmi3y-tv.ru/hls/film/LARA_KROFT_RASHITITELNITSA_GROBNITS.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Лара Крофт: Расхитительница гробниц 2 Колыбель жизни [США/2003]
-http://dmi3y-tv.ru/hls/film/LARA_KROFT_RASHITITELNITSA_GROBNITS2.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Лемони Сникет. 33 несчастья [США/2004]
-http://dmi3y-tv.ru/hls/film/LEMONI_SNIKET_33NESCHASTYA.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Бетховен [США/1992]
-http://dmi3y-tv.ru/hls/film/BETHOVEN.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Бетховен 2 [США/1993]
-http://dmi3y-tv.ru/hls/film/BETHOVEN2.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Двое: я и моя тень [США/1995]
-http://dmi3y-tv.ru/hls/film/DVOE_YA_I_MOYA_TEN.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Детсадовский полицейский [США/1990]
-http://dmi3y-tv.ru/hls/film/DETSADOVSKIY_POLITSEYSKIY.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Зелёная миля [США/1999]
-http://dmi3y-tv.ru/hls/film/ZELYONAYA_MILYA.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Факультет [США/1998]
-http://dmi3y-tv.ru/hls/film/FAKULTET.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', От заката до рассвета [США/1995]
-http://dmi3y-tv.ru/hls/film/OT_ZAKATA_DO_RASSVETA.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Мачете [США/2010]
-http://dmi3y-tv.ru/hls/film/MACHETE.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Мачете убивает [США/2013]
-http://dmi3y-tv.ru/hls/film/MACHETE_UBIVAET.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Двухсотлетний человек [США/1999]
-http://dmi3y-tv.ru/hls/film/200LETNIY_CHELOVEK.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Искусственный разум [США/2001]
-http://dmi3y-tv.ru/hls/film/ISKUSSTVENNY_RAZUM.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Особое мнение [США/2002]
-http://dmi3y-tv.ru/hls/film/OSOBOE_MNENIE.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Инопланетянин [США/1982]
-http://dmi3y-tv.ru/hls/film/INOPLANETYANIN.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Невезучие [США/2003]
-http://dmi3y-tv.ru/hls/film/NEVEZUCHIE.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Мышиная охота [США/1997]
-http://dmi3y-tv.ru/hls/film/MYSHINAYA_OHOTA.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Моя ужасная няня [США/2005]
-http://dmi3y-tv.ru/hls/film/MOYA_UZHASNAYA_NYANYA.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Моя ужасная няня 2 [США/2010]
-http://dmi3y-tv.ru/hls/film/MOYA_UZHASNAYA_NYANYA2.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Повелитель стихий [США/2010]
-http://dmi3y-tv.ru/hls/film/POVELITEL_STIHIY.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Каникулы строгого режима [РОССИЯ/2009]
-http://dmi3y-tv.ru/hls/film/KANIKULY_STROGOGO_REZHIMA.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Третий лишний [США/2012]
-http://dmi3y-tv.ru/hls/film/3_LISHNIY.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Третий лишний 2 [США/2015]
-http://dmi3y-tv.ru/hls/film/3_LISHNIY2.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Пиксели [США/2015]
-http://dmi3y-tv.ru/hls/film/PIKSELI.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Сокровище Амазонки [США/2003]
-http://dmi3y-tv.ru/hls/film/SOKROVISHE_AMAZONKI.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Бабушка лёгкого поведения [РОССИЯ/2017]
-http://dmi3y-tv.ru/hls/film/BABUSHKA_LEGKOGO_POVEDENIYA.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Кукла 2: Брамс [США/2020]
-http://dmi3y-tv.ru/hls/film/KUKLA2_BRAMS.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Проклятие: Кукла ведьмы [США/2018]
-http://dmi3y-tv.ru/hls/film/PROKLYATIE_KUKLA_VEDMY.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Каникулы президента [РОССИЯ/2018]
-http://dmi3y-tv.ru/hls/film/KANIKULY_PREZIDENTA.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Напарник [РОССИЯ/2017]
-http://dmi3y-tv.ru/hls/film/NAPARNIK.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Вий [РОССИЯ/2014]
-http://dmi3y-tv.ru/hls/film/VIY.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Ной [США/2014]
-http://dmi3y-tv.ru/hls/film/NOY.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Ужастики [США/2015]
-http://dmi3y-tv.ru/hls/film/UZHASTIKI.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Паразиты [КОРЕЯ/2019]
-http://dmi3y-tv.ru/hls/film/PARAZITY.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Супергерои [ДОК/ВЕЛИКОБРИТАНИЯ/2018]
-http://dmi3y-tv.ru/hls/film/SUPERGEROI.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Халк [США/2003]
-http://dmi3y-tv.ru/hls/film/HALK.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Невероятный Халк [США/2008]
-http://dmi3y-tv.ru/hls/film/NEVEROYATNY_HALK.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Робот по имени Чаппи [США/2015]
-http://dmi3y-tv.ru/hls/film/ROBOT_PO_IMENI_CHAPPI.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Лекарство от здоровья [США/2017]
-http://dmi3y-tv.ru/hls/film/LEKARSTVO_OT_ZDOROVYA.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Русалка на суше [США/2019]
-http://dmi3y-tv.ru/hls/film/RUSALKA_NA_SUSHE.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Рассказы Русалочки [США/2018]
-http://dmi3y-tv.ru/hls/film/RASSKAZY_RUSALOCHKI.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Возвращение в Голубую лагуну [США/1991]
-http://dmi3y-tv.ru/hls/film/VOZVRASHENIE_V_GOLUBUYU_LAGUNU.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Убить Билла [США/2003]
-http://dmi3y-tv.ru/hls/film/UBIT_BILLA.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Убить Билла 2 [США/2004]
-http://dmi3y-tv.ru/hls/film/UBIT_BILLA2.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Проклятый дом [США/2018]
-http://dmi3y-tv.ru/hls/film/PROKLYATY_DOM.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Туннель: Опасно для жизни [НОРВЕГИЯ/2019]
-http://dmi3y-tv.ru/hls/film/TUNNEL_OPASNO_DLYA_ZHIZNI.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Бладшот [США/2020]
-http://dmi3y-tv.ru/hls/film/BLADSHOT.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Зеркала [США/2008]
-http://dmi3y-tv.ru/hls/film/ZERKALA.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Зеркала: Инкарнация [США/2020]
-http://dmi3y-tv.ru/hls/film/ZERKALA_INKARNATSIYA.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Все ждут Рождество: Люси против Крампуса [США/2018]
-http://dmi3y-tv.ru/hls/film/VSE_ZHDUT_ROZHDESTVO.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Все ждут Рождество 2: Люси и магический кристалл [США/2020]
-http://dmi3y-tv.ru/hls/film/VSE_ZHDUT_ROZHDESTVO2.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Альфа [США/2018]
-http://dmi3y-tv.ru/hls/film/ALFA.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Выживший [США/2015]
-http://dmi3y-tv.ru/hls/film/VYZHIVSHIY.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Поиск [США/2018]
-http://dmi3y-tv.ru/hls/film/POISK.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Омерзительная восьмерка [США/2015]
-http://dmi3y-tv.ru/hls/film/OMERZITELNAYA_8.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Снеговик [США/2017]
-http://dmi3y-tv.ru/hls/film/SNEGOVIK.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Восточный ветер [ГЕРМАНИЯ/2013]
-http://dmi3y-tv.ru/hls/film/VOSTOCHNY_VETER.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Восточный ветер 2 [ГЕРМАНИЯ/2015]
-http://dmi3y-tv.ru/hls/film/VOSTOCHNY_VETER2.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Восточный ветер 3: Наследие Оры [ГЕРМАНИЯ/2017]
-http://dmi3y-tv.ru/hls/film/VOSTOCHNY_VETER3.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Восточный ветер 4: Легенда о Воине [ГЕРМАНИЯ/2019]
-http://dmi3y-tv.ru/hls/film/VOSTOCHNY_VETER4.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Помогите. я уменьшил свою училку! [ГЕРМАНИЯ/2015]
-http://dmi3y-tv.ru/hls/film/POMOGITE_YA_UMENSHIL_SVOYU_UCHILKU.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Помогите. я уменьшил своих родителей! [ГЕРМАНИЯ/2018]
-http://dmi3y-tv.ru/hls/film/POMOGITE_YA_UMENSHIL_SVOIH_RODITELEY.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Женщина в черном [КАНАДА/2012]
-http://dmi3y-tv.ru/hls/film/ZHENSHINA_V_CHERNOM.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Женщина в черном 2: Ангел смерти [КАНАДА/2014]
-http://dmi3y-tv.ru/hls/film/ZHENSHINA_V_CHERNOM2.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Бегущий по лезвию 2049 [США/2017]
-http://dmi3y-tv.ru/hls/film/BEGUSHIY_PO_LEZVIYU_2049.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Ловец снов [США/2020]
-http://dmi3y-tv.ru/hls/film/LOVETS_SNOV.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Мара. Пожиратель снов [США/2018]
-http://dmi3y-tv.ru/hls/film/MARA_POZHIRATEL_SNOV.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Амулет [ВЕЛИКОБРИТАНИЯ/2020]
-http://dmi3y-tv.ru/hls/film/AMULET.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', В земле [ВЕЛИКОБРИТАНИЯ/2021]
-http://dmi3y-tv.ru/hls/film/V_ZEMLE.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Полтергейст [США/2015]
-http://dmi3y-tv.ru/hls/film/POLTERGEYST.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Сплит [США/2017]
-http://dmi3y-tv.ru/hls/film/SPLIT.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Незваные [США/2008]
-http://dmi3y-tv.ru/hls/film/NEZVANYE.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Ю-571 [США/2000]
-http://dmi3y-tv.ru/hls/film/YU_571.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Пианист [ВЕЛИКОБРИТАНИЯ/2002]
-http://dmi3y-tv.ru/hls/film/PIANIST.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Отрыв [РОССИЯ/2018]
-http://dmi3y-tv.ru/hls/film/OTRYV.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Обитаемый остров [РОССИЯ/2008]
-http://dmi3y-tv.ru/hls/film/OBITAEMY_OSTROV.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Каратэ-пацан [КНР/США/2010]
-http://dmi3y-tv.ru/hls/film/KARATE_PATSAN.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Пробуждающая совесть [ДАНИЯ/2016]
-http://dmi3y-tv.ru/hls/film/PROBUZHDAYUSHAYA_SOVEST.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Пробуждающая совесть 2: Дар змеи [ДАНИЯ/2019]
-http://dmi3y-tv.ru/hls/film/PROBUZHDAYUSHAYA_SOVEST2.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Ужас Амитивилля [США/2005]
-http://dmi3y-tv.ru/hls/film/UZHAS_AMITIVILLYA.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Монстро [США/2008]
-http://dmi3y-tv.ru/hls/film/MONSTRO.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Капкан [США/2019]
-http://dmi3y-tv.ru/hls/film/KAPKAN.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Страна призраков [ФРАНЦИЯ/2018]
-http://dmi3y-tv.ru/hls/film/STRANA_PRIZRAKOV.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Синяя бездна 2 [США/2019]
-http://dmi3y-tv.ru/hls/film/SINYAYA_BEZDNA2.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Метро [РОССИЯ/2012]
-http://dmi3y-tv.ru/hls/film/METRO.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Миссия Серенити [США/2005]
-http://dmi3y-tv.ru/hls/film/MISSIYA_SERENITI.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Время первых [РОССИЯ/2017]
-http://dmi3y-tv.ru/hls/film/VREMYA_PERVYH.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Гагарин. Первый в космосе [РОССИЯ/2013]
-http://dmi3y-tv.ru/hls/film/GAGARIN_1_V_KOSMOSE.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Седьмой сын [РОССИЯ/2014]
-http://dmi3y-tv.ru/hls/film/7_SYN.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Механик [США/2010]
-http://dmi3y-tv.ru/hls/film/MEHANIK.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', В осаде [США/1992]
-http://dmi3y-tv.ru/hls/film/V_OSADE.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', В осаде 2: Темная территория [США/1995]
-http://dmi3y-tv.ru/hls/film/V_OSADE2.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Кинг Конг [США/2005]
-http://dmi3y-tv.ru/hls/film/KING_KONG.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Парк Юрского периода [США/1993]
-http://dmi3y-tv.ru/hls/film/PARK_YURSKOGO_PERIODA.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Парк Юрского периода 2: Затерянный мир [США/1997]
-http://dmi3y-tv.ru/hls/film/PARK_YURSKOGO_PERIODA2.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Парк Юрского периода 3 [США/2001]
-http://dmi3y-tv.ru/hls/film/PARK_YURSKOGO_PERIODA3.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Мир Юрского периода [США/2015]
-http://dmi3y-tv.ru/hls/film/MIR_YURSKOGO_PERIODA.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Атака Юрского периода [США/2012]
-http://dmi3y-tv.ru/hls/film/ATAKA_YURSKOGO_PERIODA.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Столкновение с бездной [США/1998]
-http://dmi3y-tv.ru/hls/film/STOLKNOVENIE_S_BEZDNOY.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Защитники [РОССИЯ/2016]
-http://dmi3y-tv.ru/hls/film/ZASHITNIKI.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Игра Эндера [США/2013]
-http://dmi3y-tv.ru/hls/film/IGRA_ENDERA.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Сторожевая застава [УКРАИНА/2017]
-http://dmi3y-tv.ru/hls/film/STOROZHEVAYA_ZASTAVA.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Охотники [США/2013]
-http://dmi3y-tv.ru/hls/film/OHOTNIKI.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Поворот не туда: Наследие [США/2021]
-http://dmi3y-tv.ru/hls/film/POVOROT_NE_TUDA_NASLEDIE.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Проклятие: Обитель смерти [США/2018]
-http://dmi3y-tv.ru/hls/film/PROKLYATIE_OBITEL_SMERTI.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Бесконечность [США/2021]
-http://dmi3y-tv.ru/hls/film/BESKONECHNOST.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', За пределами Вселенной [ВЕЛИКОБРИТАНИЯ/2017]
-http://dmi3y-tv.ru/hls/film/ZA_PREDELAMI_VSELENNOY.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Портал [США/2020]
-http://dmi3y-tv.ru/hls/film/PORTAL.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Остров фантазий [США/2020]
-http://dmi3y-tv.ru/hls/film/OSTROV_FANTAZIY.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Горец [ВЕЛИКОБРИТАНИЯ/1986]
-http://dmi3y-tv.ru/hls/film/GORETS.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Горец 2: Оживление [ВЕЛИКОБРИТАНИЯ/1990]
-http://dmi3y-tv.ru/hls/film/GORETS2.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Горец 3: Последнее измерение [ВЕЛИКОБРИТАНИЯ/1994]
-http://dmi3y-tv.ru/hls/film/GORETS3.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Химера [США/2009]
-http://dmi3y-tv.ru/hls/film/HIMERA.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Отмель [США/2016]
-http://dmi3y-tv.ru/hls/film/OTMEL.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Снегурочка против всех [США/2021]
-http://dmi3y-tv.ru/hls/film/SNEGUROCHKA_PROTIV_VSEH.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Проклятие [США/2020]
-http://dmi3y-tv.ru/hls/film/PROKLYATIE.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Батарейки не прилагаются [США/1987]
-http://dmi3y-tv.ru/hls/film/BATAREYKI_NE_PRILAGAYUTSYA.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Заклинание [США/2020]
-http://dmi3y-tv.ru/hls/film/ZAKLINANIE.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Гори. гори ясно [США/2019]
-http://dmi3y-tv.ru/hls/film/GORI_GORI_YASNO.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Исчезнувшая [США/2014]
-http://dmi3y-tv.ru/hls/film/ISCHEZNUVSHAYA.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', На пятьдесят оттенков темнее [США/2017]
-http://dmi3y-tv.ru/hls/film/NA_50_OTTENKOV_TEMNEE.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Девушка. которая застряла в паутине [США/2018]
-http://dmi3y-tv.ru/hls/film/DEVUSHKA_KOTORAYA_ZASTRYALA_V_PAUTINE.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Нападение на 13-й участок [США/2005]
-http://dmi3y-tv.ru/hls/film/NAPADENIE_NA_13_UCHASTOK.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Война миров [США/2005]
-http://dmi3y-tv.ru/hls/film/VOYNA_MIROV.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Курьер из Рая [РОССИЯ/2013]
-http://dmi3y-tv.ru/hls/film/KURER_IZ_RAYA.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Хранители [США/2009]
-http://dmi3y-tv.ru/hls/film/HRANITELI.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Когда звонит незнакомец [США/2006]
-http://dmi3y-tv.ru/hls/film/KOGDA_ZVONIT_NEZNAKOMETS.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Шальная карта [США/2014]
-http://dmi3y-tv.ru/hls/film/SHALNAYA_KARTA.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Голодные игры [США/2012]
-http://dmi3y-tv.ru/hls/film/GOLODNYE_IGRY.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Голодные игры: И вспыхнет пламя [США/2013]
-http://dmi3y-tv.ru/hls/film/GOLODNYE_IGRY_I_VSPYHNET_PLAMYA.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Tomb Raider. Лара Крофт [США/2018]
-http://dmi3y-tv.ru/hls/film/TOMB_RAIDER_LARA_KROFT.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Амундсен [США/2019]
-http://dmi3y-tv.ru/hls/film/AMUNDSEN.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Дракула [США/2014]
-http://dmi3y-tv.ru/hls/film/DRAKULA.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Штурм Белого дома [США/2013]
-http://dmi3y-tv.ru/hls/film/SHTURM_BELOGO_DOMA.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Рыжая Соня [США/1985]
-http://dmi3y-tv.ru/hls/film/RYZHAYA_SONYA.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Возмездие [США/2010]
-http://dmi3y-tv.ru/hls/film/VOZMEZDIE.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Челюсти [США/1975]
-http://dmi3y-tv.ru/hls/film/CHELYUSTI.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Челюсти 2 [США/1978]
-http://dmi3y-tv.ru/hls/film/CHELYUSTI2.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Привидение [США/1990]
-http://dmi3y-tv.ru/hls/film/PRIVIDENIE.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', С меня хватит [США/2002]
-http://dmi3y-tv.ru/hls/film/S_MENYA_HVATIT.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Невидимка [США/2000]
-http://dmi3y-tv.ru/hls/film/NEVIDIMKA.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Тренер Картер [США/2005]
-http://dmi3y-tv.ru/hls/film/TRENER_KARTER.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Робин Гуд [США/2010]
-http://dmi3y-tv.ru/hls/film/ROBIN_GUD.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Страшно красив [США/2011]
-http://dmi3y-tv.ru/hls/film/STRASHNO_KRASIV.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Зелёный Шершень [США/2011]
-http://dmi3y-tv.ru/hls/film/ZELENY_SHERSHEN.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Территория [РОССИЯ/2014]
-http://dmi3y-tv.ru/hls/film/TERRITORIYA.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', 2012 [США/2009]
-http://dmi3y-tv.ru/hls/film/2012.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Проводник [РОССИЯ/2018]
-http://dmi3y-tv.ru/hls/film/PROVODNIK.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Ускорение [США/2015]
-http://dmi3y-tv.ru/hls/film/USKORENIE.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Демон внутри [США/2016]
-http://dmi3y-tv.ru/hls/film/DEMON_VNUTRI.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Пассажир [США/2018]
-http://dmi3y-tv.ru/hls/film/PASSAZHIR.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Он - дракон [РОССИЯ/2015]
-http://dmi3y-tv.ru/hls/film/ON_DRAKON.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Призрак дома на холме [США/1999]
-http://dmi3y-tv.ru/hls/film/PRIZRAK_DOMA_NA_HOLME.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Пес под прикрытием [США/2019]
-http://dmi3y-tv.ru/hls/film/PES_POD_PRIKRYTIEM.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Супер Такса [США/2015]
-http://dmi3y-tv.ru/hls/film/SUPER_TAKSA.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Титан [США/2018]
-http://dmi3y-tv.ru/hls/film/TITAN.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Пакт [США/2011]
-http://dmi3y-tv.ru/hls/film/PAKT.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Пакт 2 [США/2014]
-http://dmi3y-tv.ru/hls/film/PAKT2.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Лэйк Плэсид: Озеро страха [США/1999]
-http://dmi3y-tv.ru/hls/film/LEYK_PLESID_OZERO_STRAHA.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Трудная мишень [США/1993]
-http://dmi3y-tv.ru/hls/film/TRUDNAYA_MISHEN.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Инкассатор [США/2009]
-http://dmi3y-tv.ru/hls/film/INKASSATOR.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Школа выживания [США/2008]
-http://dmi3y-tv.ru/hls/film/SHKOLA_VYZHIVANIYA.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Отчаянный [США/1995]
-http://dmi3y-tv.ru/hls/film/OTCHAYANNY.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Патриот [США/2000]
-http://dmi3y-tv.ru/hls/film/PATRIOT.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Остров головорезов [США/1995]
-http://dmi3y-tv.ru/hls/film/OSTROV_GOLOVOREZOV.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Затура: Космическое приключение [США/2005]
-http://dmi3y-tv.ru/hls/film/ZATURA_KOSMICHESKOE_PRIKLYUCHENIE.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Морпехи [США/2005]
-http://dmi3y-tv.ru/hls/film/MORPEHI.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Птичка на проводе [США/1990]
-http://dmi3y-tv.ru/hls/film/PTICHKA_NA_PROVODE.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Легион [США/2010]
-http://dmi3y-tv.ru/hls/film/LEGION.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Святые из Бундока 2. День всех святых [США/2009]
-http://dmi3y-tv.ru/hls/film/SVYATYE_IZ_BUNDOKA2.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Лучший стрелок [США/1986]
-http://dmi3y-tv.ru/hls/film/LUCHSHIY_STRELOK.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Короли улиц [США/2008]
-http://dmi3y-tv.ru/hls/film/KOROLI_ULITS.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Красотки в бегах [США/2015]
-http://dmi3y-tv.ru/hls/film/KRASOTKI_V_BEGAH.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Голодный кролик атакует [США/2011]
-http://dmi3y-tv.ru/hls/film/GOLODNY_KROLIK_ATAKUET.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Последний рубеж [США/2013]
-http://dmi3y-tv.ru/hls/film/POSLEDNIY_RUBEZH.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Спасатели Малибу [ВЕЛИКОБРИТАНИЯ/2017]
-http://dmi3y-tv.ru/hls/film/SPASATELI_MALIBU.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Охранник [США/2006]
-http://dmi3y-tv.ru/hls/film/OHRANNIK.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Великолепная семёрка [США/2016]
-http://dmi3y-tv.ru/hls/film/VELIKOLEPNAYA7.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Код апокалипсиса [РОССИЯ/2007]
-http://dmi3y-tv.ru/hls/film/KOD_APOKALIPSISA.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Герой [КИТАЙ/2002]
-http://dmi3y-tv.ru/hls/film/GEROY.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Три метра над уровнем неба [ИСПАНИЯ/2010]
-http://dmi3y-tv.ru/hls/film/3METRA_NAD_UROVNEM_NEBA.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Анна [США/2019]
-http://dmi3y-tv.ru/hls/film/ANNA.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Расправа [США/2018]
-http://dmi3y-tv.ru/hls/film/RASPRAVA.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Образцовый самец 2 [США/2016]
-http://dmi3y-tv.ru/hls/film/OBRAZTSOVY_SAMETS2.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Смоки и Бандит [США/1977]
-http://dmi3y-tv.ru/hls/film/SMOKI_I_BANDIT.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Предвестники бури [США/2004]
-http://dmi3y-tv.ru/hls/film/PREDVESTNIKI_BURI.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', В ночи [США/1985]
-http://dmi3y-tv.ru/hls/film/V_NOCHI.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', На крючке [США/2008]
-http://dmi3y-tv.ru/hls/film/NA_KRYUCHKE.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Doom [США/2005]
-http://dmi3y-tv.ru/hls/film/DOOM.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Четыре пера [США/2002]
-http://dmi3y-tv.ru/hls/film/CHETYRE_PERA.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Сделка с дьяволом [США/2006]
-http://dmi3y-tv.ru/hls/film/SDELKA_S_DYAVOLOM.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Преступить черту [ИСПАНИЯ/2020]
-http://dmi3y-tv.ru/hls/film/PRESTUPIT_CHERTU.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Никто [США/2021]
-http://dmi3y-tv.ru/hls/film/NIKTO.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Дюна [США/1984]
-http://dmi3y-tv.ru/hls/film/DYUNA_1984.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Банда Келли [США/2003]
-http://dmi3y-tv.ru/hls/film/BANDA_KELLI.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Пипец 2 [США/2013]
-http://dmi3y-tv.ru/hls/film/PIPETS2.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Пушки Акимбо [ВЕЛИКОБРИТАНИЯ/2019]
-http://dmi3y-tv.ru/hls/film/PUSHKI_AKIMBO.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Лес самоубийц [США/2015]
-http://dmi3y-tv.ru/hls/film/LES_SAMOUBIYTS.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Перспектива [США/2018]
-http://dmi3y-tv.ru/hls/film/PERSPEKTIVA.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Обитель теней [ИСПАНИЯ/2017]
-http://dmi3y-tv.ru/hls/film/OBITEL_TENEY.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Космос [ВЕЛИКОБРИТАНИЯ/2019]
-http://dmi3y-tv.ru/hls/film/KOSMOS.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Машина [ВЕЛИКОБРИТАНИЯ/2013]
-http://dmi3y-tv.ru/hls/film/MASHINA.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Помешанный на времени [США/2018]
-http://dmi3y-tv.ru/hls/film/POMESHANNY_NA_VREMENI.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Эксперимент: Зло [США/2013]
-http://dmi3y-tv.ru/hls/film/EKSPERIMENT_ZLO.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Я. Франкенштейн [США/2013]
-http://dmi3y-tv.ru/hls/film/YA_FRANKENSHTEYN.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Оружейный барон [США/2005]
-http://dmi3y-tv.ru/hls/film/ORUZHEYNY_BARON.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Его собачье дело [США/2016]
-http://dmi3y-tv.ru/hls/film/EGO_SOBACHE_DELO.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Полночь на злаковом поле [США/2021]
-http://dmi3y-tv.ru/hls/film/POLNOCH_NA_ZLAKOVOM_POLE.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Приключения Паддингтона 2 [ВЕЛИКОБРИТАНИЯ/2017]
-http://dmi3y-tv.ru/hls/film/PRIKLYUCHENIYA_PADDINGTONA2.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Сингулярность [США/2017]
-http://dmi3y-tv.ru/hls/film/SINGULYARNOST.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Сердце из стали [КИТАЙ/2017]
-http://dmi3y-tv.ru/hls/film/SERDCE_IZ_STALI.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Валериан и город тысячи планет [США/2017]
-http://dmi3y-tv.ru/hls/film/VALERIAN_I_GOROD_1000_PLANET.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Хоббит: Нежданное путешествие [США/2012]
-http://dmi3y-tv.ru/hls/film/HOBBIT_NEZHDANNOE_PUTESHESTVIE.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Хоббит: Пустошь Смауга [США/2013]
-http://dmi3y-tv.ru/hls/film/HOBBIT_PUSTOSH_SMAUGA.m3u8
-#EXTINF: -1 group-title='ФИЛЬМЫ', Хоббит: Битва пяти воинств [США/2014]
-http://dmi3y-tv.ru/hls/film/HOBBIT_BITVA_5TI_VOINSTV.m3u8
-#EXTINF: -1 group-title='МУЛЬТФИЛЬМЫ', Ранго [МУЛЬТ/США/2011]
+#EXTINF: -1 group-title='Детские', Ранго [МУЛЬТ/США/2011]
 http://dmi3y-tv.ru/hls/multfilm/RANGO.m3u8
-#EXTINF: -1 group-title='МУЛЬТФИЛЬМЫ', Три богатыря и Шамаханская царица [МУЛЬТ/РОССИЯ/2010]
+#EXTINF: -1 group-title='Детские', Три богатыря и Шамаханская царица [МУЛЬТ/РОССИЯ/2010]
 http://dmi3y-tv.ru/hls/multfilm/TRIBOGATYRYA_I_SHAMAHANSKAYA_CARICA.m3u8
-#EXTINF: -1 group-title='МУЛЬТФИЛЬМЫ', Три богатыря на дальних берегах [МУЛЬТ/РОССИЯ/2012]
+#EXTINF: -1 group-title='Детские', Три богатыря на дальних берегах [МУЛЬТ/РОССИЯ/2012]
 http://dmi3y-tv.ru/hls/multfilm/TRIBOGATYRYA_NA_DALNIH_BEREGAH.m3u8
-#EXTINF: -1 group-title='МУЛЬТФИЛЬМЫ', Три богатыря и Морской царь [МУЛЬТ/РОССИЯ/2016]
+#EXTINF: -1 group-title='Детские', Три богатыря и Морской царь [МУЛЬТ/РОССИЯ/2016]
 http://dmi3y-tv.ru/hls/multfilm/TRIBOGATYRYA_I_MORSKOY_CAR.m3u8
-#EXTINF: -1 group-title='МУЛЬТФИЛЬМЫ', Три богатыря и принцесса Египта [МУЛЬТ/РОССИЯ/2017]
+#EXTINF: -1 group-title='Детские', Три богатыря и принцесса Египта [МУЛЬТ/РОССИЯ/2017]
 http://dmi3y-tv.ru/hls/multfilm/TRIBOGATYRYA_I_PRINCESSA_EGIPTA.m3u8
-#EXTINF: -1 group-title='МУЛЬТФИЛЬМЫ', Три богатыря. Ход конем [МУЛЬТ/РОССИЯ/2014]
+#EXTINF: -1 group-title='Детские', Три богатыря. Ход конем [МУЛЬТ/РОССИЯ/2014]
 http://dmi3y-tv.ru/hls/multfilm/TRIBOGATYRYA_HOD_KONEM.m3u8
-#EXTINF: -1 group-title='МУЛЬТФИЛЬМЫ', Три богатыря и Наследница престола [МУЛЬТ/РОССИЯ/2018]
+#EXTINF: -1 group-title='Детские', Три богатыря и Наследница престола [МУЛЬТ/РОССИЯ/2018]
 http://dmi3y-tv.ru/hls/multfilm/TRIBOGATYRYA_I_NASLEDNICA_PRESTOLA.m3u8
-#EXTINF: -1 group-title='МУЛЬТФИЛЬМЫ', Снежная королева [МУЛЬТ/РОССИЯ/2012]
+#EXTINF: -1 group-title='Детские', Снежная королева [МУЛЬТ/РОССИЯ/2012]
 http://dmi3y-tv.ru/hls/multfilm/SNEZHNAYA_KOROLEVA.m3u8
-#EXTINF: -1 group-title='МУЛЬТФИЛЬМЫ', Снежная королева 2: Перезаморозка [МУЛЬТ/РОССИЯ/2014]
+#EXTINF: -1 group-title='Детские', Снежная королева 2: Перезаморозка [МУЛЬТ/РОССИЯ/2014]
 http://dmi3y-tv.ru/hls/multfilm/SNEZHNAYA_KOROLEVA2.m3u8
-#EXTINF: -1 group-title='МУЛЬТФИЛЬМЫ', Снежная королева 3: Огонь и лёд [МУЛЬТ/РОССИЯ/2016]
+#EXTINF: -1 group-title='Детские', Снежная королева 3: Огонь и лёд [МУЛЬТ/РОССИЯ/2016]
 http://dmi3y-tv.ru/hls/multfilm/SNEZHNAYA_KOROLEVA3.m3u8
-#EXTINF: -1 group-title='МУЛЬТФИЛЬМЫ', Шрэк [МУЛЬТ/США/2001]
+#EXTINF: -1 group-title='Детские', Шрэк [МУЛЬТ/США/2001]
 http://dmi3y-tv.ru/hls/multfilm/SHREK.m3u8
-#EXTINF: -1 group-title='МУЛЬТФИЛЬМЫ', Шрэк 2 [МУЛЬТ/США/2004]
+#EXTINF: -1 group-title='Детские', Шрэк 2 [МУЛЬТ/США/2004]
 http://dmi3y-tv.ru/hls/multfilm/SHREK2.m3u8
-#EXTINF: -1 group-title='МУЛЬТФИЛЬМЫ', Шрэк третий [МУЛЬТ/США/2007]
+#EXTINF: -1 group-title='Детские', Шрэк третий [МУЛЬТ/США/2007]
 http://dmi3y-tv.ru/hls/multfilm/SHREK_TRETIY.m3u8
-#EXTINF: -1 group-title='МУЛЬТФИЛЬМЫ', Иван Царевич и Серый Волк [МУЛЬТ/РОССИЯ/2011]
+#EXTINF: -1 group-title='Детские', Иван Царевич и Серый Волк [МУЛЬТ/РОССИЯ/2011]
 http://dmi3y-tv.ru/hls/multfilm/IVANCAREVICH_I_SERYI_VOLK.m3u8
-#EXTINF: -1 group-title='МУЛЬТФИЛЬМЫ', Иван Царевич и Серый Волк 2 [МУЛЬТ/РОССИЯ/2013]
+#EXTINF: -1 group-title='Детские', Иван Царевич и Серый Волк 2 [МУЛЬТ/РОССИЯ/2013]
 http://dmi3y-tv.ru/hls/multfilm/IVANCAREVICH_I_SERYI_VOLK2.m3u8
-#EXTINF: -1 group-title='МУЛЬТФИЛЬМЫ', Иван Царевич и Серый Волк 3 [МУЛЬТ/РОССИЯ/2015]
+#EXTINF: -1 group-title='Детские', Иван Царевич и Серый Волк 3 [МУЛЬТ/РОССИЯ/2015]
 http://dmi3y-tv.ru/hls/multfilm/IVANCAREVICH_I_SERYI_VOLK3.m3u8
-#EXTINF: -1 group-title='МУЛЬТФИЛЬМЫ', Облачно. возможны осадки в виде фрикаделек [МУЛЬТ/США/2009]
+#EXTINF: -1 group-title='Детские', Облачно. возможны осадки в виде фрикаделек [МУЛЬТ/США/2009]
 http://dmi3y-tv.ru/hls/multfilm/OBLACHNO.m3u8
-#EXTINF: -1 group-title='МУЛЬТФИЛЬМЫ', Облачно... 2. Месть ГМО [МУЛЬТ/США/2013]
+#EXTINF: -1 group-title='Детские', Облачно... 2. Месть ГМО [МУЛЬТ/США/2013]
 http://dmi3y-tv.ru/hls/multfilm/OBLACHNO2.m3u8
-#EXTINF: -1 group-title='МУЛЬТФИЛЬМЫ', Монстры на каникулах [МУЛЬТ/США/2012]
+#EXTINF: -1 group-title='Детские', Монстры на каникулах [МУЛЬТ/США/2012]
 http://dmi3y-tv.ru/hls/multfilm/MONSTRY_NA_KANIKULAH.m3u8
-#EXTINF: -1 group-title='МУЛЬТФИЛЬМЫ', Монстры на каникулах 3. Море зовёт [МУЛЬТ/США/2018]
+#EXTINF: -1 group-title='Детские', Монстры на каникулах 3. Море зовёт [МУЛЬТ/США/2018]
 http://dmi3y-tv.ru/hls/multfilm/MONSTRY_NA_KANIKULAH3.m3u8
-#EXTINF: -1 group-title='МУЛЬТФИЛЬМЫ', Смурфики 2 [МУЛЬТ/США/2013]
+#EXTINF: -1 group-title='Детские', Смурфики 2 [МУЛЬТ/США/2013]
 http://dmi3y-tv.ru/hls/multfilm/SMURFIKI2.m3u8
-#EXTINF: -1 group-title='МУЛЬТФИЛЬМЫ', Смурфики. Затерянная деревня [МУЛЬТ/США/2017]
+#EXTINF: -1 group-title='Детские', Смурфики. Затерянная деревня [МУЛЬТ/США/2017]
 http://dmi3y-tv.ru/hls/multfilm/SMURFIKI_ZATERYANNAYA_DEREVNYA.m3u8
-#EXTINF: -1 group-title='МУЛЬТФИЛЬМЫ', Человек-паук. Через вселенные [МУЛЬТ/США/2018]
+#EXTINF: -1 group-title='Детские', Человек-паук. Через вселенные [МУЛЬТ/США/2018]
 http://dmi3y-tv.ru/hls/multfilm/CHELOVEK_PAUK_CHEREZ_VSELENNYE.m3u8
-#EXTINF: -1 group-title='МУЛЬТФИЛЬМЫ', Добрыня Никитич и Змей Горыныч [МУЛЬТ/РОССИЯ/2006]
+#EXTINF: -1 group-title='Детские', Добрыня Никитич и Змей Горыныч [МУЛЬТ/РОССИЯ/2006]
 http://dmi3y-tv.ru/hls/multfilm/DOBRYNYANIKITICH_I_ZMEY_GORYNYCH.m3u8
-#EXTINF: -1 group-title='МУЛЬТФИЛЬМЫ', Илья Муромец и Соловей Разбойник [МУЛЬТ/РОССИЯ/2007]
+#EXTINF: -1 group-title='Детские', Илья Муромец и Соловей Разбойник [МУЛЬТ/РОССИЯ/2007]
 http://dmi3y-tv.ru/hls/multfilm/ILYAMUROMEC_I_SOLOVEY_RAZBOYNIK.m3u8
-#EXTINF: -1 group-title='МУЛЬТФИЛЬМЫ', Мадагаскар [МУЛЬТ/США/2005]
+#EXTINF: -1 group-title='Детские', Мадагаскар [МУЛЬТ/США/2005]
 http://dmi3y-tv.ru/hls/multfilm/MADAGASKAR.m3u8
-#EXTINF: -1 group-title='МУЛЬТФИЛЬМЫ', Спирит Непокорный [МУЛЬТ/США/2021]
+#EXTINF: -1 group-title='Детские', Спирит Непокорный [МУЛЬТ/США/2021]
 http://dmi3y-tv.ru/hls/multfilm/SPIRIT_NEPOKORNYI.m3u8
-#EXTINF: -1 group-title='МУЛЬТФИЛЬМЫ', Семейка Крудс: Новоселье [МУЛЬТ/США/2020]
+#EXTINF: -1 group-title='Детские', Семейка Крудс: Новоселье [МУЛЬТ/США/2020]
 http://dmi3y-tv.ru/hls/multfilm/SEMEYKA_KRUDS_NOVOSELE.m3u8
-#EXTINF: -1 group-title='МУЛЬТФИЛЬМЫ', Босс-молокосос 2 [МУЛЬТ/США/2021]
+#EXTINF: -1 group-title='Детские', Босс-молокосос 2 [МУЛЬТ/США/2021]
 http://dmi3y-tv.ru/hls/multfilm/BOSS_MOLOKOSOS2.m3u8
-#EXTINF: -1 group-title='МУЛЬТФИЛЬМЫ', Эмоджи фильм [МУЛЬТ/США/2017]
+#EXTINF: -1 group-title='Детские', Эмоджи фильм [МУЛЬТ/США/2017]
 http://dmi3y-tv.ru/hls/multfilm/EMODZHI_FILM.m3u8
-#EXTINF: -1 group-title='МУЛЬТФИЛЬМЫ', Астерикс и тайное зелье [МУЛЬТ/ФРАНЦИЯ/2018]
+#EXTINF: -1 group-title='Детские', Астерикс и тайное зелье [МУЛЬТ/ФРАНЦИЯ/2018]
 http://dmi3y-tv.ru/hls/multfilm/ASTERIKS_I_TAYNOE_ZELE.m3u8
-#EXTINF: -1 group-title='МУЛЬТФИЛЬМЫ', Барашек Шон [МУЛЬТ/ВЕЛИКОБРИТАНИЯ/2014]
+#EXTINF: -1 group-title='Детские', Барашек Шон [МУЛЬТ/ВЕЛИКОБРИТАНИЯ/2014]
 http://dmi3y-tv.ru/hls/multfilm/BARASHEK_SHON.m3u8
-#EXTINF: -1 group-title='МУЛЬТФИЛЬМЫ', Приключения Тинтина: Тайна Единорога [МУЛЬТ/США/2011]
+#EXTINF: -1 group-title='Детские', Приключения Тинтина: Тайна Единорога [МУЛЬТ/США/2011]
 http://dmi3y-tv.ru/hls/multfilm/PRIKLYUCHENIYA_TINTINA_TAYNA_EDINOROGA.m3u8
-#EXTINF: -1 group-title='МУЛЬТФИЛЬМЫ', Волки и овцы: бе-е-е-зумное превращение [МУЛЬТ/РОССИЯ/2016]
+#EXTINF: -1 group-title='Детские', Волки и овцы: бе-е-е-зумное превращение [МУЛЬТ/РОССИЯ/2016]
 http://dmi3y-tv.ru/hls/multfilm/VOLKI_I_OVTSY.m3u8
-#EXTINF: -1 group-title='МУЛЬТФИЛЬМЫ', Волки и овцы: Ход свиньей [МУЛЬТ/РОССИЯ/2018]
+#EXTINF: -1 group-title='Детские', Волки и овцы: Ход свиньей [МУЛЬТ/РОССИЯ/2018]
 http://dmi3y-tv.ru/hls/multfilm/VOLKI_I_OVTSY_HOD_SVINEY.m3u8
-#EXTINF: -1 group-title='МУЛЬТФИЛЬМЫ', Королевский корги [МУЛЬТ/БЕЛЬГИЯ/2019]
+#EXTINF: -1 group-title='Детские', Королевский корги [МУЛЬТ/БЕЛЬГИЯ/2019]
 http://dmi3y-tv.ru/hls/multfilm/KOROLEVSKIY_KORGI.m3u8
-#EXTINF: -1 group-title='МУЛЬТФИЛЬМЫ', Робинзон Крузо: Очень обитаемый остров [МУЛЬТ/ФРАНЦИЯ/2016]
+#EXTINF: -1 group-title='Детские', Робинзон Крузо: Очень обитаемый остров [МУЛЬТ/ФРАНЦИЯ/2016]
 http://dmi3y-tv.ru/hls/multfilm/ROBINZON_KRUZO.m3u8
-#EXTINF: -1 group-title='МУЛЬТФИЛЬМЫ', Кот Гром и заколдованный дом [МУЛЬТ/США/2013]
+#EXTINF: -1 group-title='Детские', Кот Гром и заколдованный дом [МУЛЬТ/США/2013]
 http://dmi3y-tv.ru/hls/multfilm/KOT_GROM_I_ZAKOLDOVANNY_DOM.m3u8
-#EXTINF: -1 group-title='МУЛЬТФИЛЬМЫ', Рок Дог [МУЛЬТ/США/2016]
+#EXTINF: -1 group-title='Детские', Рок Дог [МУЛЬТ/США/2016]
 http://dmi3y-tv.ru/hls/multfilm/ROK_DOG.m3u8
-#EXTINF: -1 group-title='МУЛЬТФИЛЬМЫ', Эрнест и Селестина: Приключения мышки и медведя [МУЛЬТ/ФРАНЦИЯ/2012]
+#EXTINF: -1 group-title='Детские', Эрнест и Селестина: Приключения мышки и медведя [МУЛЬТ/ФРАНЦИЯ/2012]
 http://dmi3y-tv.ru/hls/multfilm/ERNEST_I_SELESTINA.m3u8
-#EXTINF: -1 group-title='МУЛЬТФИЛЬМЫ', Кот в сапогах [МУЛЬТ/США/2011]
+#EXTINF: -1 group-title='Детские', Кот в сапогах [МУЛЬТ/США/2011]
 http://dmi3y-tv.ru/hls/multfilm/KOT_V_SAPOGAH.m3u8
-#EXTINF: -1 group-title='МУЛЬТФИЛЬМЫ', Стань легендой! Бигфут Младший [МУЛЬТ/БЕЛЬГИЯ/2017]
+#EXTINF: -1 group-title='Детские', Стань легендой! Бигфут Младший [МУЛЬТ/БЕЛЬГИЯ/2017]
 http://dmi3y-tv.ru/hls/multfilm/STAN_LEGENDOY.m3u8
-#EXTINF: -1 group-title='МУЛЬТФИЛЬМЫ', Дикие предки [МУЛЬТ/ВЕЛИКОБРИТАНИЯ/2018]
+#EXTINF: -1 group-title='Детские', Дикие предки [МУЛЬТ/ВЕЛИКОБРИТАНИЯ/2018]
 http://dmi3y-tv.ru/hls/multfilm/DIKIE_PREDKI.m3u8
-#EXTINF: -1 group-title='МУЗЫК РАДИО8', Жара HD
+#EXTINF: -1 group-title='Детские', Ералаш
+https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title='Детские', Мультимузыка
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/749/index.m3u8
+#EXTINF: -1 group-title='Детские', Мультиландия
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/5055/index.m3u8
+#EXTINF: -1 group-title='Детские', Мульт HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/921/index.m3u8
+#EXTINF: -1 group-title='Детские', Мульт
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/909/index.m3u8
+#EXTINF: -1 group-title='Детские', VF Союзмультфильм
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/14238/index.m3u8
+#EXTINF: -1 group-title='Детские', VF Новогодние мультфильмы
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/15523/index.m3u8
+#EXTINF: -1 group-title='Детские', VF Мультфильмы СССР
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/10086/index.m3u8
+#EXTINF: -1 group-title='Детские', VF Ералаш
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/14163/index.m3u8
+#EXTINF: -1 group-title='Детские', KLI Мультики HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/20048/index.m3u8
+#EXTINF: -1 group-title='Детские', 2x2
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/702/index.m3u8
+#EXTINF: -1 group-title='Кино и сериалы', Кино и сериалы (СМОТРИМ)
+http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALY.m3u8
+#EXTINF: -1 group-title='Кино и сериалы', KINO 24
+http://dmi3y-tv.ru/hls/CH_KINO24.m3u8
+#EXTINF: -1 group-title='Кино и сериалы', КОШМАР
+http://dmi3y-tv.ru/hls/CH_KOSHMAR.m3u8
+#EXTINF: -1 group-title='Кино и сериалы', Кинопоказ
+http://31.148.48.15:80/Kinopokaz/index.m3u8?token=test
+#EXTINF: -1 group-title='Кино и сериалы', CINEMA
+http://dmi3y-tv.ru/hls/CH_CINEMA.m3u8
+#EXTINF: -1 group-title='Кино и сериалы', СМОТРИМ
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+#EXTINF: -1 group-title='Кино и сериалы', Retrovision Movies
+https://fl1001.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title='Кино и сериалы', Кинозалы 1
+https://fl1001.bozztv.com/ushba13/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title='Кино и сериалы', Кинозалы 2
+https://fl1001.bozztv.com/ushba14/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title='Кино и сериалы', Кинозалы 3
+https://fl1001.bozztv.com/ushba24/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title='Кино и сериалы', Кинозалы 4
+https://fl1001.bozztv.com/ushba26/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title='Кино и сериалы', Кинозалы 5
+https://fl1001.bozztv.com/ushba-films-b/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title='Кино и сериалы', Кинозалы 6
+https://fl1001.bozztv.com/ushba-films-c/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title='Кино и сериалы', Кинозалы 7
+https://fl1001.bozztv.com/ushba-films-d/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title='Кино и сериалы', Кинозалы 8
+https://fl1001.bozztv.com/ushba-films-e/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title='Кино и сериалы', Кинозалы 9
+https://fl1001.bozztv.com/ushba-films-f/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title='Кино и сериалы', Кинозалы 10
+https://fl1001.bozztv.com/ushba-films-g/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title='Кино и сериалы', Кинозалы 11
+https://fl1001.bozztv.com/ushba-films-h/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title='Кино и сериалы', Кинозалы 12
+https://fl1001.bozztv.com/ushba-films-i/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title='Кино и сериалы', Кинозалы 13
+https://fl1001.bozztv.com/ushba-films-j/index.m3u8
+#EXTINF: -1 group-title='Кино и сериалы', Кинозалы 14
+https://fl1001.bozztv.com/ushba-films-m/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title='Кино и сериалы', Кинозалы 15
+https://fl1001.bozztv.com/ushba-films-p/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title='Кино и сериалы', Кинозалы 16
+https://fl1001.bozztv.com/ushba-films-t/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title='Кино и сериалы', Кинозалы 17
+https://fl1001.bozztv.com/ushba-films-yz/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title='Кино и сериалы', Кинозалы 18
+https://fl1001.bozztv.com/ushba-films-n/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title='Кино и сериалы', Кинозалы 19
+https://fl1001.bozztv.com/ushba-films-qr/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title='Кино и сериалы', Кинозалы 20
+https://fl1001.bozztv.com/ushba-films-uv/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title='Кино и сериалы', Кинозалы 21
+https://fl1001.bozztv.com/ushba-films-o/index.m3u8
+#EXTINF: -1 group-title='Кино и сериалы', Кинозалы 22
+https://fl1001.bozztv.com/ushba-films-s/index.m3u8
+#EXTINF: -1 group-title='Кино и сериалы', Кинозалы 23
+https://fl1001.bozztv.com/ushba-films-w/index.m3u8
+#EXTINF: -1 group-title='Кино и сериалы', Кинозалы 24
+https://fl1001.bozztv.com/ushba-rfilrms-0/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title='Кино и сериалы', Кинозалы 26
+https://fl1001.bozztv.com/ushba-rfilrms-b/index.m3u8
+#EXTINF: -1 group-title='Кино и сериалы', Кинозалы 27
+https://fl1001.bozztv.com/ushba-rfilrms-c/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title='Кино и сериалы', Кинозалы 28
+https://fl1001.bozztv.com/ushba-rfilrms-d/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title='Кино и сериалы', Кинозалы 29
+https://fl1001.bozztv.com/ushba-rfilrms-e/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title='Кино и сериалы', Кинозалы 30
+https://fl1001.bozztv.com/ushba-rfilrms-g/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title='Кино и сериалы', Кинозалы 31
+https://fl1001.bozztv.com/ushba-rfilrms-i/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title='Кино и сериалы', Кинозалы 32
+https://fl1001.bozztv.com/ushba-rfilrms-k/index.m3u8
+#EXTINF: -1 group-title='Кино и сериалы', Кинозалы 34
+https://fl1001.bozztv.com/ushba-rfilrms-v/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title='Кино и сериалы', Кинозалы 35
+https://fl1001.bozztv.com/ushba-rfilrms-z/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title='Кино и сериалы', Кино и сериалы HD (СМОТРИМ)
+http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALYHD.m3u8
+#EXTINF: -1 group-title='Кино и сериалы', КИНО ТВ
+http://dmi3y-tv.ru/hls/CH_KINOTV.m3u8
+#EXTINF: -1 group-title='Кино и сериалы', Cinema Космос ТВ
+http://178.124.152.238:8088/cinema
+#EXTINF: -1 group-title='Кино и сериалы', Amedia Premium HD
+http://195.18.23.20:8000/play/3/index.m3u8
+#EXTINF: -1 group-title='Кино и сериалы', Дом кино
+https://streaming.goodstream.cyou/live/44.m3u8
+#EXTINF: -1 group-title='Кино и сериалы', Советское кино
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/6545/index.m3u8
+#EXTINF: -1 group-title='Кино и сериалы', Советская киноклассика HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2146/index.m3u8
+#EXTINF: -1 group-title='Кино и сериалы', Наше Новое Кино
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/517/index.m3u8
+#EXTINF: -1 group-title='Кино и сериалы', КиноМульт
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/20009/index.m3u8
+#EXTINF: -1 group-title='Кино и сериалы', Триколор След
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/18127/index.m3u8
+#EXTINF: -1 group-title='Кино и сериалы', Триколор Ментовские войны
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/18128/index.m3u8
+#EXTINF: -1 group-title='Кино и сериалы', НТВ Стиль
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/745/index.m3u8
+#EXTINF: -1 group-title='Кино и сериалы', НТВ Сериал
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/744/index.m3u8
+#EXTINF: -1 group-title='Кино и сериалы', НТВ Право
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/743/index.m3u8
+#EXTINF: -1 group-title='Кино и сериалы', Мосфильм. Золотая коллекция
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/6392/index.m3u8
+#EXTINF: -1 group-title='Спортивные', Матч! (Архив)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
+#EXTINF: -1 group-title='Спортивные', Матч ТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/video_800x450_avc1/variant.m3u8
+#EXTINF: -1 group-title='Спортивные', Red Bull TV
+http://dmi3y-tv.ru/hls/CH_REDBULLTV.m3u8
+#EXTINF: -1 group-title='Спортивные', M-1 Global
+http://stream-msk-10.ott.tricolor.tv/dtv/id524_MSKSG-PVR-1--M1_Global/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc0MTAwNTkzOSwiaHdpZCI6IjUyNmZhZDdjYzRkMTFmYmNhNDEwNmFiOTFjNTFmNjc4NWY3ZjYxN2FmMDk5NzY0ZjczNGIxMTI2MGM4NDNlODciLCJsYXN0X3JlcV9kYXRlIjoxNzQwNDAxMTM5LCJzZXNzaW9uX2lkIjoiYjZkNjkyZDI1N2ZjNjQ0NzM1MjZjZWVmYjdkOWVhNjUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ix3vf4NI6snMQ6FXhBa6rWaboApbdaOCFXZ-CzNPCgE&curPos=24022025122116&sid=74ed220f-9145-4ff0-bee4-14351c6fa46e
+#EXTINF: -1 group-title='Спортивные', Eurosport 2
+http://rr2.73mtv.org/~109e1a3c05fcad5b22d13b9453dc0db5122/58/hls/pl.m3u8
+#EXTINF: -1 group-title='Спортивные', Старт HD
+http://stream-msk-13.ott.tricolor.tv/dtv/id625_MSKSG-PVR-1--Start/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc0MTAwNTkzOSwiaHdpZCI6IjUyNmZhZDdjYzRkMTFmYmNhNDEwNmFiOTFjNTFmNjc4NWY3ZjYxN2FmMDk5NzY0ZjczNGIxMTI2MGM4NDNlODciLCJsYXN0X3JlcV9kYXRlIjoxNzQwNDAxMTM5LCJzZXNzaW9uX2lkIjoiYjZkNjkyZDI1N2ZjNjQ0NzM1MjZjZWVmYjdkOWVhNjUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ix3vf4NI6snMQ6FXhBa6rWaboApbdaOCFXZ-CzNPCgE&curPos=24022025122116&sid=74ed220f-9145-4ff0-bee4-14351c6fa46e
+#EXTINF: -1 group-title='Спортивные', Матч! Арена
+http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
+#EXTINF: -1 group-title='Спортивные', KHL
+http://178.124.152.238:8088/khl
+#EXTINF: -1 group-title='Спортивные', КХЛ HD
+http://tv.streams.baikal-telecom.net:8080/KHL_HD/mpegts
+#EXTINF: -1 group-title='Спортивные', NHL (Интересные моменты)
+https://nhl-firetv.amagi.tv/playlist.m3u8
+#EXTINF: -1 group-title='Спортивные', ТВ Спорт
+http://stream-msk-06.ott.tricolor.tv/dtv/id733_MSKSG-PVR-1--Sportivnii/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc0MTAwNTkzOSwiaHdpZCI6IjUyNmZhZDdjYzRkMTFmYmNhNDEwNmFiOTFjNTFmNjc4NWY3ZjYxN2FmMDk5NzY0ZjczNGIxMTI2MGM4NDNlODciLCJsYXN0X3JlcV9kYXRlIjoxNzQwNDAxMTM5LCJzZXNzaW9uX2lkIjoiYjZkNjkyZDI1N2ZjNjQ0NzM1MjZjZWVmYjdkOWVhNjUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ix3vf4NI6snMQ6FXhBa6rWaboApbdaOCFXZ-CzNPCgE&curPos=24022025122116&sid=74ed220f-9145-4ff0-bee4-14351c6fa46e
+#EXTINF: -1 group-title='Спортивные', Конный мир HD
+http://cdn-01.bonus-tv.ru/kmir/mono.m3u8
+#EXTINF: -1 group-title='Спортивные', Астрахань Спорт
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
+#EXTINF: -1 group-title='Спортивные', A21 Network
+https://tv.a21network.ru/content/37909/index.m3u8
+#EXTINF: -1 group-title='Спортивные', Canal Motor
+http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+#EXTINF: -1 group-title='Спортивные', Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF: -1 group-title='Спортивные', Матч! Футбол 3
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/522/index.m3u8
+#EXTINF: -1 group-title='Спортивные', Матч! Футбол 2
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/530/index.m3u8
+#EXTINF: -1 group-title='Спортивные', Матч! Футбол 1
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/124/index.m3u8
+#EXTINF: -1 group-title='Спортивные', Матч! Страна
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/107/index.m3u8
+#EXTINF: -1 group-title='Спортивные', Матч! Премьер
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/531/index.m3u8
+#EXTINF: -1 group-title='Спортивные', Матч! Планета
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/123/index.m3u8
+#EXTINF: -1 group-title='Спортивные', Матч! Игра
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/529/index.m3u8
+#EXTINF: -1 group-title='Спортивные', Матч! Боец
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/150/index.m3u8
+#EXTINF: -1 group-title='Спортивные', Матч! Арена
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/528/index.m3u8
+#EXTINF: -1 group-title='Спортивные', Матч ТВ HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/212/index.m3u8
+#EXTINF: -1 group-title='Спортивные', Матч ТВ +8
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/6052/index.m3u8
+#EXTINF: -1 group-title='Спортивные', Матч ТВ +4
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/6023/index.m3u8
+#EXTINF: -1 group-title='Спортивные', Матч ТВ +2
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/6012/index.m3u8
+#EXTINF: -1 group-title='Спортивные', Матч ТВ
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/535/index.m3u8
+#EXTINF: -1 group-title='Спортивные', Viju+ Sport
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/160/index.m3u8
+#EXTINF: -1 group-title='Спортивные', V Sport Ultra HD SE
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19163/index.m3u8
+#EXTINF: -1 group-title='Познавательные', Теледом ТВ
+http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
+#EXTINF: -1 group-title='Познавательные', к16
+http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
+#EXTINF: -1 group-title='Познавательные', Ветта 24
+http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
+#EXTINF: -1 group-title='Познавательные', Известия ТВ
+http://hls-igi.cdnvideo.ru/igi/igi_lq/playlist.m3u8
+#EXTINF: -1 group-title='Познавательные', РЖД ТВ
+http://hls.tva.cdnvideo.ru/tva/tva.sdp/playlist.m3u8
+#EXTINF: -1 group-title='Познавательные', ТРК Евразия
+http://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
+#EXTINF: -1 group-title='Познавательные', Наш Дом
+http://85.234.33.63/stream/c11.m3u8
+#EXTINF: -1 group-title='Познавательные', Радость Моя
+https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
+#EXTINF: -1 group-title='Познавательные', Эхо ТВ
+https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
+#EXTINF: -1 group-title='Познавательные', Прима
+http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playlist.m3u8
+#EXTINF: -1 group-title='Познавательные', Univer TV
+http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
+#EXTINF: -1 group-title='Познавательные', ПРОДВИЖЕНИЕ
+http://dmi3y-tv.ru/hls/CH_PRODVIZHENIE.m3u8
+#EXTINF: -1 group-title='Познавательные', Ратник
+http://dmi3y-tv.ru/hls/CH_RATNIK.m3u8
+#EXTINF: -1 group-title='Познавательные', МосОбр ТВ
+http://retc.educom.ru/mosobrtv/tv1/index.m3u8
+#EXTINF: -1 group-title='Познавательные', Нано
+http://s1.tv-nano.com/Nano_rec/video.m3u8
+#EXTINF: -1 group-title='Познавательные', Просвещение
+https://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8
+#EXTINF: -1 group-title='Познавательные', Ратник
+http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
+#EXTINF: -1 group-title='Познавательные', Эхо TV
+https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
+#EXTINF: -1 group-title='Познавательные', Star Media
+https://fl1001.bozztv.com/ushba4/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title='Познавательные', Документалка 1
+https://fl1001.bozztv.com/ushba28/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title='Познавательные', Документалка 3
+https://fl1001.bozztv.com/ushba38/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title='Познавательные', Моя Планета
+http://tv.streams.baikal-telecom.net:8080/Moya_Planeta/index.m3u8
+#EXTINF: -1 group-title='Познавательные', Просвещение
+http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title='Познавательные', 360° Международный HD
+http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/mono.m3u8
+#EXTINF: -1 group-title='Познавательные', Первый Космический HD
+http://stream-msk-03.ott.tricolor.tv/dtv/id159_MSKSG-PVR-1--HD_Eureka/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc0MTAwNTkzOSwiaHdpZCI6IjUyNmZhZDdjYzRkMTFmYmNhNDEwNmFiOTFjNTFmNjc4NWY3ZjYxN2FmMDk5NzY0ZjczNGIxMTI2MGM4NDNlODciLCJsYXN0X3JlcV9kYXRlIjoxNzQwNDAxMTM5LCJzZXNzaW9uX2lkIjoiYjZkNjkyZDI1N2ZjNjQ0NzM1MjZjZWVmYjdkOWVhNjUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ix3vf4NI6snMQ6FXhBa6rWaboApbdaOCFXZ-CzNPCgE&curPos=24022025122116&sid=74ed220f-9145-4ff0-bee4-14351c6fa46e
+#EXTINF: -1 group-title='Познавательные', Дикая рыбалка HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2005/index.m3u8
+#EXTINF: -1 group-title='Познавательные', Диалоги о рыбалке
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2394/index.m3u8
+#EXTINF: -1 group-title='Познавательные', VF Рыбалка
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/16138/index.m3u8
+#EXTINF: -1 group-title='Познавательные', Охота и рыбалка
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2019/index.m3u8
+#EXTINF: -1 group-title='Познавательные', Дикая охота HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2004/index.m3u8
+#EXTINF: -1 group-title='Познавательные', VF Охота
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/15513/index.m3u8
+#EXTINF: -1 group-title='Познавательные', Animal Planet
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/137/index.m3u8
+#EXTINF: -1 group-title='Познавательные', Investigation Discovery
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2085/index.m3u8
+#EXTINF: -1 group-title='Познавательные', Discovery Channel
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/140/index.m3u8
+#EXTINF: -1 group-title='Познавательные', Телепутешествия
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2051/index.m3u8
+#EXTINF: -1 group-title='Познавательные', Океан HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/703/index.m3u8
+#EXTINF: -1 group-title='Познавательные', Моя Планета
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/117/index.m3u8
+#EXTINF: -1 group-title='Познавательные', Зоо ТВ
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2100/index.m3u8
+#EXTINF: -1 group-title='Познавательные', Живая природа HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2074/index.m3u8
+#EXTINF: -1 group-title='Познавательные', Живая Планета
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2101/index.m3u8
+#EXTINF: -1 group-title='Познавательные', Домашние Животные
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/158/index.m3u8
+#EXTINF: -1 group-title='Познавательные', Глазами Туриста HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2104/index.m3u8
+#EXTINF: -1 group-title='Познавательные', Вопросы и ответы
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2026/index.m3u8
+#EXTINF: -1 group-title='Познавательные', В мире животных HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2089/index.m3u8
+#EXTINF: -1 group-title='Познавательные', Большая Азия HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2009/index.m3u8
+#EXTINF: -1 group-title='Познавательные', Бобёр
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/725/index.m3u8
+#EXTINF: -1 group-title='Познавательные', Zоопарк
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/731/index.m3u8
+#EXTINF: -1 group-title='Познавательные', Yosso TV Travel
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31619/index.m3u8
+#EXTINF: -1 group-title='Познавательные', Yosso TV Nature
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31618/index.m3u8
+#EXTINF: -1 group-title='Познавательные', Yosso TV Food
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31616/index.m3u8
+#EXTINF: -1 group-title='Познавательные', Yosso TV Adrenaline
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/15105/index.m3u8
+#EXTINF: -1 group-title='Познавательные', Viju Nature
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/161/index.m3u8
+#EXTINF: -1 group-title='Познавательные', Viju History
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/162/index.m3u8
+#EXTINF: -1 group-title='Познавательные', Viju Explore
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/163/index.m3u8
+#EXTINF: -1 group-title='Познавательные', VF Стройка
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/16139/index.m3u8
+#EXTINF: -1 group-title='Познавательные', VF Путешествия
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/15515/index.m3u8
+#EXTINF: -1 group-title='Познавательные', VF Орел и решка
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31476/index.m3u8
+#EXTINF: -1 group-title='Познавательные', Travel+Adventure
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/850/index.m3u8
+#EXTINF: -1 group-title='Познавательные', Travel Channel HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/233/index.m3u8
+#EXTINF: -1 group-title='Познавательные', The Explorers HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/16035/index.m3u8
+#EXTINF: -1 group-title='Познавательные', TERRA
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/230/index.m3u8
+#EXTINF: -1 group-title='Познавательные', National Geographic
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/14000/index.m3u8
+#EXTINF: -1 group-title='Познавательные', Nat Geo Wild
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/133/index.m3u8
+#EXTINF: -1 group-title='Познавательные', Nano
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2081/index.m3u8
+#EXTINF: -1 group-title='Познавательные', Investigation Discovery
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2085/index.m3u8
+#EXTINF: -1 group-title='Музыкальные', Жара HD
 http://188.113.190.15/328/mono.m3u8
-#EXTINF: -1 group-title='МУЗЫК РАДИО8', Вести ФМ
+#EXTINF: -1 group-title='Музыкальные', Вести ФМ
 http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_192kbps
-#EXTINF: -1 group-title='МУЗЫК РАДИО8', Маяк
+#EXTINF: -1 group-title='Музыкальные', Маяк
 http://icecast-vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps
-#EXTINF: -1 group-title='МУЗЫК РАДИО8', Радио России
+#EXTINF: -1 group-title='Музыкальные', Радио России
 http://icecast-vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps
-#EXTINF: -1 group-title='МУЗЫК РАДИО8', МузСоюз
+#EXTINF: -1 group-title='Музыкальные', МузСоюз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
-#EXTINF: -1 group-title='МУЗЫК РАДИО8', OCKO HITY
-http://dmi3y-tv.ru/hls/CH_OCKOHITY.m3u8
-#EXTINF: -1 group-title='МУЗЫК РАДИО8', OCKO STAR
-http://dmi3y-tv.ru/hls/CH_OCKOSTAR.m3u8
-#EXTINF: -1 group-title='МУЗЫК РАДИО8', OneBY
+#EXTINF: -1 group-title='Музыкальные', OneBY
 http://dmi3y-tv.ru/hls/CH_1MUZ.m3u8
-#EXTINF: -1 group-title='МУЗЫК РАДИО8', ТНТ MUSIC
+#EXTINF: -1 group-title='Музыкальные', ТНТ MUSIC
 http://dmi3y-tv.ru/hls/CH_TNT_MUSIC.m3u8
-#EXTINF: -1 group-title='МУЗЫК РАДИО8', V2BEAT HD720
+#EXTINF: -1 group-title='Музыкальные', V2BEAT HD720
 http://dmi3y-tv.ru/hls/CH_V2BEATHD720.m3u8
-#EXTINF: -1 group-title='МУЗЫК РАДИО8', Spirit TV
-http://dmi3y-tv.ru/hls/CH_SPIRITTV.m3u8
-#EXTINF: -1 group-title='МУЗЫК РАДИО8', Kronehit
+#EXTINF: -1 group-title='Музыкальные', Kronehit
 http://dmi3y-tv.ru/hls/CH_KRONEHIT.m3u8
-#EXTINF: -1 group-title='МУЗЫК РАДИО8', 88 Stereo HD720
+#EXTINF: -1 group-title='Музыкальные', 88 Stereo HD720
 http://dmi3y-tv.ru/hls/CH_88STEREOHD720.m3u8
-#EXTINF: -1 group-title='МУЗЫК РАДИО8', TRACE Urban
+#EXTINF: -1 group-title='Музыкальные', TRACE Urban
 http://dmi3y-tv.ru/hls/CH_TRACE_URBAN.m3u8
-#EXTINF: -1 group-title='МУЗЫК РАДИО8', [Радио] Радио России 66.44 УКВ (Москва)
+#EXTINF: -1 group-title='Музыкальные', [Радио] Радио России 66.44 УКВ (Москва)
 http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_64kbps
-#EXTINF: -1 group-title='МУЗЫК РАДИО8', [Радио] Jazz FM 89.1 FM (Москва)
+#EXTINF: -1 group-title='Музыкальные', [Радио] Jazz FM 89.1 FM (Москва)
 http://nashe3.hostingradio.ru/jazz-128.mp3
-#EXTINF: -1 group-title='МУЗЫК РАДИО8', [Радио] Страна FM 89.9 FM (Москва)
-http://icecast.stranafm.cdnvideo.ru/stranafm
-#EXTINF: -1 group-title='МУЗЫК РАДИО8', [Радио] Relax FM 90.8 FM (Москва)
+#EXTINF: -1 group-title='Музыкальные', [Радио] Relax FM 90.8 FM (Москва)
 http://ic7.101.ru:8000/v13_1
-#EXTINF: -1 group-title='МУЗЫК РАДИО8', [Радио] Культура 91.6 FM (Москва)
-http://icecast.vgtrk.cdnvideo.ru/kulturafm_mp3_64kbps
-#EXTINF: -1 group-title='МУЗЫК РАДИО8', [Радио] Rock FM 95.2 FM (Москва)
+#EXTINF: -1 group-title='Музыкальные', [Радио] Rock FM 95.2 FM (Москва)
 http://nashe1.hostingradio.ru/rock-128.mp3
-#EXTINF: -1 group-title='МУЗЫК РАДИО8', [Радио] Дорожное радио 96.0 FM (Москва)
+#EXTINF: -1 group-title='Музыкальные', [Радио] Дорожное радио 96.0 FM (Москва)
 http://dorognoe.hostingradio.ru:8000/dorognoe_acc
-#EXTINF: -1 group-title='МУЗЫК РАДИО8', [Радио] Комсомольская Правда 97.2 FM (Москва)
+#EXTINF: -1 group-title='Музыкальные', [Радио] Комсомольская Правда 97.2 FM (Москва)
 http://kpradio.hostingradio.ru:8000/128
-#EXTINF: -1 group-title='МУЗЫК РАДИО8', [Радио] Новое Радио 98.4 FM (Москва)
+#EXTINF: -1 group-title='Музыкальные', [Радио] Новое Радио 98.4 FM (Москва)
 http://icecast.newradio.cdnvideo.ru/newradio3
-#EXTINF: -1 group-title='МУЗЫК РАДИО8', [Радио] Best FM 100.5 FM (Москва)
+#EXTINF: -1 group-title='Музыкальные', [Радио] Best FM 100.5 FM (Москва)
 http://nashe3.hostingradio.ru/best-128.mp3
-#EXTINF: -1 group-title='МУЗЫК РАДИО8', [Радио] Наше радио 101.7 FM (Москва)
+#EXTINF: -1 group-title='Музыкальные', [Радио] Наше радио 101.7 FM (Москва)
 http://nashe3.hostingradio.ru/nashe-128.mp3
-#EXTINF: -1 group-title='18', Porn Classic
+#EXTINF: -1 group-title='Fashion18', Porn Classic
 http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
-#EXTINF: -1 group-title='18', Rouge TV
+#EXTINF: -1 group-title='Fashion18', Rouge TV
 http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
-#EXTINF: -1 group-title='18', Babestation
-http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
-#EXTINF: -1 group-title='18', Rough
+#EXTINF: -1 group-title='Fashion18', Rough
 http://cdn.adultiptv.net/rough.m3u8
-#EXTINF: -1 group-title='18', Blonde
+#EXTINF: -1 group-title='Fashion18', Blonde
 http://cdn.adultiptv.net/blonde.m3u8
-#EXTINF: -1 group-title='18', Anal
+#EXTINF: -1 group-title='Fashion18', Anal
 http://cdn.adultiptv.net/anal.m3u8
-#EXTINF: -1 group-title='18', Live Cams
+#EXTINF: -1 group-title='Fashion18', Live Cams
 http://cdn.adultiptv.net/livecams.m3u8
-#EXTINF: -1 group-title='18', Russian
+#EXTINF: -1 group-title='Fashion18', Russian
 http://cdn.adultiptv.net/russian.m3u8
-#EXTINF: -1 group-title='18', Threesome
+#EXTINF: -1 group-title='Fashion18', Threesome
 http://cdn.adultiptv.net/threesome.m3u8
-#EXTINF: -1 group-title='18', Hardcore
+#EXTINF: -1 group-title='Fashion18', Hardcore
 http://cdn.adultiptv.net/hardcore.m3u8
-#EXTINF: -1 group-title='18', Teen
+#EXTINF: -1 group-title='Fashion18', Teen
 http://cdn.adultiptv.net/teen.m3u8
-#EXTINF: -1 group-title='18', Blowjob
+#EXTINF: -1 group-title='Fashion18', Blowjob
 http://cdn.adultiptv.net/blowjob.m3u8
-#EXTINF: -1 group-title='18', POV
+#EXTINF: -1 group-title='Fashion18', POV
 http://cdn.adultiptv.net/pov.m3u8
-#EXTINF: -1 group-title='18', Latina
+#EXTINF: -1 group-title='Fashion18', Latina
 http://cdn.adultiptv.net/latina.m3u8
-#EXTINF: -1 group-title='18', Interracial
+#EXTINF: -1 group-title='Fashion18', Interracial
 http://cdn.adultiptv.net/interracial.m3u8
-#EXTINF: -1 group-title='18', Big Ass
+#EXTINF: -1 group-title='Fashion18', Big Ass
 http://cdn.adultiptv.net/bigass.m3u8
-#EXTINF: -1 group-title='18', Fetish
+#EXTINF: -1 group-title='Fashion18', Fetish
 http://cdn.adultiptv.net/fetish.m3u8
-#EXTINF: -1 group-title='18', Big Tits
+#EXTINF: -1 group-title='Fashion18', Big Tits
 http://live.redtraffic.xyz/bigtits.m3u8
-#EXTINF: -1 group-title='18', Big Dick
+#EXTINF: -1 group-title='Fashion18', Big Dick
 http://cdn.adultiptv.net/bigdick.m3u8
-#EXTINF: -1 group-title='18', MILF
+#EXTINF: -1 group-title='Fashion18', MILF
 http://cdn.adultiptv.net/milf.m3u8
-#EXTINF: -1 group-title='18', Pornstar
+#EXTINF: -1 group-title='Fashion18', Pornstar
 http://cdn.adultiptv.net/pornstar.m3u8
-#EXTINF: -1 group-title='18', Lesbian
+#EXTINF: -1 group-title='Fashion18', Lesbian
 http://cdn.adultiptv.net/lesbian.m3u8
-#EXTINF: -1 group-title='18', Bigass HD
+#EXTINF: -1 group-title='Fashion18', Bigass HD
 http://live.redtraffic.xyz/bigass.m3u8
-#EXTINF: -1 group-title='18', Cuckold HD
+#EXTINF: -1 group-title='Fashion18', Cuckold HD
 http://live.redtraffic.xyz/cuckold.m3u8
-#EXTINF: -1 group-title='18', Fetish HD
+#EXTINF: -1 group-title='Fashion18', Fetish HD
 http://live.redtraffic.xyz/fetish.m3u8
-#EXTINF: -1 group-title='18', Hard Core
+#EXTINF: -1 group-title='Fashion18', Hard Core
 http://live.redtraffic.xyz/hardcore.m3u8
-#EXTINF: -1 group-title='18', Interracial HD
+#EXTINF: -1 group-title='Fashion18', Interracial HD
 http://live.redtraffic.xyz/interracial.m3u8
-#EXTINF: -1 group-title='18', Milf HD
+#EXTINF: -1 group-title='Fashion18', Milf HD
 http://live.redtraffic.xyz/milf.m3u8
-#EXTINF: -1 group-title='18', Lesbian
+#EXTINF: -1 group-title='Fashion18', Lesbian
 http://cdn.adultiptv.net/lesbian.m3u8
-#EXTINF: -1 group-title='18', Bigass HD
+#EXTINF: -1 group-title='Fashion18', Bigass HD
 http://live.redtraffic.xyz/bigass.m3u8
-#EXTINF: -1 group-title='18', Cuckold HD
+#EXTINF: -1 group-title='Fashion18', Cuckold HD
 http://live.redtraffic.xyz/cuckold.m3u8
-#EXTINF: -1 group-title='18', Fetish HD
+#EXTINF: -1 group-title='Fashion18', Fetish HD
 http://live.redtraffic.xyz/fetish.m3u8
-#EXTINF: -1 group-title='18', Hard Core
+#EXTINF: -1 group-title='Fashion18', Hard Core
 http://live.redtraffic.xyz/hardcore.m3u8
-#EXTINF: -1 group-title='18', Interracial HD
+#EXTINF: -1 group-title='Fashion18', Interracial HD
 http://live.redtraffic.xyz/interracial.m3u8
-#EXTINF: -1 group-title='18', Latina HD 720
+#EXTINF: -1 group-title='Fashion18', Latina HD 720
 http://live.redtraffic.xyz/latina.m3u8
-#EXTINF: -1 group-title='18', Lesbian HD
+#EXTINF: -1 group-title='Fashion18', Lesbian HD
 http://live.redtraffic.xyz/lesbian.m3u8
-#EXTINF: -1 group-title='18', Milf HD
+#EXTINF: -1 group-title='Fashion18', Milf HD
 http://live.redtraffic.xyz/milf.m3u8
-#EXTINF: -1 group-title='18', POV HD 720
+#EXTINF: -1 group-title='Fashion18', POV HD 720
 http://live.redtraffic.xyz/pov.m3u8
