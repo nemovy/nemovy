@@ -5,8 +5,6 @@ http://a0925677.xsph.ru/hls/zabava/region/STAVR/CH_KAVKAZ24.m3u8
 http://a0925677.xsph.ru/hls/region/CH_SVOETV_STAVR.m3u8
 #EXTINF: -1 group-title='Эфир', АТВ (Ставрополь)
 http://a0925677.xsph.ru/hls/zabava/region/STAVR/CH_ATV.m3u8
-#EXTINF: -1 group-title='Эфир', Своё ТВ Ставрополь HD
-http://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R03_STV-PLUS/variant.m3u8
 #EXTINF: -1 group-title='Эфир', Первый канал
 http://a0925677.xsph.ru/hls/DVB-T2/CH_1TV.m3u8
 #EXTINF: -1 group-title='Эфир', Россия 1
@@ -601,8 +599,16 @@ https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
 http://flm2t9h3.otttv.pw/iptv/5H7NYUKHHNBDRH9LW8BQRMFN/2028/index.m3u8
 #EXTINF: -1 group-title='Детски', Солнце
 http://flm2t9h3.otttv.pw/iptv/5H7NYUKHHNBDRH9LW8BQRMFN/872/index.m3u8
-#EXTINF: -1 group-title='Развлекательны', VF Орел и решка
+#EXTINF: -1 group-title='Развлекательны', VF Орел и решка1
 http://flm2t9h3.otttv.pw/iptv/5H7NYUKHHNBDRH9LW8BQRMFN/31476/index.m3u8
+#EXTINF: -1 group-title='Развлекательны', VF Орел и решка2
+http://rhsbjv7k.tvclub.xyz/iptv/CTHKNGFSE8DXT3/31476/index.m3u8
+#EXTINF: -1 group-title='Развлекательны', VF Орел и решка
+http://e465ef11.ottolok.net/iptv/XMN783XM3DVAPS4KNNG6TBM7/31476/index.m3u8
+#EXTINF: -1 group-title='Развлекательны', VF Владимир Высоцкий
+http://e465ef11.ottolok.net/iptv/XMN783XM3DVAPS4KNNG6TBM7/10066/index.m3u8
+#EXTINF: -1 group-title='Развлекательны', Вопросы и ответы orig
+http://e465ef11.ottolok.net/iptv/XMN783XM3DVAPS4KNNG6TBM7/9297/index.m3u8
 #EXTINF: -1 group-title='Развлекательны', Анекдот ТВ
 http://flm2t9h3.otttv.pw/iptv/5H7NYUKHHNBDRH9LW8BQRMFN/5034/index.m3u8
 #EXTINF: -1 epg-id='6 кадров' group-title='Развлекательны', 6 КАДРОВ
@@ -649,6 +655,14 @@ http://flm2t9h3.otttv.pw/iptv/5H7NYUKHHNBDRH9LW8BQRMFN/15227/index.m3u8
 http://flm2t9h3.otttv.pw/iptv/5H7NYUKHHNBDRH9LW8BQRMFN/16137/index.m3u8
 #EXTINF: -1 group-title='Развлекательны', VF Уральские пельмени
 http://flm2t9h3.otttv.pw/iptv/5H7NYUKHHNBDRH9LW8BQRMFN/18198/index.m3u8
+#EXTINF: -1 group-title='Кино сериалы', CineMan Ментовские войны
+http://e465ef11.ottolok.net/iptv/XMN783XM3DVAPS4KNNG6TBM7/16063/index.m3u8
+#EXTINF: -1 group-title='Кино сериалы', Триколор Ментовские войны
+http://e465ef11.ottolok.net/iptv/XMN783XM3DVAPS4KNNG6TBM7/18128/index.m3u8
+#EXTINF: -1 group-title='Кино сериалы', VF След
+http://e465ef11.ottolok.net/iptv/XMN783XM3DVAPS4KNNG6TBM7/13086/index.m3u8
+#EXTINF: -1 group-title='Кино сериалы', Триколор След
+http://e465ef11.ottolok.net/iptv/XMN783XM3DVAPS4KNNG6TBM7/18127/index.m3u8
 #EXTINF: -1 group-title='Кино сериалы', НТВ ПРАВО
 http://a0925677.xsph.ru/hls/CH_NTVPRAVO.m3u8
 #EXTINF: -1 group-title='Кино сериалы', НТВ СЕРИАЛ
@@ -1025,6 +1039,92 @@ http://flm2t9h3.otttv.pw/iptv/5H7NYUKHHNBDRH9LW8BQRMFN/10057/index.m3u8
 http://flm2t9h3.otttv.pw/iptv/5H7NYUKHHNBDRH9LW8BQRMFN/10058/index.m3u8
 #EXTINF: -1 group-title='Спорт', StrahTV WWE Russian
 http://flm2t9h3.otttv.pw/iptv/5H7NYUKHHNBDRH9LW8BQRMFN/11056/index.m3u8
+#EXTINF: -1 group-title='Спорт', Танцуй!
+http://e465ef11.ottolok.net/iptv/XMN783XM3DVAPS4KNNG6TBM7/14023/index.m3u8
+#EXTINF: -1 group-title='Спорт', Матч ТВ
+http://e465ef11.ottolok.net/iptv/XMN783XM3DVAPS4KNNG6TBM7/535/index.m3u8
+#EXTINF: -1 group-title='Спорт', Матч ТВ HD
+http://e465ef11.ottolok.net/iptv/XMN783XM3DVAPS4KNNG6TBM7/212/index.m3u8
+#EXTINF: -1 group-title='Спорт', Матч ТВ FHD
+http://e465ef11.ottolok.net/iptv/XMN783XM3DVAPS4KNNG6TBM7/2413/index.m3u8
+#EXTINF: -1 group-title='Спорт', Матч! Премьер
+http://e465ef11.ottolok.net/iptv/XMN783XM3DVAPS4KNNG6TBM7/531/index.m3u8
+#EXTINF: -1 group-title='Спорт', Матч! Премьер HD
+http://e465ef11.ottolok.net/iptv/XMN783XM3DVAPS4KNNG6TBM7/220/index.m3u8
+#EXTINF: -1 group-title='Спорт', Матч! Премьер FHD
+http://e465ef11.ottolok.net/iptv/XMN783XM3DVAPS4KNNG6TBM7/2414/index.m3u8
+#EXTINF: -1 group-title='Спорт', Матч! Футбол 1
+http://e465ef11.ottolok.net/iptv/XMN783XM3DVAPS4KNNG6TBM7/124/index.m3u8
+#EXTINF: -1 group-title='Спорт', Матч! Футбол 1 HD
+http://e465ef11.ottolok.net/iptv/XMN783XM3DVAPS4KNNG6TBM7/222/index.m3u8
+#EXTINF: -1 group-title='Спорт', Матч! Футбол 1 HD 50 orig
+http://e465ef11.ottolok.net/iptv/XMN783XM3DVAPS4KNNG6TBM7/5072/index.m3u8
+#EXTINF: -1 group-title='Спорт', Матч! Футбол 1 FHD
+http://e465ef11.ottolok.net/iptv/XMN783XM3DVAPS4KNNG6TBM7/2407/index.m3u8
+#EXTINF: -1 group-title='Спорт', Матч! Футбол 2
+http://e465ef11.ottolok.net/iptv/XMN783XM3DVAPS4KNNG6TBM7/530/index.m3u8
+#EXTINF: -1 group-title='Спорт', Матч! Футбол 2 HD
+http://e465ef11.ottolok.net/iptv/XMN783XM3DVAPS4KNNG6TBM7/211/index.m3u8
+#EXTINF: -1 group-title='Спорт', Матч! Футбол 2 FHD
+http://e465ef11.ottolok.net/iptv/XMN783XM3DVAPS4KNNG6TBM7/2420/index.m3u8
+#EXTINF: -1 group-title='Спорт', Матч! Футбол 2 HD orig
+http://e465ef11.ottolok.net/iptv/XMN783XM3DVAPS4KNNG6TBM7/290/index.m3u8
+#EXTINF: -1 group-title='Спорт', Матч! Футбол 3
+http://e465ef11.ottolok.net/iptv/XMN783XM3DVAPS4KNNG6TBM7/522/index.m3u8
+#EXTINF: -1 group-title='Спорт', Матч! Футбол 3 HD
+http://e465ef11.ottolok.net/iptv/XMN783XM3DVAPS4KNNG6TBM7/206/index.m3u8
+#EXTINF: -1 group-title='Спорт', Матч! Футбол 3 HD 50 orig
+http://e465ef11.ottolok.net/iptv/XMN783XM3DVAPS4KNNG6TBM7/5071/index.m3u8
+#EXTINF: -1 group-title='Спорт', Матч! Футбол 3 FHD
+http://e465ef11.ottolok.net/iptv/XMN783XM3DVAPS4KNNG6TBM7/2408/index.m3u8
+#EXTINF: -1 group-title='Спорт', Матч! Игра
+http://e465ef11.ottolok.net/iptv/XMN783XM3DVAPS4KNNG6TBM7/529/index.m3u8
+#EXTINF: -1 group-title='Спорт', Матч! Игра HD
+http://e465ef11.ottolok.net/iptv/XMN783XM3DVAPS4KNNG6TBM7/225/index.m3u8
+#EXTINF: -1 group-title='Спорт', Матч! Игра FHD
+http://e465ef11.ottolok.net/iptv/XMN783XM3DVAPS4KNNG6TBM7/2406/index.m3u8
+#EXTINF: -1 group-title='Спорт', Матч! Арена
+http://e465ef11.ottolok.net/iptv/XMN783XM3DVAPS4KNNG6TBM7/528/index.m3u8
+#EXTINF: -1 group-title='Спорт', Матч! Арена HD
+http://e465ef11.ottolok.net/iptv/XMN783XM3DVAPS4KNNG6TBM7/207/index.m3u8
+#EXTINF: -1 group-title='Спорт', Матч! Арена HD orig
+http://e465ef11.ottolok.net/iptv/XMN783XM3DVAPS4KNNG6TBM7/9010/index.m3u8
+#EXTINF: -1 group-title='Спорт', Матч! Страна
+http://e465ef11.ottolok.net/iptv/XMN783XM3DVAPS4KNNG6TBM7/107/index.m3u8
+#EXTINF: -1 group-title='Спорт', Матч! Планета
+http://e465ef11.ottolok.net/iptv/XMN783XM3DVAPS4KNNG6TBM7/123/index.m3u8
+#EXTINF: -1 group-title='Спорт', Матч! Боец
+http://e465ef11.ottolok.net/iptv/XMN783XM3DVAPS4KNNG6TBM7/150/index.m3u8
+#EXTINF: -1 group-title='Спорт', Матч ТВ +2
+http://e465ef11.ottolok.net/iptv/XMN783XM3DVAPS4KNNG6TBM7/6012/index.m3u8
+#EXTINF: -1 group-title='Спорт', Матч ТВ +4
+http://e465ef11.ottolok.net/iptv/XMN783XM3DVAPS4KNNG6TBM7/6023/index.m3u8
+#EXTINF: -1 group-title='Спорт', Матч ТВ +8
+http://e465ef11.ottolok.net/iptv/XMN783XM3DVAPS4KNNG6TBM7/6052/index.m3u8
+#EXTINF: -1 group-title='Спорт', Бокс ТВ
+http://e465ef11.ottolok.net/iptv/XMN783XM3DVAPS4KNNG6TBM7/870/index.m3u8
+#EXTINF: -1 group-title='Спорт', Старт FHD
+http://e465ef11.ottolok.net/iptv/XMN783XM3DVAPS4KNNG6TBM7/2154/index.m3u8
+#EXTINF: -1 group-title='Спорт', Футбол
+http://e465ef11.ottolok.net/iptv/XMN783XM3DVAPS4KNNG6TBM7/5050/index.m3u8
+#EXTINF: -1 group-title='Спорт', Драйв
+http://e465ef11.ottolok.net/iptv/XMN783XM3DVAPS4KNNG6TBM7/2021/index.m3u8
+#EXTINF: -1 group-title='Спорт', ЖИВИ!
+http://e465ef11.ottolok.net/iptv/XMN783XM3DVAPS4KNNG6TBM7/738/index.m3u8
+#EXTINF: -1 group-title='Спорт', Старт HD
+http://e465ef11.ottolok.net/iptv/XMN783XM3DVAPS4KNNG6TBM7/6384/index.m3u8
+#EXTINF: -1 group-title='Спорт', Матч! Страна orig
+http://e465ef11.ottolok.net/iptv/XMN783XM3DVAPS4KNNG6TBM7/9157/index.m3u8
+#EXTINF: -1 group-title='Спорт', Матч! Боец orig
+http://e465ef11.ottolok.net/iptv/XMN783XM3DVAPS4KNNG6TBM7/9159/index.m3u8
+#EXTINF: -1 group-title='Спорт', Бокс ТВ orig
+http://e465ef11.ottolok.net/iptv/XMN783XM3DVAPS4KNNG6TBM7/9162/index.m3u8
+#EXTINF: -1 group-title='Спорт', Драйв orig
+http://e465ef11.ottolok.net/iptv/XMN783XM3DVAPS4KNNG6TBM7/9163/index.m3u8
+#EXTINF: -1 group-title='Спорт', ЖИВИ! orig
+http://e465ef11.ottolok.net/iptv/XMN783XM3DVAPS4KNNG6TBM7/9164/index.m3u8
+#EXTINF: -1 group-title='Спорт', Матч! Премьер orig
+http://e465ef11.ottolok.net/iptv/XMN783XM3DVAPS4KNNG6TBM7/9246/index.m3u8
 #EXTINF: -1 group-title='Музыка', Муз Союз
 http://a0925677.xsph.ru/hls/CH_MUZSOYUZ.m3u8
 #EXTINF: -1 group-title='Музыка', RUTV
