@@ -1,1242 +1,1343 @@
 #EXTM3U
-#EXTINF: -1 group-title='Эфир0', Кавказ 24 (Ставрополь)
-http://a0925677.xsph.ru/hls/zabava/region/STAVR/CH_KAVKAZ24.m3u8
-#EXTINF: -1 group-title='Эфир0', АТВ (Ставрополь)
-http://a0925677.xsph.ru/hls/zabava/region/STAVR/CH_ATV.m3u8
-#EXTINF: -1 group-title='Эфир0', Первый канал
-http://a0925677.xsph.ru/hls/DVB-T2/CH_1TV.m3u8
-#EXTINF: -1 group-title='Эфир0', Россия 1
-http://a0925677.xsph.ru/hls/DVB-T2/CH_RUSSIA1.m3u8
-#EXTINF: -1 group-title='Эфир0', НТВ
-http://a0925677.xsph.ru/hls/DVB-T2/CH_NTV.m3u8
-#EXTINF: -1 group-title='Эфир0', Пятый канал
-http://a0925677.xsph.ru/hls/DVB-T2/CH_5TV.m3u8
-#EXTINF: -1 group-title='Эфир0', Россия К
-http://a0925677.xsph.ru/hls/DVB-T2/CH_RUSSIAK.m3u8
-#EXTINF: -1 group-title='Эфир0', Россия 24
-http://a0925677.xsph.ru/hls/DVB-T2/CH_RUSSIA24.m3u8
-#EXTINF: -1 group-title='Эфир0', Карусель
-http://a0925677.xsph.ru/hls/DVB-T2/CH_KARUSEL.m3u8
-#EXTINF: -1 group-title='Эфир0', ОТР
-http://a0925677.xsph.ru/hls/DVB-T2/CH_OTR.m3u8
-#EXTINF: -1 group-title='Эфир0', ТВЦ
-http://a0925677.xsph.ru/hls/DVB-T2/CH_TVC.m3u8
-#EXTINF: -1 group-title='Эфир0', РЕН ТВ
-http://a0925677.xsph.ru/hls/DVB-T2/CH_RENTV.m3u8
-#EXTINF: -1 group-title='Эфир0', СПАС
-http://a0925677.xsph.ru/hls/DVB-T2/CH_SPAS.m3u8
-#EXTINF: -1 group-title='Эфир0', СТС
-http://a0925677.xsph.ru/hls/DVB-T2/CH_STS.m3u8
-#EXTINF: -1 group-title='Эфир0', Домашний
-http://a0925677.xsph.ru/hls/DVB-T2/CH_DOMASHNIY.m3u8
-#EXTINF: -1 group-title='Эфир0', ТВ3
-http://a0925677.xsph.ru/hls/DVB-T2/CH_TV3.m3u8
-#EXTINF: -1 group-title='Эфир0', Пятница!
-http://a0925677.xsph.ru/hls/DVB-T2/CH_FRIDAY.m3u8
-#EXTINF: -1 group-title='Эфир0', Звезда
-http://a0925677.xsph.ru/hls/DVB-T2/CH_ZVEZDA.m3u8
-#EXTINF: -1 group-title='Эфир0', МИР
-http://a0925677.xsph.ru/hls/DVB-T2/CH_MIR.m3u8
-#EXTINF: -1 group-title='Эфир0', ТНТ
-http://a0925677.xsph.ru/hls/DVB-T2/CH_TNT.m3u8
-#EXTINF: -1 group-title='Эфир0', МУЗ ТВ
-http://a0925677.xsph.ru/hls/DVB-T2/CH_MUZTV.m3u8
-#EXTINF: -1 group-title='Эфир0', Че!
-http://a0925677.xsph.ru/hls/zabava/CH_CHE.m3u8
-#EXTINF: -1 group-title='Эфир0', Ю
-http://a0925677.xsph.ru/hls/zabava/CH_U.m3u8
-#EXTINF: -1 group-title='Эфир0', 2x2
-http://a0925677.xsph.ru/hls/zabava/CH_2X2.m3u8
-#EXTINF: -1 group-title='Эфир0', Суббота!
-http://a0925677.xsph.ru/hls/zabava/CH_SUBBOTA.m3u8
-#EXTINF: -1 group-title='Эфир0', ТНТ4
-http://a0925677.xsph.ru/hls/zabava/CH_TNT4.m3u8
-#EXTINF: -1 group-title='Эфир0', 8 канал
-http://a0925677.xsph.ru/hls/CH_8CHANNEL.m3u8
-#EXTINF: -1 group-title='Эфир0', Солнце
-http://a0925677.xsph.ru/hls/zabava/CH_DISNEY.m3u8
-#EXTINF: -1 group-title='Эфир0', Вести ФМ
+#EXTINF: -1 epg-id='atv-stavropol' user-agent='HlsWinkPlayer' group-title='小褌邪胁褉芯锌芯谢褜', 袗孝袙-小褌邪胁褉芯锌芯谢褜 (小褌邪胁褉芯锌芯谢褜)
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_ATV/variant.m3u8
+#EXTINF: -1 epg-id='kavkaz24' user-agent='HlsWinkPlayer' group-title='小褌邪胁褉芯锌芯谢褜', 袣邪胁泻邪蟹 24 (小械胁械褉芯-袣邪胁泻邪蟹褋泻懈泄 肖袨)
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_KAVKAZ24/variant.m3u8
+#EXTINF: -1 epg-id='svoyo-tv-stavropol' user-agent='HlsWinkPlayer' group-title='小褌邪胁褉芯锌芯谢褜', 小胁芯褢 孝袙 (小褌邪胁褉芯锌芯谢褜)
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R03_STV-PLUS/variant.m3u8
+#EXTINF: -1 epg-id='pervy' user-agent='HlsWinkPlayer' group-title='小褌邪胁褉芯锌芯谢褜', 袩械褉胁褘泄 (小褌邪胁褉芯锌芯谢褜)
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
+#EXTINF: -1 epg-id='rossia1' user-agent='HlsWinkPlayer' group-title='小褌邪胁褉芯锌芯谢褜', 袪芯褋褋懈褟 1 (小褌邪胁褉芯锌芯谢褜)
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
+#EXTINF: -1 epg-id='match-tv' user-agent='HlsWinkPlayer' group-title='小褌邪胁褉芯锌芯谢褜', 袦邪褌褔 孝袙 (小褌邪胁褉芯锌芯谢褜)
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA2/variant.m3u8
+#EXTINF: -1 epg-id='ntv' user-agent='HlsWinkPlayer' group-title='小褌邪胁褉芯锌芯谢褜', 袧孝袙 (小褌邪胁褉芯锌芯谢褜)
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
+#EXTINF: -1 epg-id='5kanal-ru' user-agent='HlsWinkPlayer' group-title='小褌邪胁褉芯锌芯谢褜', 袩褟褌褘泄 (小褌邪胁褉芯锌芯谢褜)
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R02_5TV/variant.m3u8
+#EXTINF: -1 epg-id='kultura' user-agent='HlsWinkPlayer' group-title='小褌邪胁褉芯锌芯谢褜', 袪芯褋褋懈褟 袣 (小褌邪胁褉芯锌芯谢褜)
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK/variant.m3u8
+#EXTINF: -1 epg-id='rossia-24' user-agent='HlsWinkPlayer' group-title='小褌邪胁褉芯锌芯谢褜', 袪芯褋褋懈褟 24 (小褌邪胁褉芯锌芯谢褜)
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
+#EXTINF: -1 epg-id='karusel' user-agent='HlsWinkPlayer' group-title='小褌邪胁褉芯锌芯谢褜', 袣邪褉褍褋械谢褜 (小褌邪胁褉芯锌芯谢褜)
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
+#EXTINF: -1 epg-id='otr' user-agent='HlsWinkPlayer' group-title='小褌邪胁褉芯锌芯谢褜', 袨孝袪 (小褌邪胁褉芯锌芯谢褜)
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_OTR/variant.m3u8
+#EXTINF: -1 epg-id='tvcentr' user-agent='HlsWinkPlayer' group-title='小褌邪胁褉芯锌芯谢褜', 孝袙 笑械薪褌褉 (小褌邪胁褉芯锌芯谢褜)
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
+#EXTINF: -1 epg-id='rentv' user-agent='HlsWinkPlayer' group-title='小褌邪胁褉芯锌芯谢褜', 袪袝袧 孝袙 (小褌邪胁褉芯锌芯谢褜)
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8
+#EXTINF: -1 epg-id='sts' user-agent='HlsWinkPlayer' group-title='小褌邪胁褉芯锌芯谢褜', 小孝小 (小褌邪胁褉芯锌芯谢褜)
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R02_STS/variant.m3u8
+#EXTINF: -1 epg-id='domashny' user-agent='HlsWinkPlayer' group-title='小褌邪胁褉芯锌芯谢褜', 袛芯屑邪褕薪懈泄 (小褌邪胁褉芯锌芯谢褜)
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8
+#EXTINF: -1 epg-id='tv3-ru' user-agent='HlsWinkPlayer' group-title='小褌邪胁褉芯锌芯谢褜', 孝袙-3 (小褌邪胁褉芯锌芯谢褜)
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8
+#EXTINF: -1 epg-id='piatnica' user-agent='HlsWinkPlayer' group-title='小褌邪胁褉芯锌芯谢褜', 袩褟褌薪懈褑邪! (小褌邪胁褉芯锌芯谢褜)
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
+#EXTINF: -1 epg-id='zvezda' user-agent='HlsWinkPlayer' group-title='小褌邪胁褉芯锌芯谢褜', 袟胁械蟹写邪 (小褌邪胁褉芯锌芯谢褜)
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
+#EXTINF: -1 epg-id='tnt' user-agent='HlsWinkPlayer' group-title='小褌邪胁褉芯锌芯谢褜', 孝袧孝 (小褌邪胁褉芯锌芯谢褜)
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8
+#EXTINF: -1 epg-id='che' user-agent='HlsWinkPlayer' group-title='小褌邪胁褉芯锌芯谢褜', 效械! (小褌邪胁褉芯锌芯谢褜)
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8
+#EXTINF: -1 epg-id='yu' user-agent='HlsWinkPlayer' group-title='小褌邪胁褉芯锌芯谢褜', 挟 (小褌邪胁褉芯锌芯谢褜)
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R03_U/variant.m3u8
+#EXTINF: -1 epg-id='pervy' user-agent='HlsWinkPlayer' group-title='小褌邪胁褉芯锌芯谢褜', 袩械褉胁褘泄 (小褌邪胁褉芯锌芯谢褜)
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R03_1TV_STV/variant.m3u8
+#EXTINF: -1 epg-id='rossia1' user-agent='HlsWinkPlayer' group-title='小褌邪胁褉芯锌芯谢褜', 袪芯褋褋懈褟 1 (小褌邪胁褉芯锌芯谢褜)
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1_STV/variant.m3u8
+#EXTINF: -1 epg-id='match-tv' user-agent='HlsWinkPlayer' group-title='小褌邪胁褉芯锌芯谢褜', 袦邪褌褔 孝袙 (小褌邪胁褉芯锌芯谢褜)
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA2_STV/variant.m3u8
+#EXTINF: -1 epg-id='ntv' user-agent='HlsWinkPlayer' group-title='小褌邪胁褉芯锌芯谢褜', 袧孝袙 (小褌邪胁褉芯锌芯谢褜)
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R03_NTV_STV/variant.m3u8
+#EXTINF: -1 epg-id='5kanal-ru' user-agent='HlsWinkPlayer' group-title='小褌邪胁褉芯锌芯谢褜', 袩褟褌褘泄 (小褌邪胁褉芯锌芯谢褜)
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R02_5TV_STV/variant.m3u8
+#EXTINF: -1 epg-id='kultura' user-agent='HlsWinkPlayer' group-title='小褌邪胁褉芯锌芯谢褜', 袪芯褋褋懈褟 袣 (小褌邪胁褉芯锌芯谢褜)
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK_STV/variant.m3u8
+#EXTINF: -1 epg-id='rossia-24' user-agent='HlsWinkPlayer' group-title='小褌邪胁褉芯锌芯谢褜', 袪芯褋褋懈褟 24 (小褌邪胁褉芯锌芯谢褜)
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_STV/variant.m3u8
+#EXTINF: -1 epg-id='otr' user-agent='HlsWinkPlayer' group-title='小褌邪胁褉芯锌芯谢褜', 袨孝袪 (小褌邪胁褉芯锌芯谢褜)
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_OTR_STV/variant.m3u8
+#EXTINF: -1 epg-id='tvcentr' user-agent='HlsWinkPlayer' group-title='小褌邪胁褉芯锌芯谢褜', 孝袙 笑械薪褌褉 (小褌邪胁褉芯锌芯谢褜)
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R04_TVC_STV/variant.m3u8
+#EXTINF: -1 epg-id='rentv' user-agent='HlsWinkPlayer' group-title='小褌邪胁褉芯锌芯谢褜', 袪袝袧 孝袙 (小褌邪胁褉芯锌芯谢褜)
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R02_RENTV_STV/variant.m3u8
+#EXTINF: -1 epg-id='sts' user-agent='HlsWinkPlayer' group-title='小褌邪胁褉芯锌芯谢褜', 小孝小 (小褌邪胁褉芯锌芯谢褜)
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R02_STS_STV/variant.m3u8
+#EXTINF: -1 epg-id='domashny' user-agent='HlsWinkPlayer' group-title='小褌邪胁褉芯锌芯谢褜', 袛芯屑邪褕薪懈泄 (小褌邪胁褉芯锌芯谢褜)
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY_STV/variant.m3u8
+#EXTINF: -1 epg-id='tv3-ru' user-agent='HlsWinkPlayer' group-title='小褌邪胁褉芯锌芯谢褜', 孝袙-3 (小褌邪胁褉芯锌芯谢褜)
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_TV3_STV/variant.m3u8
+#EXTINF: -1 epg-id='piatnica' user-agent='HlsWinkPlayer' group-title='小褌邪胁褉芯锌芯谢褜', 袩褟褌薪懈褑邪! (小褌邪胁褉芯锌芯谢褜)
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY_STV/variant.m3u8
+#EXTINF: -1 epg-id='zvezda' user-agent='HlsWinkPlayer' group-title='小褌邪胁褉芯锌芯谢褜', 袟胁械蟹写邪 (小褌邪胁褉芯锌芯谢褜)
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA_STV/variant.m3u8
+#EXTINF: -1 epg-id='mir' user-agent='HlsWinkPlayer' group-title='小褌邪胁褉芯锌芯谢褜', 袦袠袪 (小褌邪胁褉芯锌芯谢褜)
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R02_MIR_STV/variant.m3u8
+#EXTINF: -1 epg-id='tnt' user-agent='HlsWinkPlayer' group-title='小褌邪胁褉芯锌芯谢褜', 孝袧孝 (小褌邪胁褉芯锌芯谢褜)
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_TNT_STV/variant.m3u8
+#EXTINF: -1 epg-id='muztv' user-agent='HlsWinkPlayer' group-title='小褌邪胁褉芯锌芯谢褜', 袦校袟-孝袙 (小褌邪胁褉芯锌芯谢褜)
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R06_MUZTV_STV/variant.m3u8
+#EXTINF: -1 group-title='协褎懈褉褉', 袩械褉胁褘泄 泻邪薪邪谢
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_1TV.m3u8
+#EXTINF: -1 group-title='协褎懈褉褉', 袪芯褋褋懈褟 1
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RUSSIA1.m3u8
+#EXTINF: -1 group-title='协褎懈褉褉', 袧孝袙
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_NTV.m3u8
+#EXTINF: -1 group-title='协褎懈褉褉', 袩褟褌褘泄 泻邪薪邪谢
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_5TV.m3u8
+#EXTINF: -1 group-title='协褎懈褉褉', 袪芯褋褋懈褟 袣
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RUSSIAK.m3u8
+#EXTINF: -1 group-title='协褎懈褉褉', 袪芯褋褋懈褟 24
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RUSSIA24.m3u8
+#EXTINF: -1 group-title='协褎懈褉褉', 袣邪褉褍褋械谢褜
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_KARUSEL.m3u8
+#EXTINF: -1 group-title='协褎懈褉褉', 袨孝袪
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_OTR.m3u8
+#EXTINF: -1 group-title='协褎懈褉褉', 孝袙笑
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_TVC.m3u8
+#EXTINF: -1 group-title='协褎懈褉褉', 袪袝袧 孝袙
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RENTV.m3u8
+#EXTINF: -1 group-title='协褎懈褉褉', 小袩袗小
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_SPAS.m3u8
+#EXTINF: -1 group-title='协褎懈褉褉', 小孝小
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_STS.m3u8
+#EXTINF: -1 group-title='协褎懈褉褉', 袛芯屑邪褕薪懈泄
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_DOMASHNIY.m3u8
+#EXTINF: -1 group-title='协褎懈褉褉', 孝袙3
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_TV3.m3u8
+#EXTINF: -1 group-title='协褎懈褉褉', 袩褟褌薪懈褑邪!
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_FRIDAY.m3u8
+#EXTINF: -1 group-title='协褎懈褉褉', 袟胁械蟹写邪
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_ZVEZDA.m3u8
+#EXTINF: -1 group-title='协褎懈褉褉', 袦袠袪
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_MIR.m3u8
+#EXTINF: -1 group-title='协褎懈褉褉', 孝袧孝
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_TNT.m3u8
+#EXTINF: -1 group-title='协褎懈褉褉', 袦校袟 孝袙
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_MUZTV.m3u8
+#EXTINF: -1 group-title='协褎懈褉褉', 效械!
+http://dmi3y-tv6.ru/hls/zabava/CH_CHE.m3u8
+#EXTINF: -1 group-title='协褎懈褉褉', 挟
+http://dmi3y-tv6.ru/hls/zabava/CH_U.m3u8
+#EXTINF: -1 group-title='协褎懈褉褉', 小孝小 Love
+http://dmi3y-tv6.ru/hls/zabava/CH_STSLOVE.m3u8
+#EXTINF: -1 group-title='协褎懈褉褉', 袧孝袙 袩袪袗袙袨
+http://dmi3y-tv6.ru/hls/CH_NTVPRAVO.m3u8
+#EXTINF: -1 group-title='协褎懈褉褉', 袧孝袙 小袝袪袠袗袥
+http://dmi3y-tv6.ru/hls/CH_NTVSERIAL.m3u8
+#EXTINF: -1 group-title='协褎懈褉褉', 袧孝袙 小孝袠袥鞋
+http://dmi3y-tv6.ru/hls/CH_NTVSTIL.m3u8
+#EXTINF: -1 group-title='协褎懈褉褉', 袧孝袙 啸袠孝
+http://dmi3y-tv6.ru/hls/CH_NTVHIT.m3u8
+#EXTINF: -1 group-title='协褎懈褉褉', 2x2
+http://dmi3y-tv6.ru/hls/zabava/CH_2X2.m3u8
+#EXTINF: -1 group-title='协褎懈褉褉', 小褍斜斜芯褌邪!
+http://dmi3y-tv6.ru/hls/zabava/CH_SUBBOTA.m3u8
+#EXTINF: -1 group-title='协褎懈褉褉', 孝袧孝4
+http://dmi3y-tv6.ru/hls/zabava/CH_TNT4.m3u8
+#EXTINF: -1 group-title='协褎懈褉褉', 8 泻邪薪邪谢
+http://dmi3y-tv6.ru/hls/CH_8CHANNEL.m3u8
+#EXTINF: -1 group-title='协褎懈褉褉', 2x2
+http://dmi3y-tv6.ru/hls/zabava/CH_2X2.m3u8
+#EXTINF: -1 group-title='协褎懈褉褉', 小褍斜斜芯褌邪!
+http://dmi3y-tv6.ru/hls/zabava/CH_SUBBOTA.m3u8
+#EXTINF: -1 group-title='协褎懈褉褉', 孝袧孝4
+http://dmi3y-tv6.ru/hls/zabava/CH_TNT4.m3u8
+#EXTINF: -1 group-title='协褎懈褉褉', 8 泻邪薪邪谢
+http://dmi3y-tv6.ru/hls/CH_8CHANNEL.m3u8
+#EXTINF: -1 group-title='协褎懈褉褉', 袙械褋褌懈 肖袦
 http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_192kbps
-#EXTINF: -1 group-title='Эфир0', Маяк
+#EXTINF: -1 group-title='协褎懈褉褉', 袦邪褟泻
 http://icecast-vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps
-#EXTINF: -1 group-title='Эфир0', Радио России
+#EXTINF: -1 group-title='协褎懈褉褉', 袪邪写懈芯 袪芯褋褋懈懈
 http://icecast-vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps
-#EXTINF: -1 group-title='эфир +-', Первый канал (-1)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_1TV-1.m3u8
-#EXTINF: -1 group-title='эфир +-', Первый канал
-http://a0925677.xsph.ru/hls/DVB-T2/CH_1TV.m3u8
-#EXTINF: -1 group-title='эфир +-', Первый канал (+2)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_1TV_2.m3u8
-#EXTINF: -1 group-title='эфир +-', Первый канал (+4)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_1TV_4.m3u8
-#EXTINF: -1 group-title='эфир +-', Первый канал (+6)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_1TV_6.m3u8
-#EXTINF: -1 group-title='эфир +-', Первый канал (+7)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_1TV_7.m3u8
-#EXTINF: -1 group-title='эфир +-', Первый канал (+8)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_1TV_8.m3u8
-#EXTINF: -1 group-title='эфир +-', Первый канал (+9)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_1TV_9.m3u8
-#EXTINF: -1 group-title='эфир +-', Россия 1 (-1)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_RUSSIA1-1.m3u8
-#EXTINF: -1 group-title='эфир +-', Россия 1
-http://a0925677.xsph.ru/hls/DVB-T2/CH_RUSSIA1.m3u8
-#EXTINF: -1 group-title='эфир +-', Россия 1 HD
-http://a0925677.xsph.ru/hls/smotrim/T2/CH_RUSSIA1HD.m3u8
-#EXTINF: -1 group-title='эфир +-', Россия 1 (+2)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_RUSSIA1_2.m3u8
-#EXTINF: -1 group-title='эфир +-', Россия 1 HD (+2) (auto)
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袩械褉胁褘泄 泻邪薪邪谢 (-1)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_1TV-1.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袩械褉胁褘泄 泻邪薪邪谢
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_1TV.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袩械褉胁褘泄 泻邪薪邪谢 (+2)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_1TV_2.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袩械褉胁褘泄 泻邪薪邪谢 (+4)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_1TV_4.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袩械褉胁褘泄 泻邪薪邪谢 (+6)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_1TV_6.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袩械褉胁褘泄 泻邪薪邪谢 (+7)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_1TV_7.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袩械褉胁褘泄 泻邪薪邪谢 (+8)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_1TV_8.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袩械褉胁褘泄 泻邪薪邪谢 (+9)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_1TV_9.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袪芯褋褋懈褟 1 (-1)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RUSSIA1-1.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袪芯褋褋懈褟 1
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RUSSIA1.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袪芯褋褋懈褟 1 HD
+http://dmi3y-tv6.ru/hls/smotrim/T2/CH_RUSSIA1HD.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袪芯褋褋懈褟 1 (+2)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RUSSIA1_2.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袪芯褋褋懈褟 1 HD (+2) (auto)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8
-#EXTINF: -1 group-title='эфир +-', Россия 1 (+4)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_RUSSIA1_4.m3u8
-#EXTINF: -1 group-title='эфир +-', Россия 1 HD (+4) (auto)
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袪芯褋褋懈褟 1 (+4)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RUSSIA1_4.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袪芯褋褋懈褟 1 HD (+4) (auto)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
-#EXTINF: -1 group-title='эфир +-', Россия 1 (+6)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_RUSSIA1_6.m3u8
-#EXTINF: -1 group-title='эфир +-', Россия 1 HD (+6) (auto)
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袪芯褋褋懈褟 1 (+6)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RUSSIA1_6.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袪芯褋褋懈褟 1 HD (+6) (auto)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/6/russia1-hd/index.m3u8
-#EXTINF: -1 group-title='эфир +-', Россия 1 (+7)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_RUSSIA1_7.m3u8
-#EXTINF: -1 group-title='эфир +-', Россия 1 HD (+7) (auto)
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袪芯褋褋懈褟 1 (+7)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RUSSIA1_7.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袪芯褋褋懈褟 1 HD (+7) (auto)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/russia1-hd/index.m3u8
-#EXTINF: -1 group-title='эфир +-', Россия 1 (+8)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_RUSSIA1_8.m3u8
-#EXTINF: -1 group-title='эфир +-', Россия 1 HD (+8) (auto)
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袪芯褋褋懈褟 1 (+8)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RUSSIA1_8.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袪芯褋褋懈褟 1 HD (+8) (auto)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
-#EXTINF: -1 group-title='эфир +-', Россия 1 (+9)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_RUSSIA1_9.m3u8
-#EXTINF: -1 group-title='эфир +-', Россия 1 HD (+9) (auto)
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袪芯褋褋懈褟 1 (+9)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RUSSIA1_9.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袪芯褋褋懈褟 1 HD (+9) (auto)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
-#EXTINF: -1 group-title='эфир +-', НТВ (-1)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_NTV-1.m3u8
-#EXTINF: -1 group-title='эфир +-', НТВ
-http://a0925677.xsph.ru/hls/DVB-T2/CH_NTV.m3u8
-#EXTINF: -1 group-title='эфир +-', НТВ HD
-http://a0925677.xsph.ru/hls/T2/CH_NTVHD.m3u8
-#EXTINF: -1 group-title='эфир +-', НТВ (+2)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_NTV_2.m3u8
-#EXTINF: -1 group-title='эфир +-', НТВ (+4)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_NTV_4.m3u8
-#EXTINF: -1 group-title='эфир +-', НТВ (+6)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_NTV_6.m3u8
-#EXTINF: -1 group-title='эфир +-', НТВ (+7)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_NTV_7.m3u8
-#EXTINF: -1 group-title='эфир +-', Пятый канал (-1)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_5TV-1.m3u8
-#EXTINF: -1 group-title='эфир +-', Пятый канал
-http://a0925677.xsph.ru/hls/DVB-T2/CH_5TV.m3u8
-#EXTINF: -1 group-title='эфир +-', Пятый канал (+2)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_5TV_2.m3u8
-#EXTINF: -1 group-title='эфир +-', Пятый канал (+4)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_5TV_4.m3u8
-#EXTINF: -1 group-title='эфир +-', Пятый канал (+6)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_5TV_6.m3u8
-#EXTINF: -1 group-title='эфир +-', Пятый канал (+7)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_5TV_7.m3u8
-#EXTINF: -1 group-title='эфир +-', Россия К (-1)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_RUSSIAK-1.m3u8
-#EXTINF: -1 group-title='эфир +-', Россия К
-http://a0925677.xsph.ru/hls/DVB-T2/CH_RUSSIAK.m3u8
-#EXTINF: -1 group-title='эфир +-', Россия К HD (auto)
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袧孝袙 (-1)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_NTV-1.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袧孝袙
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_NTV.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袧孝袙 HD
+http://dmi3y-tv6.ru/hls/T2/CH_NTVHD.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袧孝袙 (+2)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_NTV_2.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袧孝袙 (+4)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_NTV_4.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袧孝袙 (+6)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_NTV_6.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袧孝袙 (+7)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_NTV_7.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袩褟褌褘泄 泻邪薪邪谢 (-1)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_5TV-1.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袩褟褌褘泄 泻邪薪邪谢
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_5TV.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袩褟褌褘泄 泻邪薪邪谢 (+2)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_5TV_2.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袩褟褌褘泄 泻邪薪邪谢 (+4)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_5TV_4.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袩褟褌褘泄 泻邪薪邪谢 (+6)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_5TV_6.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袩褟褌褘泄 泻邪薪邪谢 (+7)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_5TV_7.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袪芯褋褋懈褟 袣 (-1)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RUSSIAK-1.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袪芯褋褋懈褟 袣
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RUSSIAK.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袪芯褋褋懈褟 袣 HD (auto)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
-#EXTINF: -1 group-title='эфир +-', Россия К (+2)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_RUSSIAK_2.m3u8
-#EXTINF: -1 group-title='эфир +-', Россия К HD (+2) (auto)
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袪芯褋褋懈褟 袣 (+2)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RUSSIAK_2.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袪芯褋褋懈褟 袣 HD (+2) (auto)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/kultura-hd/index.m3u8
-#EXTINF: -1 group-title='эфир +-', Россия К (+4)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_RUSSIAK_4.m3u8
-#EXTINF: -1 group-title='эфир +-', Россия К HD (+4) (auto)
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袪芯褋褋懈褟 袣 (+4)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RUSSIAK_4.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袪芯褋褋懈褟 袣 HD (+4) (auto)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/kultura-hd/index.m3u8
-#EXTINF: -1 group-title='эфир +-', Россия К (+6)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_RUSSIAK_6.m3u8
-#EXTINF: -1 group-title='эфир +-', Россия К (+7)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_RUSSIAK_7.m3u8
-#EXTINF: -1 group-title='эфир +-', Россия К HD (+7) (auto)
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袪芯褋褋懈褟 袣 (+6)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RUSSIAK_6.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袪芯褋褋懈褟 袣 (+7)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RUSSIAK_7.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袪芯褋褋懈褟 袣 HD (+7) (auto)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/kultura-hd/index.m3u8
-#EXTINF: -1 group-title='эфир +-', PLANETA RTR HD720 (EURO) (auto)
+#EXTINF: -1 group-title='褝褎懈褉 +-', PLANETA RTR HD720 (EURO) (auto)
 http://player.smotrim.ru/iframe/stream/live_id/d7fef212-df66-485d-9952-7eab82d7d51b.m3u8
-#EXTINF: -1 group-title='эфир +-', PLANETA RTR HD720 (USA) (auto)
+#EXTINF: -1 group-title='褝褎懈褉 +-', PLANETA RTR HD720 (USA) (auto)
 http://player.smotrim.ru/iframe/stream/live_id/cf22fa5c-e21a-433e-8317-7e8dd3150d6a.m3u8
-#EXTINF: -1 group-title='эфир +-', РОССИЯ РТР HD720 (ASIA) (auto)
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袪袨小小袠携 袪孝袪 HD720 (ASIA) (auto)
 http://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363.m3u8
-#EXTINF: -1 group-title='эфир +-', РОССИЯ РТР HD720 (СНГ) (auto)
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袪袨小小袠携 袪孝袪 HD720 (小袧袚) (auto)
 http://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21df1f.m3u8
-#EXTINF: -1 group-title='эфир +-', Россия 24
-http://a0925677.xsph.ru/hls/DVB-T2/CH_RUSSIA24.m3u8
-#EXTINF: -1 group-title='эфир +-', Россия 24 (+2)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_RUSSIA24_2.m3u8
-#EXTINF: -1 group-title='эфир +-', Россия 24 (+3)
-http://a0925677.xsph.ru/hls/smotrim/T2/CH_RUSSIA24_3.m3u8
-#EXTINF: -1 group-title='эфир +-', Россия 24 (+6)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_RUSSIA24_6.m3u8
-#EXTINF: -1 group-title='эфир +-', Карусель (-1)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_KARUSEL-1.m3u8
-#EXTINF: -1 group-title='эфир +-', Карусель
-http://a0925677.xsph.ru/hls/DVB-T2/CH_KARUSEL.m3u8
-#EXTINF: -1 group-title='эфир +-', Карусель (+2)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_KARUSEL_2.m3u8
-#EXTINF: -1 group-title='эфир +-', Карусель (+4)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_KARUSEL_4.m3u8
-#EXTINF: -1 group-title='эфир +-', Карусель (+6)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_KARUSEL_6.m3u8
-#EXTINF: -1 group-title='эфир +-', Карусель (+7)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_KARUSEL_7.m3u8
-#EXTINF: -1 group-title='эфир +-', Карусель (+8)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_KARUSEL_8.m3u8
-#EXTINF: -1 group-title='эфир +-', ОТР
-http://a0925677.xsph.ru/hls/DVB-T2/CH_OTR.m3u8
-#EXTINF: -1 group-title='эфир +-', ОТР (+4)
-http://a0925677.xsph.ru/hls/T2/CH_OTR_4.m3u8
-#EXTINF: -1 group-title='эфир +-', ТВЦ (-1)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_TVC-1.m3u8
-#EXTINF: -1 group-title='эфир +-', ТВЦ
-http://a0925677.xsph.ru/hls/DVB-T2/CH_TVC.m3u8
-#EXTINF: -1 group-title='эфир +-', ТВЦ (+2)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_TVC_2.m3u8
-#EXTINF: -1 group-title='эфир +-', ТВЦ (+4)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_TVC_4.m3u8
-#EXTINF: -1 group-title='эфир +-', ТВЦ (+6)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_TVC_6.m3u8
-#EXTINF: -1 group-title='эфир +-', ТВЦ (+7)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_TVC_7.m3u8
-#EXTINF: -1 group-title='эфир +-', РЕН ТВ (-1)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_RENTV-1.m3u8
-#EXTINF: -1 group-title='эфир +-', РЕН ТВ
-http://a0925677.xsph.ru/hls/DVB-T2/CH_RENTV.m3u8
-#EXTINF: -1 group-title='эфир +-', РЕН ТВ (+2)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_RENTV_2.m3u8
-#EXTINF: -1 group-title='эфир +-', РЕН ТВ (+4)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_RENTV_4.m3u8
-#EXTINF: -1 group-title='эфир +-', РЕН ТВ (+6)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_RENTV_6.m3u8
-#EXTINF: -1 group-title='эфир +-', РЕН ТВ (+7)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_RENTV_7.m3u8
-#EXTINF: -1 group-title='эфир +-', СПАС (-1)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_SPAS-1.m3u8
-#EXTINF: -1 group-title='эфир +-', СПАС
-http://a0925677.xsph.ru/hls/DVB-T2/CH_SPAS.m3u8
-#EXTINF: -1 group-title='эфир +-', СПАС (+2)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_SPAS_2.m3u8
-#EXTINF: -1 group-title='эфир +-', СПАС (+4)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_SPAS_4.m3u8
-#EXTINF: -1 group-title='эфир +-', СПАС (+6)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_SPAS_6.m3u8
-#EXTINF: -1 group-title='эфир +-', СПАС (+7)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_SPAS_7.m3u8
-#EXTINF: -1 group-title='эфир +-', СТС (-1)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_STS-1.m3u8
-#EXTINF: -1 group-title='эфир +-', СТС
-http://a0925677.xsph.ru/hls/DVB-T2/CH_STS.m3u8
-#EXTINF: -1 group-title='эфир +-', СТС (+2)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_STS_2.m3u8
-#EXTINF: -1 group-title='эфир +-', СТС (+4)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_STS_4.m3u8
-#EXTINF: -1 group-title='эфир +-', СТС (+6)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_STS_6.m3u8
-#EXTINF: -1 group-title='эфир +-', СТС (+7)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_STS_7.m3u8
-#EXTINF: -1 group-title='эфир +-', Домашний (-1)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_DOMASHNIY-1.m3u8
-#EXTINF: -1 group-title='эфир +-', Домашний
-http://a0925677.xsph.ru/hls/DVB-T2/CH_DOMASHNIY.m3u8
-#EXTINF: -1 group-title='эфир +-', Домашний (+2)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_DOMASHNIY_2.m3u8
-#EXTINF: -1 group-title='эфир +-', Домашний (+4)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_DOMASHNIY_4.m3u8
-#EXTINF: -1 group-title='эфир +-', Домашний (+6)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_DOMASHNIY_6.m3u8
-#EXTINF: -1 group-title='эфир +-', Домашний (+7)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_DOMASHNIY_7.m3u8
-#EXTINF: -1 group-title='эфир +-', ТВ3 (-1)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_TV3-1.m3u8
-#EXTINF: -1 group-title='эфир +-', ТВ3
-http://a0925677.xsph.ru/hls/DVB-T2/CH_TV3.m3u8
-#EXTINF: -1 group-title='эфир +-', ТВ3 (+2)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_TV3_2.m3u8
-#EXTINF: -1 group-title='эфир +-', ТВ3 (+4)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_TV3_4.m3u8
-#EXTINF: -1 group-title='эфир +-', ТВ3 (+6)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_TV3_6.m3u8
-#EXTINF: -1 group-title='эфир +-', ТВ3 (+7)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_TV3_7.m3u8
-#EXTINF: -1 group-title='эфир +-', Пятница! (-1)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_FRIDAY-1.m3u8
-#EXTINF: -1 group-title='эфир +-', Пятница!
-http://a0925677.xsph.ru/hls/DVB-T2/CH_FRIDAY.m3u8
-#EXTINF: -1 group-title='эфир +-', Пятница! (+2)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_FRIDAY_2.m3u8
-#EXTINF: -1 group-title='эфир +-', Пятница! (+4)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_FRIDAY_4.m3u8
-#EXTINF: -1 group-title='эфир +-', Пятница! (+6)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_FRIDAY_6.m3u8
-#EXTINF: -1 group-title='эфир +-', Пятница! (+7)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_FRIDAY_7.m3u8
-#EXTINF: -1 group-title='эфир +-', Звезда (-1)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_ZVEZDA-1.m3u8
-#EXTINF: -1 group-title='эфир +-', Звезда
-http://a0925677.xsph.ru/hls/DVB-T2/CH_ZVEZDA.m3u8
-#EXTINF: -1 group-title='эфир +-', Звезда HD
-http://a0925677.xsph.ru/hls/T2/CH_ZVEZDAHD.m3u8
-#EXTINF: -1 group-title='эфир +-', Звезда (+2)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_ZVEZDA_2.m3u8
-#EXTINF: -1 group-title='эфир +-', Звезда (+4)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_ZVEZDA_4.m3u8
-#EXTINF: -1 group-title='эфир +-', Звезда (+6)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_ZVEZDA_6.m3u8
-#EXTINF: -1 group-title='эфир +-', Звезда (+7)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_ZVEZDA_7.m3u8
-#EXTINF: -1 group-title='эфир +-', МИР (-1)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_MIR-1.m3u8
-#EXTINF: -1 group-title='эфир +-', МИР
-http://a0925677.xsph.ru/hls/DVB-T2/CH_MIR.m3u8
-#EXTINF: -1 group-title='эфир +-', МИР HD
-http://a0925677.xsph.ru/hls/T2/CH_MIRHD.m3u8
-#EXTINF: -1 group-title='эфир +-', МИР (+2)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_MIR_2.m3u8
-#EXTINF: -1 group-title='эфир +-', МИР (+4)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_MIR_4.m3u8
-#EXTINF: -1 group-title='эфир +-', МИР (+6)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_MIR_6.m3u8
-#EXTINF: -1 group-title='эфир +-', МИР (+7)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_MIR_7.m3u8
-#EXTINF: -1 group-title='эфир +-', ТНТ (-1)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_TNT-1.m3u8
-#EXTINF: -1 group-title='эфир +-', ТНТ
-http://a0925677.xsph.ru/hls/DVB-T2/CH_TNT.m3u8
-#EXTINF: -1 group-title='эфир +-', ТНТ (+2)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_TNT_2.m3u8
-#EXTINF: -1 group-title='эфир +-', ТНТ (+4)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_TNT_4.m3u8
-#EXTINF: -1 group-title='эфир +-', ТНТ (+6)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_TNT_6.m3u8
-#EXTINF: -1 group-title='эфир +-', ТНТ (+7)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_TNT_7.m3u8
-#EXTINF: -1 group-title='эфир +-', МУЗ ТВ (-1)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_MUZTV-1.m3u8
-#EXTINF: -1 group-title='эфир +-', МУЗ ТВ
-http://a0925677.xsph.ru/hls/DVB-T2/CH_MUZTV.m3u8
-#EXTINF: -1 group-title='эфир +-', МУЗ ТВ (+2)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_MUZTV_2.m3u8
-#EXTINF: -1 group-title='эфир +-', МУЗ ТВ (+4)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_MUZTV_4.m3u8
-#EXTINF: -1 group-title='эфир +-', МУЗ ТВ (+6)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_MUZTV_6.m3u8
-#EXTINF: -1 group-title='эфир +-', МУЗ ТВ (+7)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_MUZTV_7.m3u8
-#EXTINF: -1 group-title='эфир +-', Че! (-1)
-http://a0925677.xsph.ru/hls/zabava/CH_CHE-1.m3u8
-#EXTINF: -1 group-title='эфир +-', Че!
-http://a0925677.xsph.ru/hls/zabava/CH_CHE.m3u8
-#EXTINF: -1 group-title='эфир +-', Че! (+2)
-http://a0925677.xsph.ru/hls/zabava/CH_CHE_2.m3u8
-#EXTINF: -1 group-title='эфир +-', Че! (+4)
-http://a0925677.xsph.ru/hls/zabava/CH_CHE_4.m3u8
-#EXTINF: -1 group-title='эфир +-', Че! (+6)
-http://a0925677.xsph.ru/hls/zabava/CH_CHE_6.m3u8
-#EXTINF: -1 group-title='эфир +-', Че! (+7)
-http://a0925677.xsph.ru/hls/zabava/CH_CHE_7.m3u8
-#EXTINF: -1 group-title='эфир +-', Ю (-1)
-http://a0925677.xsph.ru/hls/zabava/CH_U-1.m3u8
-#EXTINF: -1 group-title='эфир +-', Ю
-http://a0925677.xsph.ru/hls/zabava/CH_U.m3u8
-#EXTINF: -1 group-title='эфир +-', Ю (+2)
-http://a0925677.xsph.ru/hls/zabava/CH_U_2.m3u8
-#EXTINF: -1 group-title='эфир +-', Ю (+4)
-http://a0925677.xsph.ru/hls/zabava/CH_U_4.m3u8
-#EXTINF: -1 group-title='эфир +-', Ю (+6)
-http://a0925677.xsph.ru/hls/zabava/CH_U_6.m3u8
-#EXTINF: -1 group-title='эфир +-', Ю (+7)
-http://a0925677.xsph.ru/hls/zabava/CH_U_7.m3u8
-#EXTINF: -1 group-title='эфир +-', 2x2 (-1)
-http://a0925677.xsph.ru/hls/zabava/CH_2X2-1.m3u8
-#EXTINF: -1 group-title='эфир +-', 2x2
-http://a0925677.xsph.ru/hls/zabava/CH_2X2.m3u8
-#EXTINF: -1 group-title='эфир +-', 2x2 (+2)
-http://a0925677.xsph.ru/hls/zabava/CH_2X2_2.m3u8
-#EXTINF: -1 group-title='эфир +-', 2x2 (+4)
-http://a0925677.xsph.ru/hls/zabava/CH_2X2_4.m3u8
-#EXTINF: -1 group-title='эфир +-', 2x2 (+6)
-http://a0925677.xsph.ru/hls/zabava/CH_2X2_6.m3u8
-#EXTINF: -1 group-title='эфир +-', 2x2 (+7)
-http://a0925677.xsph.ru/hls/zabava/CH_2X2_7.m3u8
-#EXTINF: -1 group-title='эфир +-', ТНТ4 (-1)
-http://a0925677.xsph.ru/hls/zabava/CH_TNT4-1.m3u8
-#EXTINF: -1 group-title='эфир +-', ТНТ4
-http://a0925677.xsph.ru/hls/zabava/CH_TNT4.m3u8
-#EXTINF: -1 group-title='эфир +-', ТНТ4 (+2)
-http://a0925677.xsph.ru/hls/zabava/CH_TNT4_2.m3u8
-#EXTINF: -1 group-title='эфир +-', ТНТ4 (+4)
-http://a0925677.xsph.ru/hls/zabava/CH_TNT4_4.m3u8
-#EXTINF: -1 group-title='эфир +-', ТНТ4 (+6)
-http://a0925677.xsph.ru/hls/zabava/CH_TNT4_6.m3u8
-#EXTINF: -1 group-title='эфир +-', ТНТ4 (+7)
-http://a0925677.xsph.ru/hls/zabava/CH_TNT4_7.m3u8
-#EXTINF: -1 group-title='эфир +-', 8 канал
-http://a0925677.xsph.ru/hls/CH_8CHANNEL.m3u8
-#EXTINF: -1 group-title='эфир +-', СТС Love
-http://a0925677.xsph.ru/hls/zabava/CH_STSLOVE.m3u8
-#EXTINF: -1 group-title='эфир +-', СТС Love (+2)
-http://a0925677.xsph.ru/hls/zabava/CH_STSLOVE_2.m3u8
-#EXTINF: -1 group-title='эфир +-', СТС Love (+4)
-http://a0925677.xsph.ru/hls/zabava/CH_STSLOVE_4.m3u8
-#EXTINF: -1 group-title='Детски', Суббота! (-1)
-http://a0925677.xsph.ru/hls/zabava/CH_SUBBOTA-1.m3u8
-#EXTINF: -1 group-title='Детски', Суббота!
-http://a0925677.xsph.ru/hls/zabava/CH_SUBBOTA.m3u8
-#EXTINF: -1 group-title='Детски', Суббота! (+2)
-http://a0925677.xsph.ru/hls/zabava/CH_SUBBOTA_2.m3u8
-#EXTINF: -1 group-title='Детски', Суббота! (+4)
-http://a0925677.xsph.ru/hls/zabava/CH_SUBBOTA_4.m3u8
-#EXTINF: -1 group-title='Детски', Суббота! (+6)
-http://a0925677.xsph.ru/hls/zabava/CH_SUBBOTA_6.m3u8
-#EXTINF: -1 group-title='Детски', Суббота! (+7)
-http://a0925677.xsph.ru/hls/zabava/CH_SUBBOTA_7.m3u8
-#EXTINF: -1 group-title='Детски', Солнце (-1)
-http://a0925677.xsph.ru/hls/zabava/CH_DISNEY-1.m3u8
-#EXTINF: -1 group-title='Детски', Солнце
-http://a0925677.xsph.ru/hls/zabava/CH_DISNEY.m3u8
-#EXTINF: -1 group-title='Детски', Солнце (+2)
-http://a0925677.xsph.ru/hls/zabava/CH_DISNEY_2.m3u8
-#EXTINF: -1 group-title='Детски', Солнце (+4)
-http://a0925677.xsph.ru/hls/zabava/CH_DISNEY_4.m3u8
-#EXTINF: -1 group-title='Детски', Солнце (+6)
-http://a0925677.xsph.ru/hls/zabava/CH_DISNEY_6.m3u8
-#EXTINF: -1 group-title='Детски', Солнце (+7)
-http://a0925677.xsph.ru/hls/zabava/CH_DISNEY_7.m3u8
-#EXTINF: -1 group-title='Детски', Карусель
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袪芯褋褋懈褟 24
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RUSSIA24.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袪芯褋褋懈褟 24 HD
+http://dmi3y-tv6.ru/hls/smotrim/T2/CH_RUSSIA24HD.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袪芯褋褋懈褟 24 (+2)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RUSSIA24_2.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袪芯褋褋懈褟 24 (+3)
+http://dmi3y-tv6.ru/hls/smotrim/T2/CH_RUSSIA24_3.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袪芯褋褋懈褟 24 (+6)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RUSSIA24_6.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袣邪褉褍褋械谢褜 (-1)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_KARUSEL-1.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袣邪褉褍褋械谢褜
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_KARUSEL.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袣邪褉褍褋械谢褜 (+2)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_KARUSEL_2.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袣邪褉褍褋械谢褜 (+4)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_KARUSEL_4.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袣邪褉褍褋械谢褜 (+6)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_KARUSEL_6.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袣邪褉褍褋械谢褜 (+7)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_KARUSEL_7.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袣邪褉褍褋械谢褜 (+8)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_KARUSEL_8.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袨孝袪
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_OTR.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袨孝袪 (+4)
+http://dmi3y-tv6.ru/hls/T2/CH_OTR_4.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 孝袙笑 (-1)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_TVC-1.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 孝袙笑
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_TVC.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 孝袙笑 (+2)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_TVC_2.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 孝袙笑 (+4)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_TVC_4.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 孝袙笑 (+6)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_TVC_6.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 孝袙笑 (+7)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_TVC_7.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袪袝袧 孝袙 (-1)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RENTV-1.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袪袝袧 孝袙
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RENTV.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袪袝袧 孝袙 (+2)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RENTV_2.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袪袝袧 孝袙 (+4)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RENTV_4.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袪袝袧 孝袙 (+6)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RENTV_6.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袪袝袧 孝袙 (+7)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RENTV_7.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 小袩袗小 (-1)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_SPAS-1.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 小袩袗小
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_SPAS.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 小袩袗小 (+2)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_SPAS_2.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 小袩袗小 (+4)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_SPAS_4.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 小袩袗小 (+6)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_SPAS_6.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 小袩袗小 (+7)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_SPAS_7.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 小孝小 (-1)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_STS-1.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 小孝小
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_STS.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 小孝小 (+2)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_STS_2.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 小孝小 (+4)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_STS_4.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 小孝小 (+6)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_STS_6.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 小孝小 (+7)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_STS_7.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袛芯屑邪褕薪懈泄 (-1)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_DOMASHNIY-1.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袛芯屑邪褕薪懈泄
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_DOMASHNIY.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袛芯屑邪褕薪懈泄 (+2)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_DOMASHNIY_2.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袛芯屑邪褕薪懈泄 (+4)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_DOMASHNIY_4.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袛芯屑邪褕薪懈泄 (+6)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_DOMASHNIY_6.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袛芯屑邪褕薪懈泄 (+7)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_DOMASHNIY_7.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 孝袙3 (-1)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_TV3-1.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 孝袙3
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_TV3.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 孝袙3 (+2)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_TV3_2.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 孝袙3 (+4)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_TV3_4.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 孝袙3 (+6)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_TV3_6.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 孝袙3 (+7)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_TV3_7.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袩褟褌薪懈褑邪! (-1)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_FRIDAY-1.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袩褟褌薪懈褑邪!
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_FRIDAY.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袩褟褌薪懈褑邪! (+2)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_FRIDAY_2.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袩褟褌薪懈褑邪! (+4)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_FRIDAY_4.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袩褟褌薪懈褑邪! (+6)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_FRIDAY_6.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袩褟褌薪懈褑邪! (+7)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_FRIDAY_7.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袟胁械蟹写邪 (-1)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_ZVEZDA-1.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袟胁械蟹写邪
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_ZVEZDA.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袟胁械蟹写邪 HD
+http://dmi3y-tv6.ru/hls/T2/CH_ZVEZDAHD.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袟胁械蟹写邪 (+2)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_ZVEZDA_2.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袟胁械蟹写邪 (+4)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_ZVEZDA_4.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袟胁械蟹写邪 (+6)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_ZVEZDA_6.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袟胁械蟹写邪 (+7)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_ZVEZDA_7.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袦袠袪 (-1)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_MIR-1.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袦袠袪
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_MIR.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袦袠袪 HD
+http://dmi3y-tv6.ru/hls/T2/CH_MIRHD.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袦袠袪 (+2)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_MIR_2.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袦袠袪 (+4)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_MIR_4.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袦袠袪 (+6)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_MIR_6.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袦袠袪 (+7)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_MIR_7.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 孝袧孝 (-1)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_TNT-1.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 孝袧孝
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_TNT.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 孝袧孝 (+2)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_TNT_2.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 孝袧孝 (+4)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_TNT_4.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 孝袧孝 (+6)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_TNT_6.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 孝袧孝 (+7)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_TNT_7.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袦校袟 孝袙 (-1)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_MUZTV-1.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袦校袟 孝袙
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_MUZTV.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袦校袟 孝袙 (+2)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_MUZTV_2.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袦校袟 孝袙 (+4)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_MUZTV_4.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袦校袟 孝袙 (+6)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_MUZTV_6.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 袦校袟 孝袙 (+7)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_MUZTV_7.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 效械! (-1)
+http://dmi3y-tv6.ru/hls/zabava/CH_CHE-1.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 效械!
+http://dmi3y-tv6.ru/hls/zabava/CH_CHE.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 效械! (+2)
+http://dmi3y-tv6.ru/hls/zabava/CH_CHE_2.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 效械! (+4)
+http://dmi3y-tv6.ru/hls/zabava/CH_CHE_4.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 效械! (+6)
+http://dmi3y-tv6.ru/hls/zabava/CH_CHE_6.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 效械! (+7)
+http://dmi3y-tv6.ru/hls/zabava/CH_CHE_7.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 挟 (-1)
+http://dmi3y-tv6.ru/hls/zabava/CH_U-1.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 挟
+http://dmi3y-tv6.ru/hls/zabava/CH_U.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 挟 (+2)
+http://dmi3y-tv6.ru/hls/zabava/CH_U_2.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 挟 (+4)
+http://dmi3y-tv6.ru/hls/zabava/CH_U_4.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 挟 (+6)
+http://dmi3y-tv6.ru/hls/zabava/CH_U_6.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 挟 (+7)
+http://dmi3y-tv6.ru/hls/zabava/CH_U_7.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 小孝小 Love (-1)
+http://dmi3y-tv6.ru/hls/zabava/CH_STSLOVE-1.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 小孝小 Love
+http://dmi3y-tv6.ru/hls/zabava/CH_STSLOVE.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 小孝小 Love (+2)
+http://dmi3y-tv6.ru/hls/zabava/CH_STSLOVE_2.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 小孝小 Love (+4)
+http://dmi3y-tv6.ru/hls/zabava/CH_STSLOVE_4.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 小芯谢薪褑械 (-1)
+http://dmi3y-tv6.ru/hls/zabava/CH_DISNEY-1.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 小芯谢薪褑械
+http://dmi3y-tv6.ru/hls/zabava/CH_DISNEY.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 小芯谢薪褑械 (+2)
+http://dmi3y-tv6.ru/hls/zabava/CH_DISNEY_2.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 小芯谢薪褑械 (+4)
+http://dmi3y-tv6.ru/hls/zabava/CH_DISNEY_4.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 小芯谢薪褑械 (+6)
+http://dmi3y-tv6.ru/hls/zabava/CH_DISNEY_6.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 小芯谢薪褑械 (+7)
+http://dmi3y-tv6.ru/hls/zabava/CH_DISNEY_7.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 2x2 (-1)
+http://dmi3y-tv6.ru/hls/zabava/CH_2X2-1.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 2x2
+http://dmi3y-tv6.ru/hls/zabava/CH_2X2.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 2x2 (+2)
+http://dmi3y-tv6.ru/hls/zabava/CH_2X2_2.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 2x2 (+4)
+http://dmi3y-tv6.ru/hls/zabava/CH_2X2_4.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 2x2 (+6)
+http://dmi3y-tv6.ru/hls/zabava/CH_2X2_6.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 2x2 (+7)
+http://dmi3y-tv6.ru/hls/zabava/CH_2X2_7.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 小褍斜斜芯褌邪! (-1)
+http://dmi3y-tv6.ru/hls/zabava/CH_SUBBOTA-1.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 小褍斜斜芯褌邪!
+http://dmi3y-tv6.ru/hls/zabava/CH_SUBBOTA.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 小褍斜斜芯褌邪! (+2)
+http://dmi3y-tv6.ru/hls/zabava/CH_SUBBOTA_2.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 小褍斜斜芯褌邪! (+4)
+http://dmi3y-tv6.ru/hls/zabava/CH_SUBBOTA_4.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 小褍斜斜芯褌邪! (+6)
+http://dmi3y-tv6.ru/hls/zabava/CH_SUBBOTA_6.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 小褍斜斜芯褌邪! (+7)
+http://dmi3y-tv6.ru/hls/zabava/CH_SUBBOTA_7.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 孝袧孝4 (-1)
+http://dmi3y-tv6.ru/hls/zabava/CH_TNT4-1.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 孝袧孝4
+http://dmi3y-tv6.ru/hls/zabava/CH_TNT4.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 孝袧孝4 (+2)
+http://dmi3y-tv6.ru/hls/zabava/CH_TNT4_2.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 孝袧孝4 (+4)
+http://dmi3y-tv6.ru/hls/zabava/CH_TNT4_4.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 孝袧孝4 (+6)
+http://dmi3y-tv6.ru/hls/zabava/CH_TNT4_6.m3u8
+#EXTINF: -1 group-title='褝褎懈褉 +-', 孝袧孝4 (+7)
+http://dmi3y-tv6.ru/hls/zabava/CH_TNT4_7.m3u8
+#EXTINF: -1 group-title='袛械褌褋泻懈', 袪邪写芯褋褌褜 屑芯褟
+http://dmi3y-tv6.ru/hls/CH_RADOSTMOYA.m3u8
+#EXTINF: -1 group-title='袛械褌褋泻懈', 袩袠袧袚袙袠袧 袥袨袥袨
+http://dmi3y-tv6.ru/hls/CH_PINGVIN_LOLO.m3u8
+#EXTINF: -1 group-title='袛械褌褋泻懈', 袦褍谢褜褌懈屑邪薪懈褟
+http://dmi3y-tv6.ru/hls/CH_MULTIMANIYA.m3u8
+#EXTINF: -1 group-title='袛械褌褋泻懈', 袦邪屑芯薪褌褢薪芯泻
+http://dmi3y-tv6.ru/hls/CH_MAMONTENOK.m3u8
+#EXTINF: -1 group-title='袛械褌褋泻懈', 袣邪褉褍褋械谢褜
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/video_800x450_avc1/variant.m3u8
-#EXTINF: -1 group-title='Детски', 2x2
+#EXTINF: -1 group-title='袛械褌褋泻懈', 2x2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/video_800x450_avc1/variant.m3u8
-#EXTINF: -1 group-title='Детски', Ералаш
+#EXTINF: -1 group-title='袛械褌褋泻懈', 袝褉邪谢邪褕
 https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='Детски', Супергерои
+#EXTINF: -1 group-title='袛械褌褋泻懈', 小褍锌械褉谐械褉芯懈
 http://158.101.222.193:88/georgia_play.php?id=malysh
-#EXTINF: -1 group-title='Детски', Da vinci
+#EXTINF: -1 group-title='袛械褌褋泻懈', Da vinci
 http://158.101.222.193:88/georgia_play.php?id=davinci
-#EXTINF: -1 group-title='Детски', Уникум
+#EXTINF: -1 group-title='袛械褌褋泻懈', 校薪懈泻褍屑
 http://158.101.222.193:88/georgia_play.php?id=unikum
-#EXTINF: -1 group-title='Детски', Детский мир
+#EXTINF: -1 group-title='袛械褌褋泻懈', 袛械褌褋泻懈泄 屑懈褉
 http://158.101.222.193:88/georgia_play.php?id=detskymir
-#EXTINF: -1 group-title='Детски', Детский мир
+#EXTINF: -1 group-title='袛械褌褋泻懈', 袛械褌褋泻懈泄 屑懈褉
 http://195.26.83.96:7007/play/14/index.m3u8
-#EXTINF: -1 group-title='Детски', СТС Kids
+#EXTINF: -1 group-title='袛械褌褋泻懈', 小孝小 Kids
 http://195.26.83.96:7006/play/a00z/index.m3u8
-#EXTINF: -1 group-title='ИНФО', Мир Premium HD
+#EXTINF: -1 group-title='袠袧肖袨', CGTN ENGLISH HD720
+http://dmi3y-tv6.ru/hls/CH_CGTN_ENGLISHHD720.m3u8
+#EXTINF: -1 group-title='袠袧肖袨', CGTN ESPANOL HD
+http://dmi3y-tv6.ru/hls/CH_CGTN_ESPANOLHD.m3u8
+#EXTINF: -1 group-title='袠袧肖袨', CGTN FRANCAIS HD
+http://dmi3y-tv6.ru/hls/CH_CGTN_FRANCAISHD.m3u8
+#EXTINF: -1 group-title='袠袧肖袨', CGTN ARABIC HD
+http://dmi3y-tv6.ru/hls/CH_CGTN_ARABICHD.m3u8
+#EXTINF: -1 group-title='袠袧肖袨', CGTN 袪校小小袣袠袡 HD
+http://dmi3y-tv6.ru/hls/CH_CGTN_RUSSKIYHD.m3u8
+#EXTINF: -1 group-title='袠袧肖袨', CGTN DOCUMENTARY HD720
+http://dmi3y-tv6.ru/hls/CH_CGTN_DOCUMENTARYHD720.m3u8
+#EXTINF: -1 group-title='袠袧肖袨', 袦袠袪 24
+http://dmi3y-tv6.ru/hls/CH_MIR24.m3u8
+#EXTINF: -1 group-title='袠袧肖袨', 袦袠袪 24 HD
+http://dmi3y-tv6.ru/hls/CH_MIR24HD.m3u8
+#EXTINF: -1 group-title='袠袧肖袨', 袪袘袣
+http://dmi3y-tv6.ru/hls/CH_RBK.m3u8
+#EXTINF: -1 group-title='袠袧肖袨', 袪袘袣 HD
+http://dmi3y-tv6.ru/hls/CH_RBKHD.m3u8
+#EXTINF: -1 group-title='袠袧肖袨', 袣褉邪褋薪邪褟 谢懈薪懈褟
+http://dmi3y-tv6.ru/hls/CH_REDLINE.m3u8
+#EXTINF: -1 group-title='袠袧肖袨', 袙褋褢 孝袙
+http://dmi3y-tv6.ru/hls/zabava/CH_VSETV.m3u8
+#EXTINF: -1 group-title='袠袧肖袨', 袙褋褢 孝袙 HD
+http://dmi3y-tv6.ru/hls/zabava/CH_VSETVHD.m3u8
+#EXTINF: -1 group-title='袠袧肖袨', 袪袞袛 孝袙
+http://dmi3y-tv6.ru/hls/CH_RZHDTV.m3u8
+#EXTINF: -1 group-title='袠袧肖袨', 袪袞袛 孝袙 HD
+http://dmi3y-tv6.ru/hls/CH_RZHDTVHD.m3u8
+#EXTINF: -1 group-title='袠袧肖袨', 小芯谢芯胁褜械胁 Live HD (auto)
+http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1.m3u8
+#EXTINF: -1 group-title='袠袧肖袨', 袘芯谢褜褕邪褟 袗蟹懈褟
+http://dmi3y-tv6.ru/hls/CH_BAZIYA.m3u8
+#EXTINF: -1 group-title='袠袧肖袨', 袘芯谢褜褕邪褟 袗蟹懈褟 HD720
+http://dmi3y-tv6.ru/hls/CH_BAZIYAHD720.m3u8
+#EXTINF: -1 group-title='袠袧肖袨', 袘邪泄泻邪谢 孝械谢械泻芯屑 info HD720
+http://dmi3y-tv6.ru/hls/CH_BAYKALTEL_INFOHD720.m3u8
+#EXTINF: -1 group-title='袠袧肖袨', 袦懈褉 Premium HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF: -1 group-title='ИНФО', Наш Дом
+#EXTINF: -1 group-title='袠袧肖袨', 袧邪褕 袛芯屑
 http://85.234.33.63/stream/c11.m3u8
-#EXTINF: -1 group-title='ИНФО', Соловьев.Live HD
+#EXTINF: -1 group-title='袠袧肖袨', 小芯谢芯胁褜械胁.Live HD
 http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1.m3u8
-#EXTINF: -1 group-title='ИНФО', МИР 24
+#EXTINF: -1 group-title='袠袧肖袨', 袦袠袪 24
 http://a0925677.xsph.ru/hls/CH_MIR24.m3u8
-#EXTINF: -1 group-title='ИНФО', МИР 24 HD
+#EXTINF: -1 group-title='袠袧肖袨', 袦袠袪 24 HD
 http://a0925677.xsph.ru/hls/CH_MIR24HD.m3u8
-#EXTINF: -1 group-title='ИНФО', РБК
+#EXTINF: -1 group-title='袠袧肖袨', 袪袘袣
 http://a0925677.xsph.ru/hls/CH_RBK.m3u8
-#EXTINF: -1 group-title='ИНФО', РБК HD
+#EXTINF: -1 group-title='袠袧肖袨', 袪袘袣 HD
 http://a0925677.xsph.ru/hls/CH_RBKHD.m3u8
-#EXTINF: -1 group-title='ИНФО', Красная линия
+#EXTINF: -1 group-title='袠袧肖袨', 袣褉邪褋薪邪褟 谢懈薪懈褟
 http://a0925677.xsph.ru/hls/CH_REDLINE.m3u8
-#EXTINF: -1 group-title='ИНФО', Всё ТВ
+#EXTINF: -1 group-title='袠袧肖袨', 袙褋褢 孝袙
 http://a0925677.xsph.ru/hls/zabava/CH_VSETV.m3u8
-#EXTINF: -1 group-title='ИНФО', РЖД ТВ HD
+#EXTINF: -1 group-title='袠袧肖袨', 袪袞袛 孝袙 HD
 http://a0925677.xsph.ru/hls/CH_RZHDTVHD.m3u8
-#EXTINF: -1 group-title='ИНФО', Большая Азия
+#EXTINF: -1 group-title='袠袧肖袨', 袘芯谢褜褕邪褟 袗蟹懈褟
 http://a0925677.xsph.ru/hls/CH_BAZIYA.m3u8
-#EXTINF: -1 group-title='ИНФО', Байкал Телеком info HD720
+#EXTINF: -1 group-title='袠袧肖袨', 袘邪泄泻邪谢 孝械谢械泻芯屑 info HD720
 http://a0925677.xsph.ru/hls/CH_BAYKALTEL_INFOHD720.m3u8
-#EXTINF: -1 group-title='ИНФО', 8 Канал (Европа)
+#EXTINF: -1 group-title='袠袧肖袨', 8 袣邪薪邪谢 (袝胁褉芯锌邪)
 http://a0925677.xsph.ru/hls/CH_8CHANNEL_EUROPE.m3u8
-#EXTINF: -1 group-title='ИНФО', Просвещение
+#EXTINF: -1 group-title='袠袧肖袨', 袩褉芯褋胁械褖械薪懈械
 http://a0925677.xsph.ru/hls/CH_PROSVESHENIE.m3u8
-#EXTINF: -1 group-title='ИНФО', Надежда HD720
+#EXTINF: -1 group-title='袠袧肖袨', 袧邪写械卸写邪 HD720
 http://a0925677.xsph.ru/hls/CH_NADEZHDAHD720.m3u8
-#EXTINF: -1 group-title='ИНФО', LIFE TV [RUS]
+#EXTINF: -1 group-title='袠袧肖袨', LIFE TV [RUS]
 http://a0925677.xsph.ru/hls/CH_LIFETV_RUS.m3u8
-#EXTINF: -1 group-title='ИНФО', Твое ТВ HD
+#EXTINF: -1 group-title='袠袧肖袨', 孝胁芯械 孝袙 HD
 http://a0925677.xsph.ru/hls/CH_TVOETVHD.m3u8
-#EXTINF: -1 group-title='ИНФО', 360°
+#EXTINF: -1 group-title='袠袧肖袨', 360掳
 http://a0925677.xsph.ru/hls/CH_360TV.m3u8
-#EXTINF: -1 group-title='ИНФО', 360° HD
+#EXTINF: -1 group-title='袠袧肖袨', 360掳 HD
 http://a0925677.xsph.ru/hls/CH_360TVHD.m3u8
-#EXTINF: -1 group-title='ИНФО', Радость моя
+#EXTINF: -1 group-title='袠袧肖袨', 袪邪写芯褋褌褜 屑芯褟
 http://a0925677.xsph.ru/hls/CH_RADOSTMOYA.m3u8
-#EXTINF: -1 group-title='ИНФО', ПРОДВИЖЕНИЕ
+#EXTINF: -1 group-title='袠袧肖袨', 袩袪袨袛袙袠袞袝袧袠袝
 http://a0925677.xsph.ru/hls/CH_PRODVIZHENIE.m3u8
-#EXTINF: -1 group-title='ИНФО', СОЮЗ HD
+#EXTINF: -1 group-title='袠袧肖袨', 小袨挟袟 HD
 http://a0925677.xsph.ru/hls/CH_SOYUZHD.m3u8
-#EXTINF: -1 group-title='ИНФО', Наука 2.0
+#EXTINF: -1 group-title='袠袧肖袨', 袧邪褍泻邪 2.0
 http://a0925677.xsph.ru/hls/CH_NAUKA20.m3u8
-#EXTINF: -1 group-title='ИНФО', Мир
+#EXTINF: -1 group-title='袠袧肖袨', 袦懈褉
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/video_800x450_avc1/variant.m3u8
-#EXTINF: -1 group-title='ИНФО', ТВ Центр
+#EXTINF: -1 group-title='袠袧肖袨', 孝袙 笑械薪褌褉
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/video_800x450_avc1/variant.m3u8
-#EXTINF: -1 group-title='ИНФО', Каскад-24
+#EXTINF: -1 group-title='袠袧肖袨', 袣邪褋泻邪写-24
 http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_KASKAD/variant.m3u8
-#EXTINF: -1 group-title='ИНФО', 360° Международный HD
+#EXTINF: -1 group-title='袠袧肖袨', 360掳 袦械卸写褍薪邪褉芯写薪褘泄 HD
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/mono.m3u8
-#EXTINF: -1 group-title='ИНФО', Радость Моя
+#EXTINF: -1 group-title='袠袧肖袨', 袪邪写芯褋褌褜 袦芯褟
 http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
-#EXTINF: -1 group-title='ИНФО', Известия HD
+#EXTINF: -1 group-title='袠袧肖袨', 袠蟹胁械褋褌懈褟 HD
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF: -1 group-title='ИНФО', Крик-ТВ
+#EXTINF: -1 group-title='袠袧肖袨', 袣褉懈泻-孝袙
 http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
-#EXTINF: -1 group-title='ИНФО', Москва 24
+#EXTINF: -1 group-title='袠袧肖袨', 袦芯褋泻胁邪 24
 http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_MOSKOV24/variant.m3u8
-#EXTINF: -1 group-title='ИНФО', Теледом HD
+#EXTINF: -1 group-title='袠袧肖袨', 孝械谢械写芯屑 HD
 http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
-#EXTINF: -1 group-title='ИНФО', Тео-ТВ
+#EXTINF: -1 group-title='袠袧肖袨', 孝械芯-孝袙
 http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_TEOTV/variant.m3u8
-#EXTINF: -1 group-title='ИНФО', Просвещение
+#EXTINF: -1 group-title='袠袧肖袨', 袩褉芯褋胁械褖械薪懈械
 http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='ИНФО', Эфир-24 Релакс
+#EXTINF: -1 group-title='袠袧肖袨', 协褎懈褉-24 袪械谢邪泻褋
 http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_EFIR/variant.m3u8
-#EXTINF: -1 group-title='ИНФО', Каскад-24
+#EXTINF: -1 group-title='袠袧肖袨', 袣邪褋泻邪写-24
 http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_KASKAD/variant.m3u8
-#EXTINF: -1 group-title='ИНФО', КВН ТВ
+#EXTINF: -1 group-title='袠袧肖袨', 袣袙袧 孝袙
 http://31.148.48.15:80/KVN_TV/index.m3u8?token=test
-#EXTINF: -1 group-title='ИНФО', Телекафе
+#EXTINF: -1 group-title='袠袧肖袨', 孝械谢械泻邪褎械
 http://31.148.48.15:80/Telekafe/index.m3u8
-#EXTINF: -1 group-title='ИНФО', Радость Моя
+#EXTINF: -1 group-title='袠袧肖袨', 袪邪写芯褋褌褜 袦芯褟
 http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
-#EXTINF: -1 group-title='ИНФО', Мир
+#EXTINF: -1 group-title='袠袧肖袨', 袦懈褉
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/video_800x450_avc1/variant.m3u8
-#EXTINF: -1 group-title='ИНФО', ТВ Центр
+#EXTINF: -1 group-title='袠袧肖袨', 孝袙 笑械薪褌褉
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/video_800x450_avc1/variant.m3u8
-#EXTINF: -1 group-title='ИНФО', ЛДПР ТВ
+#EXTINF: -1 group-title='袠袧肖袨', 袥袛袩袪 孝袙
 http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
-#EXTINF: -1 group-title='ИНФО', Известия HD
+#EXTINF: -1 group-title='袠袧肖袨', 袠蟹胁械褋褌懈褟 HD
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF: -1 group-title='ИНФО', Крик-ТВ
+#EXTINF: -1 group-title='袠袧肖袨', 袣褉懈泻-孝袙
 http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
-#EXTINF: -1 group-title='ИНФО', Москва 24
+#EXTINF: -1 group-title='袠袧肖袨', 袦芯褋泻胁邪 24
 http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_MOSKOV24/variant.m3u8
-#EXTINF: -1 group-title='ИНФО', Теледом HD
+#EXTINF: -1 group-title='袠袧肖袨', 孝械谢械写芯屑 HD
 http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
-#EXTINF: -1 group-title='ИНФО', Тео-ТВ
+#EXTINF: -1 group-title='袠袧肖袨', 孝械芯-孝袙
 http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_TEOTV/variant.m3u8
-#EXTINF: -1 group-title='ИНФО', Просвещение
+#EXTINF: -1 group-title='袠袧肖袨', 袩褉芯褋胁械褖械薪懈械
 http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='ИНФО', 555 Hunt Fishing TV
+#EXTINF: -1 group-title='袠袧肖袨', 555 Hunt Fishing TV
 http://193.169.178.29:8081/podsekaiTV/chanelHD1080/playlist.m3u8
-#EXTINF: -1 group-title='ИНФО', Эфир-24 Релакс
+#EXTINF: -1 group-title='袠袧肖袨', 协褎懈褉-24 袪械谢邪泻褋
 http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_EFIR/variant.m3u8
-#EXTINF: -1 group-title='ИНФО', Теледом HD
+#EXTINF: -1 group-title='袠袧肖袨', 孝械谢械写芯屑 HD
 http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
-#EXTINF: -1 group-title='ИНФО', КВН ТВ
+#EXTINF: -1 group-title='袠袧肖袨', 袣袙袧 孝袙
 http://31.148.48.15:80/KVN_TV/index.m3u8?token=test
-#EXTINF: -1 group-title='ИНФО', Телекафе
+#EXTINF: -1 group-title='袠袧肖袨', 孝械谢械泻邪褎械
 http://31.148.48.15:80/Telekafe/index.m3u8
-#EXTINF: -1 group-title='ИНФО', к16
+#EXTINF: -1 group-title='袠袧肖袨', 泻16
 http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
-#EXTINF: -1 group-title='ИНФО', Документалка 1
+#EXTINF: -1 group-title='袠袧肖袨', 袛芯泻褍屑械薪褌邪谢泻邪 1
 https://fl1001.bozztv.com/ushba28/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='ИНФО', Документалка 3
+#EXTINF: -1 group-title='袠袧肖袨', 袛芯泻褍屑械薪褌邪谢泻邪 3
 https://fl1001.bozztv.com/ushba38/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='Развлекательны', Твоё ТВ HD Юмор
-http://tvoetv.space:8080/tvoetv_humor/index.m3u8
-#EXTINF: -1 epg-id='perec-int' group-title='Развлекательны', Перец
+#EXTINF: -1 group-title='袪邪蟹胁谢械泻邪褌械谢褜薪褘', 8 泻邪薪邪谢
+http://dmi3y-tv6.ru/hls/CH_8CHANNEL.m3u8
+#EXTINF: -1 group-title='袪邪蟹胁谢械泻邪褌械谢褜薪褘', 8 袣邪薪邪谢 (袝胁褉芯锌邪)
+http://dmi3y-tv6.ru/hls/CH_8CHANNEL_EUROPE.m3u8
+#EXTINF: -1 group-title='袪邪蟹胁谢械泻邪褌械谢褜薪褘', E TV HD
+http://dmi3y-tv6.ru/hls/CH_ETVHD.m3u8
+#EXTINF: -1 group-title='袪邪蟹胁谢械泻邪褌械谢褜薪褘', 袩褉芯褋胁械褖械薪懈械
+http://dmi3y-tv6.ru/hls/CH_PROSVESHENIE.m3u8
+#EXTINF: -1 group-title='袪邪蟹胁谢械泻邪褌械谢褜薪褘', 袧邪写械卸写邪 HD720
+http://dmi3y-tv6.ru/hls/CH_NADEZHDAHD720.m3u8
+#EXTINF: -1 group-title='袪邪蟹胁谢械泻邪褌械谢褜薪褘', 7tv
+http://dmi3y-tv6.ru/hls/CH_7TV.m3u8
+#EXTINF: -1 group-title='袪邪蟹胁谢械泻邪褌械谢褜薪褘', LIFE TV [RUS]
+http://dmi3y-tv6.ru/hls/CH_LIFETV_RUS.m3u8
+#EXTINF: -1 group-title='袪邪蟹胁谢械泻邪褌械谢褜薪褘', LIFE TV [RUS/EST]
+http://dmi3y-tv6.ru/hls/CH_LIFETV_RUSEST.m3u8
+#EXTINF: -1 group-title='袪邪蟹胁谢械泻邪褌械谢褜薪褘', 孝胁芯械 孝袙 HD
+http://dmi3y-tv6.ru/hls/CH_TVOETVHD.m3u8
+#EXTINF: -1 group-title='袪邪蟹胁谢械泻邪褌械谢褜薪褘', 360掳
+http://dmi3y-tv6.ru/hls/CH_360TV.m3u8
+#EXTINF: -1 group-title='袪邪蟹胁谢械泻邪褌械谢褜薪褘', 360掳 HD
+http://dmi3y-tv6.ru/hls/CH_360TVHD.m3u8
+#EXTINF: -1 epg-id='perec-int' group-title='袪邪蟹胁谢械泻邪褌械谢褜薪褘', 袩械褉械褑
 http://158.101.222.193:88/georgia_play.php?id=perec
-#EXTINF: -1 epg-id='teledom' group-title='Развлекательны', Теледом HD
+#EXTINF: -1 epg-id='teledom' group-title='袪邪蟹胁谢械泻邪褌械谢褜薪褘', 孝械谢械写芯屑 HD
 http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
-#EXTINF: -1 group-title='Развлекательны', Перец
+#EXTINF: -1 group-title='袪邪蟹胁谢械泻邪褌械谢褜薪褘', 袩械褉械褑
 http://158.101.222.193:88/georgia_play.php?id=perec
-#EXTINF: -1 group-title='Развлекательны', Тайны Галактики
+#EXTINF: -1 group-title='袪邪蟹胁谢械泻邪褌械谢褜薪褘', 孝邪泄薪褘 袚邪谢邪泻褌懈泻懈
 http://195.26.83.96:7007/play/a00j/index.m3u8
-#EXTINF: -1 group-title='Развлекательны', Мужской
-http://195.26.83.96:7007/play/11/index.m3u8
-#EXTINF: -1 group-title='Развлекательны', Театр
-http://195.26.83.96:7005/play/16/index.m3u8
-#EXTINF: -1 group-title='Развлекательны', Каскад-24
+#EXTINF: -1 group-title='袪邪蟹胁谢械泻邪褌械谢褜薪褘', 袣邪褋泻邪写-24
 http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_KASKAD/variant.m3u8
-#EXTINF: -1 group-title='Развлекательны', КВН ТВ
+#EXTINF: -1 group-title='袪邪蟹胁谢械泻邪褌械谢褜薪褘', 袣袙袧 孝袙
 http://31.148.48.15:80/KVN_TV/index.m3u8?token=test
-#EXTINF: -1 group-title='Развлекательны', Твоё ТВ
+#EXTINF: -1 group-title='袪邪蟹胁谢械泻邪褌械谢褜薪褘', 孝胁芯褢 孝袙
 http://84.38.180.145:8080/tvoetv/index.m3u8
-#EXTINF: -1 group-title='Развлекательны', Радость Моя
+#EXTINF: -1 group-title='袪邪蟹胁谢械泻邪褌械谢褜薪褘', 袪邪写芯褋褌褜 袦芯褟
 http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
-#EXTINF: -1 group-title='Развлекательны', Мир
+#EXTINF: -1 group-title='袪邪蟹胁谢械泻邪褌械谢褜薪褘', 袦懈褉
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/video_800x450_avc1/variant.m3u8
-#EXTINF: -1 group-title='Развлекательны', Твоё ТВ HD Юмор
+#EXTINF: -1 group-title='袪邪蟹胁谢械泻邪褌械谢褜薪褘', 孝胁芯褢 孝袙 HD 挟屑芯褉
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
-#EXTINF: -1 group-title='Развлекательны', Теледом HD
+#EXTINF: -1 group-title='袪邪蟹胁谢械泻邪褌械谢褜薪褘', 孝械谢械写芯屑 HD
 http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
-#EXTINF: -1 group-title='Развлекательны', Тео-ТВ
-http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_TEOTV/variant.m3u8
-#EXTINF: -1 group-title='Развлекательны', Просвещение
+#EXTINF: -1 group-title='袪邪蟹胁谢械泻邪褌械谢褜薪褘', 袩褉芯褋胁械褖械薪懈械
 http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='Развлекательны', Эфир-24 Релакс
+#EXTINF: -1 group-title='袪邪蟹胁谢械泻邪褌械谢褜薪褘', 协褎懈褉-24 袪械谢邪泻褋
 http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_EFIR/variant.m3u8
-#EXTINF: -1 group-title='Развлекательны', НТВ-Мир
-https://streaming.goodstream.cyou/live/213.m3u8
-#EXTINF: -1 group-title='Развлекательны', Соловьев.Live HD
+#EXTINF: -1 group-title='袪邪蟹胁谢械泻邪褌械谢褜薪褘', 小芯谢芯胁褜械胁.Live HD
 http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1.m3u8
-#EXTINF: -1 group-title='Развлекательны', Твоё ТВ HD Юмор
+#EXTINF: -1 group-title='袪邪蟹胁谢械泻邪褌械谢褜薪褘', 孝胁芯褢 孝袙 HD 挟屑芯褉
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
-#EXTINF: -1 group-title='Развлекательны', Калейдоскоп ТВ
+#EXTINF: -1 group-title='袪邪蟹胁谢械泻邪褌械谢褜薪褘', 袣邪谢械泄写芯褋泻芯锌 孝袙
 https://stream-msk-08.ott.tricolor.tv/dtv/id862_MSKSG-PVR-1--Kaleydoskop/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc0MTAwNTkzOSwiaHdpZCI6IjUyNmZhZDdjYzRkMTFmYmNhNDEwNmFiOTFjNTFmNjc4NWY3ZjYxN2FmMDk5NzY0ZjczNGIxMTI2MGM4NDNlODciLCJsYXN0X3JlcV9kYXRlIjoxNzQwNDAxMTM5LCJzZXNzaW9uX2lkIjoiYjZkNjkyZDI1N2ZjNjQ0NzM1MjZjZWVmYjdkOWVhNjUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ix3vf4NI6snMQ6FXhBa6rWaboApbdaOCFXZ-CzNPCgE&curPos=24022025122116&sid=74ed220f-9145-4ff0-bee4-14351c6fa46e
-#EXTINF: -1 group-title='Развлекательны', VF Орел и решка
+#EXTINF: -1 group-title='袪邪蟹胁谢械泻邪褌械谢褜薪褘', VF 袨褉械谢 懈 褉械褕泻邪
 http://e465ef11.ottolok.net/iptv/XMN783XM3DVAPS4KNNG6TBM7/31476/index.m3u8
-#EXTINF: -1 group-title='Развлекательны', CineMan Ментовские войны
+#EXTINF: -1 group-title='袪邪蟹胁谢械泻邪褌械谢褜薪褘', CineMan 袦械薪褌芯胁褋泻懈械 胁芯泄薪褘
 http://e465ef11.ottolok.net/iptv/XMN783XM3DVAPS4KNNG6TBM7/16063/index.m3u8
-#EXTINF: -1 group-title='Развлекательны', Триколор Ментовские войны
+#EXTINF: -1 group-title='袪邪蟹胁谢械泻邪褌械谢褜薪褘', 孝褉懈泻芯谢芯褉 袦械薪褌芯胁褋泻懈械 胁芯泄薪褘
 http://e465ef11.ottolok.net/iptv/XMN783XM3DVAPS4KNNG6TBM7/18128/index.m3u8
-#EXTINF: -1 group-title='Развлекательны', VF След
+#EXTINF: -1 group-title='袪邪蟹胁谢械泻邪褌械谢褜薪褘', VF 小谢械写
 http://e465ef11.ottolok.net/iptv/XMN783XM3DVAPS4KNNG6TBM7/13086/index.m3u8
-#EXTINF: -1 group-title='Развлекательны', Триколор След
+#EXTINF: -1 group-title='袪邪蟹胁谢械泻邪褌械谢褜薪褘', 孝褉懈泻芯谢芯褉 小谢械写
 http://e465ef11.ottolok.net/iptv/XMN783XM3DVAPS4KNNG6TBM7/18127/index.m3u8
-#EXTINF: -1 group-title='Развлекательны', Кино и сериалы (СМОТРИМ)
-http://a0925677.xsph.ru/hls/smotrim/CH_KINO_I_SERIALY.m3u8
-#EXTINF: -1 group-title='Развлекательны', VF Владимир Высоцкий
-http://e465ef11.ottolok.net/iptv/XMN783XM3DVAPS4KNNG6TBM7/10066/index.m3u8
-#EXTINF: -1 group-title='Развлекательны', Вопросы и ответы orig
-http://e465ef11.ottolok.net/iptv/XMN783XM3DVAPS4KNNG6TBM7/9297/index.m3u8
-#EXTINF: -1 group-title='Развлекательны', Три Ангела
-http://hls.tv.3angels.ru/stream/HQ.m3u8
-#EXTINF: -1 group-title='Кино сериалы0', Феникс Плюс Кино
-http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
-#EXTINF: -1 group-title='Кино сериалы0', Кино и сериалы (СМОТРИМ)
-http://dmitry-tv.ddns.net/hls/smotrim/CH_KINO_I_SERIALY.m3u8
-#EXTINF: -1 group-title='Кино сериалы0', KINO 24
-http://dmitry-tv.ddns.net/hls/CH_KINO24.m3u8
-#EXTINF: -1 group-title='Кино сериалы0', КИНО ТВ
-http://dmitry-tv.ddns.net/hls/CH_KINOTV.m3u8
-#EXTINF: -1 group-title='Кино сериалы0', CINEMA
-http://dmitry-tv.ddns.net/hls/CH_CINEMA.m3u8
-#EXTINF: -1 group-title='Кино сериалы0', KINO 24
-http://a0925677.xsph.ru/hls/CH_KINO24.m3u8
-#EXTINF: -1 group-title='Кино сериалы0', КИНО ТВ
-http://a0925677.xsph.ru/hls/CH_KINOTV.m3u8
-#EXTINF: -1 group-title='Кино сериалы0', CINEMA
-http://a0925677.xsph.ru/hls/CH_CINEMA.m3u8
-#EXTINF: -1 group-title='Кино сериалы0', СМОТРИМ
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
-#EXTINF: -1 group-title='Кино сериалы0', Дом кино
-https://streaming.goodstream.cyou/live/44.m3u8
-#EXTINF: -1 epg-id='no_epg_cinema' user-agent='SmartTV' group-title='Кино сериалы0', Всё ТВ Трейлеры
-http://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
-#EXTINF: -1 group-title='Кино сериалы0', Еврокино
-http://87.120.142.11:18000/STSLove
-#EXTINF: -1 group-title='Кино сериалы0', Кинопоказ
-http://31.148.48.15:80/Kinopokaz/index.m3u8?token=test
-#EXTINF: -1 group-title='Кино сериалы0', Кинозалы 1
-https://fl1001.bozztv.com/ushba13/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='Кино сериалы0', Кинозалы 3
-https://fl1001.bozztv.com/ushba24/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='Кино сериалы0', Кинозалы 4
-https://fl1001.bozztv.com/ushba26/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='Кино сериалы0', Кинозалы 5
-https://fl1001.bozztv.com/ushba-films-b/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='Кино сериалы0', Кинозалы 6
-https://fl1001.bozztv.com/ushba-films-c/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='Кино сериалы0', Кинозалы 7
-https://fl1001.bozztv.com/ushba-films-d/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='Кино сериалы0', Кинозалы 8
-https://fl1001.bozztv.com/ushba-films-e/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='Кино сериалы0', Кинозалы 9
-https://fl1001.bozztv.com/ushba-films-f/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='Кино сериалы0', Кинозалы 10
-https://fl1001.bozztv.com/ushba-films-g/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='Кино сериалы0', Кинозалы 11
-https://fl1001.bozztv.com/ushba-films-h/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='Кино сериалы0', Кинозалы 12
-https://fl1001.bozztv.com/ushba-films-i/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='Кино сериалы0', Кинозалы 13
-https://fl1001.bozztv.com/ushba-films-j/index.m3u8
-#EXTINF: -1 group-title='Кино сериалы0', Кинозалы 14
-https://fl1001.bozztv.com/ushba-films-m/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='Кино сериалы0', Кинозалы 15
-https://fl1001.bozztv.com/ushba-films-p/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='Кино сериалы0', Кинозалы 16
-https://fl1001.bozztv.com/ushba-films-t/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='Кино сериалы0', Кинозалы 17
-https://fl1001.bozztv.com/ushba-films-yz/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='Кино сериалы0', Кинозалы 18
-https://fl1001.bozztv.com/ushba-films-n/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='Кино сериалы0', Кинозалы 19
-https://fl1001.bozztv.com/ushba-films-qr/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='Кино сериалы0', Кинозалы 20
-https://fl1001.bozztv.com/ushba-films-uv/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='Кино сериалы0', Кинозалы 21
-https://fl1001.bozztv.com/ushba-films-o/index.m3u8
-#EXTINF: -1 group-title='Кино сериалы0', Кинозалы 22
-https://fl1001.bozztv.com/ushba-films-s/index.m3u8
-#EXTINF: -1 group-title='Кино сериалы0', Кинозалы 23
-https://fl1001.bozztv.com/ushba-films-w/index.m3u8
-#EXTINF: -1 group-title='Кино сериалы0', Кинозалы 24
-https://fl1001.bozztv.com/ushba-rfilrms-0/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='Кино сериалы0', Кинозалы 26
-https://fl1001.bozztv.com/ushba-rfilrms-b/index.m3u8
-#EXTINF: -1 group-title='Кино сериалы0', Кинозалы 28
-https://fl1001.bozztv.com/ushba-rfilrms-d/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='Кино сериалы0', Кинозалы 29
-https://fl1001.bozztv.com/ushba-rfilrms-e/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='Кино сериалы0', Кинозалы 30
-https://fl1001.bozztv.com/ushba-rfilrms-g/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='Кино сериалы0', Кинозалы 31
-https://fl1001.bozztv.com/ushba-rfilrms-i/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='Кино сериалы0', Кинозалы 34
-https://fl1001.bozztv.com/ushba-rfilrms-v/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='Кино сериалы0', Кинозалы 35
-https://fl1001.bozztv.com/ushba-rfilrms-z/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='Кино сериалы0', КИНОЗАЛ 1
-http://ditv.ydns.eu:80/live/709672DB8830BB58D0542C0ED12D184A/1580.ts
-#EXTINF: -1 group-title='Кино сериалы0', КИНОЗАЛ 2
-http://ditv.ydns.eu:80/live/709672DB8830BB58D0542C0ED12D184A/1584.ts
-#EXTINF: -1 group-title='Кино сериалы0', КИНОЗАЛ 3
-http://ditv.ydns.eu:80/live/709672DB8830BB58D0542C0ED12D184A/1605.ts
-#EXTINF: -1 group-title='Кино сериалы0', КИНОЗАЛ 4
-http://ditv.ydns.eu:80/live/709672DB8830BB58D0542C0ED12D184A/1604.ts
-#EXTINF: -1 group-title='Кино сериалы0', КИНОЗАЛ 5
-http://ditv.ydns.eu:80/live/709672DB8830BB58D0542C0ED12D184A/1627.ts
-#EXTINF: -1 group-title='Кино сериалы0', КИНОЗАЛ 6
-http://ditv.ydns.eu:80/live/709672DB8830BB58D0542C0ED12D184A/1628.ts
-#EXTINF: -1 group-title='Кино сериалы0', КИНОЗАЛ 7
-http://ditv.ydns.eu:80/live/709672DB8830BB58D0542C0ED12D184A/1629.ts
-#EXTINF: -1 group-title='Кино сериалы0', КИНОЗАЛ 8
-http://ditv.ydns.eu:80/live/709672DB8830BB58D0542C0ED12D184A/1630.ts
-#EXTINF: -1 group-title='Кино сериалы0', КИНОЗАЛ 9
-http://ditv.ydns.eu:80/live/709672DB8830BB58D0542C0ED12D184A/1631.ts
-#EXTINF: -1 group-title='Кино сериалы0', КИНОЗАЛ 10
-http://ditv.ydns.eu:80/live/709672DB8830BB58D0542C0ED12D184A/1633.ts
-#EXTINF: -1 group-title='Кино сериалы0', КИНОЗАЛ 11
-http://ditv.ydns.eu:80/live/709672DB8830BB58D0542C0ED12D184A/1634.ts
-#EXTINF: -1 group-title='Кино сериалы0', КИНОЗАЛ 12
-http://ditv.ydns.eu:80/live/709672DB8830BB58D0542C0ED12D184A/1635.ts
-#EXTINF: -1 group-title='Кино сериалы0', КИНОЗАЛ 14
-http://ditv.ydns.eu:80/live/709672DB8830BB58D0542C0ED12D184A/1637.ts
-#EXTINF: -1 group-title='Кино сериалы0', КИНОЗАЛ 15
-http://ditv.ydns.eu:80/live/709672DB8830BB58D0542C0ED12D184A/1638.ts
-#EXTINF: -1 group-title='Кино сериалы0', КИНОЗАЛ 16
-http://ditv.ydns.eu:80/live/709672DB8830BB58D0542C0ED12D184A/1639.ts
-#EXTINF: -1 group-title='Кино сериалы0', КИНОЗАЛ 17
-http://ditv.ydns.eu:80/live/709672DB8830BB58D0542C0ED12D184A/1640.ts
-#EXTINF: -1 group-title='Кино сериалы0', КИНОЗАЛ 19
-http://ditv.ydns.eu:80/live/709672DB8830BB58D0542C0ED12D184A/1642.ts
-#EXTINF: -1 group-title='Кино сериалы0', КИНЕКО
-http://ditv.ydns.eu:80/live/709672DB8830BB58D0542C0ED12D184A/1593.ts
-#EXTINF: -1 group-title='Кино сериалы0', КИНО ТВ HD
-http://ditv.ydns.eu:80/live/709672DB8830BB58D0542C0ED12D184A/1594.ts
-#EXTINF: -1 group-title='Кино сериалы0', КИНО ТВ HD +4
-http://ditv.ydns.eu:80/live/709672DB8830BB58D0542C0ED12D184A/1595.ts
-#EXTINF: -1 group-title='Кино сериалы0', КОМЕДИЯ
-http://ditv.ydns.eu:80/live/709672DB8830BB58D0542C0ED12D184A/1599.ts
-#EXTINF: -1 group-title='Кино сериалы0', ЛЮБИМОЕ HD
-http://ditv.ydns.eu:80/live/709672DB8830BB58D0542C0ED12D184A/1602.ts
-#EXTINF: -1 group-title='Кино сериалы0', МОСФИЛЬМ. ЗОЛОТАЯ КОЛЛЕКЦИЯ HD
-http://ditv.ydns.eu:80/live/709672DB8830BB58D0542C0ED12D184A/1606.ts
-#EXTINF: -1 group-title='Кино сериалы0', НАШ КИНОПОКАЗ
-http://ditv.ydns.eu:80/live/709672DB8830BB58D0542C0ED12D184A/1608.ts
-#EXTINF: -1 group-title='Кино сериалы0', НСТ
-http://ditv.ydns.eu:80/live/709672DB8830BB58D0542C0ED12D184A/1612.ts
-#EXTINF: -1 group-title='Кино сериалы0', Еврокино
-http://158.101.222.193:88/georgia_play.php?id=eurokino
-#EXTINF: -1 group-title='Кино сериалы0', Феникс+Кино
-http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
-#EXTINF: -1 group-title='Кино сериалы0', Пятница! International
-http://158.101.222.193:88/georgia_play.php?id=friday
-#EXTINF: -1 group-title='Кино сериалы0', Иллюзион+
-http://158.101.222.193:88/georgia_play.php?id=illuzionplus
-#EXTINF: -1 group-title='Кино сериалы0', Живи
-http://158.101.222.193:88/georgia_play.php?id=jivi
-#EXTINF: -1 group-title='Кино сериалы0', Мужское кино
-http://158.101.222.193:88/georgia_play.php?id=interesnoetv
-#EXTINF: -1 group-title='Кино сериалы0', Кинохит
-http://158.101.222.193:88/georgia_play.php?id=kinohit
-#EXTINF: -1 group-title='Кино сериалы0', Кинокомедия
-http://158.101.222.193:88/georgia_play.php?id=kinokomediya
-#EXTINF: -1 group-title='Кино сериалы0', Киномикс
-http://158.101.222.193:88/georgia_play.php?id=kinomiks
-#EXTINF: -1 group-title='Кино сериалы0', Киносемья
-http://158.101.222.193:88/georgia_play.php?id=kinosemya
-#EXTINF: -1 group-title='Кино сериалы0', Наше новое кино
-http://158.101.222.193:88/georgia_play.php?id=nashanovoekino
-#EXTINF: -1 group-title='Кино сериалы0', Киносерия
-http://158.101.222.193:88/georgia_play.php?id=kinoseria
-#EXTINF: -1 group-title='Кино сериалы0', Киносвидание
-http://158.101.222.193:88/georgia_play.php?id=kinosvidanie
-#EXTINF: -1 group-title='Кино сериалы0', Киноужас
-http://158.101.222.193:88/georgia_play.php?id=kinoujas
-#EXTINF: -1 group-title='Кино сериалы0', Кто есть кто
-http://158.101.222.193:88/georgia_play.php?id=ktoestkto
-#EXTINF: -1 group-title='Кино сериалы0', КВН ТВ
-http://158.101.222.193:88/georgia_play.php?id=kvntv
-#EXTINF: -1 group-title='Кино сериалы0', Мир 24
-http://158.101.222.193:88/georgia_play.php?id=mir24
-#EXTINF: -1 group-title='Кино сериалы0', Мир
-http://158.101.222.193:88/georgia_play.php?id=mir
-#EXTINF: -1 group-title='Кино сериалы0', TV1000 Русское кино
-http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
-#EXTINF: -1 group-title='Кино сериалы0', Индия
-http://158.101.222.193:88/georgia_play.php?id=zeetv
-#EXTINF: -1 group-title='Кино сериалы0', Кинохит HD
-http://195.26.83.96:7005/play/a00m/index.m3u8
-#EXTINF: -1 group-title='Познавательны', viju Nature
-http://158.101.222.193:88/georgia_play.php?id=viasatnat
-#EXTINF: -1 group-title='Познавательны', viju History
-http://158.101.222.193:88/georgia_play.php?id=viasathist
-#EXTINF: -1 group-title='Познавательны', viju Explore
-http://158.101.222.193:88/georgia_play.php?id=viasatexp
-#EXTINF: -1 group-title='Познавательны', Viju History
-http://158.101.222.193:88/georgia_play.php?id=viasathist
-#EXTINF: -1 epg-id='viasat-nature' group-title='Познавательны', Viju Nature
-http://158.101.222.193:88/georgia_play.php?id=viasatnat
-#EXTINF: -1 group-title='Познавательны', Viju Explore
-http://158.101.222.193:88/georgia_play.php?id=viasatexp
-#EXTINF: -1 epg-id='terra-inkognita' group-title='Познавательны', Терра Инкогнита
-http://178.124.153.123:44400/terra
-#EXTINF: -1 epg-id='id-xtra-eu' group-title='Познавательны', Investigation Discovery
+#EXTINF: -1 epg-id='id-xtra-eu' group-title='袪邪蟹胁谢械泻邪褌械谢褜薪褘', Investigation Discovery
 http://46.8.46.14/InvestigationDiscovery/index.m3u8
-#EXTINF: -1 epg-id='domashnie-zhivotnye' group-title='Познавательны', Домашние животные
-http://178.212.71.253:8000/play/95/index.m3u8
-#EXTINF: -1 epg-id='zagorodnaya-zhizn' group-title='Познавательны', Загородная жизнь
-http://185.57.68.33/40/mpegts
-#EXTINF: -1 epg-id='365-dnej' group-title='Познавательны', 365 дней
-http://185.46.16.239:8000/Paramount_Comedy
-#EXTINF: -1 epg-id='kto-est-kto' group-title='Познавательны', Кто есть кто
+#EXTINF: -1 group-title='袪邪蟹胁谢械泻邪褌械谢褜薪褘', VF 袙谢邪写懈屑懈褉 袙褘褋芯褑泻懈泄
+http://e465ef11.ottolok.net/iptv/XMN783XM3DVAPS4KNNG6TBM7/10066/index.m3u8
+#EXTINF: -1 group-title='袪邪蟹胁谢械泻邪褌械谢褜薪褘', 袙芯锌褉芯褋褘 懈 芯褌胁械褌褘 orig
+http://e465ef11.ottolok.net/iptv/XMN783XM3DVAPS4KNNG6TBM7/9297/index.m3u8
+#EXTINF: -1 group-title='袪邪蟹胁谢械泻邪褌械谢褜薪褘', 孝褉懈 袗薪谐械谢邪
+http://hls.tv.3angels.ru/stream/HQ.m3u8
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袧孝袙 袩袪袗袙袨
+http://dmi3y-tv6.ru/hls/CH_NTVPRAVO.m3u8
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袧孝袙 小袝袪袠袗袥
+http://dmi3y-tv6.ru/hls/CH_NTVSERIAL.m3u8
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袧孝袙 小孝袠袥鞋
+http://dmi3y-tv6.ru/hls/CH_NTVSTIL.m3u8
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袧孝袙 啸袠孝
+http://dmi3y-tv6.ru/hls/CH_NTVHIT.m3u8
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袣懈薪芯 懈 褋械褉懈邪谢褘 (小袦袨孝袪袠袦)
+http://dmi3y-tv6.ru/hls/smotrim/CH_KINO_I_SERIALY.m3u8
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袣懈薪芯 懈 褋械褉懈邪谢褘 HD (小袦袨孝袪袠袦)
+http://dmi3y-tv6.ru/hls/smotrim/CH_KINO_I_SERIALYHD.m3u8
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', KINO 24
+http://dmi3y-tv6.ru/hls/CH_KINO24.m3u8
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袣袠袧袨 孝袙
+http://dmi3y-tv6.ru/hls/CH_KINOTV.m3u8
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', CINEMA
+http://dmi3y-tv6.ru/hls/CH_CINEMA.m3u8
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 肖械薪懈泻褋 袩谢褞褋 袣懈薪芯
+http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袣懈薪芯 懈 褋械褉懈邪谢褘 (小袦袨孝袪袠袦)
+http://dmitry-tv.ddns.net/hls/smotrim/CH_KINO_I_SERIALY.m3u8
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', KINO 24
+http://dmitry-tv.ddns.net/hls/CH_KINO24.m3u8
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袣袠袧袨 孝袙
+http://dmitry-tv.ddns.net/hls/CH_KINOTV.m3u8
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', CINEMA
+http://dmitry-tv.ddns.net/hls/CH_CINEMA.m3u8
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', KINO 24
+http://a0925677.xsph.ru/hls/CH_KINO24.m3u8
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袣袠袧袨 孝袙
+http://a0925677.xsph.ru/hls/CH_KINOTV.m3u8
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', CINEMA
+http://a0925677.xsph.ru/hls/CH_CINEMA.m3u8
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 小袦袨孝袪袠袦
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袛芯屑 泻懈薪芯
+https://streaming.goodstream.cyou/live/44.m3u8
+#EXTINF: -1 epg-id='no_epg_cinema' user-agent='SmartTV' group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袙褋褢 孝袙 孝褉械泄谢械褉褘
+http://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袝胁褉芯泻懈薪芯
+http://87.120.142.11:18000/STSLove
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袣懈薪芯锌芯泻邪蟹
+http://31.148.48.15:80/Kinopokaz/index.m3u8?token=test
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袣懈薪芯蟹邪谢褘 1
+https://fl1001.bozztv.com/ushba13/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袣懈薪芯蟹邪谢褘 3
+https://fl1001.bozztv.com/ushba24/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袣懈薪芯蟹邪谢褘 4
+https://fl1001.bozztv.com/ushba26/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袣懈薪芯蟹邪谢褘 5
+https://fl1001.bozztv.com/ushba-films-b/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袣懈薪芯蟹邪谢褘 6
+https://fl1001.bozztv.com/ushba-films-c/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袣懈薪芯蟹邪谢褘 7
+https://fl1001.bozztv.com/ushba-films-d/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袣懈薪芯蟹邪谢褘 8
+https://fl1001.bozztv.com/ushba-films-e/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袣懈薪芯蟹邪谢褘 9
+https://fl1001.bozztv.com/ushba-films-f/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袣懈薪芯蟹邪谢褘 10
+https://fl1001.bozztv.com/ushba-films-g/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袣懈薪芯蟹邪谢褘 11
+https://fl1001.bozztv.com/ushba-films-h/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袣懈薪芯蟹邪谢褘 12
+https://fl1001.bozztv.com/ushba-films-i/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袣懈薪芯蟹邪谢褘 13
+https://fl1001.bozztv.com/ushba-films-j/index.m3u8
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袣懈薪芯蟹邪谢褘 14
+https://fl1001.bozztv.com/ushba-films-m/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袣懈薪芯蟹邪谢褘 15
+https://fl1001.bozztv.com/ushba-films-p/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袣懈薪芯蟹邪谢褘 16
+https://fl1001.bozztv.com/ushba-films-t/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袣懈薪芯蟹邪谢褘 17
+https://fl1001.bozztv.com/ushba-films-yz/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袣懈薪芯蟹邪谢褘 18
+https://fl1001.bozztv.com/ushba-films-n/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袣懈薪芯蟹邪谢褘 19
+https://fl1001.bozztv.com/ushba-films-qr/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袣懈薪芯蟹邪谢褘 20
+https://fl1001.bozztv.com/ushba-films-uv/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袣懈薪芯蟹邪谢褘 21
+https://fl1001.bozztv.com/ushba-films-o/index.m3u8
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袣懈薪芯蟹邪谢褘 22
+https://fl1001.bozztv.com/ushba-films-s/index.m3u8
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袣懈薪芯蟹邪谢褘 23
+https://fl1001.bozztv.com/ushba-films-w/index.m3u8
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袣懈薪芯蟹邪谢褘 24
+https://fl1001.bozztv.com/ushba-rfilrms-0/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袣懈薪芯蟹邪谢褘 26
+https://fl1001.bozztv.com/ushba-rfilrms-b/index.m3u8
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袣懈薪芯蟹邪谢褘 28
+https://fl1001.bozztv.com/ushba-rfilrms-d/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袣懈薪芯蟹邪谢褘 29
+https://fl1001.bozztv.com/ushba-rfilrms-e/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袣懈薪芯蟹邪谢褘 30
+https://fl1001.bozztv.com/ushba-rfilrms-g/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袣懈薪芯蟹邪谢褘 31
+https://fl1001.bozztv.com/ushba-rfilrms-i/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袣懈薪芯蟹邪谢褘 34
+https://fl1001.bozztv.com/ushba-rfilrms-v/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袣懈薪芯蟹邪谢褘 35
+https://fl1001.bozztv.com/ushba-rfilrms-z/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袣袠袧袨袟袗袥 1
+http://ditv.ydns.eu:80/live/709672DB8830BB58D0542C0ED12D184A/1580.ts
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袣袠袧袨袟袗袥 2
+http://ditv.ydns.eu:80/live/709672DB8830BB58D0542C0ED12D184A/1584.ts
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袣袠袧袨袟袗袥 3
+http://ditv.ydns.eu:80/live/709672DB8830BB58D0542C0ED12D184A/1605.ts
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袣袠袧袨袟袗袥 4
+http://ditv.ydns.eu:80/live/709672DB8830BB58D0542C0ED12D184A/1604.ts
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袣袠袧袨袟袗袥 5
+http://ditv.ydns.eu:80/live/709672DB8830BB58D0542C0ED12D184A/1627.ts
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袣袠袧袨袟袗袥 6
+http://ditv.ydns.eu:80/live/709672DB8830BB58D0542C0ED12D184A/1628.ts
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袣袠袧袨袟袗袥 7
+http://ditv.ydns.eu:80/live/709672DB8830BB58D0542C0ED12D184A/1629.ts
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袣袠袧袨袟袗袥 8
+http://ditv.ydns.eu:80/live/709672DB8830BB58D0542C0ED12D184A/1630.ts
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袣袠袧袨袟袗袥 9
+http://ditv.ydns.eu:80/live/709672DB8830BB58D0542C0ED12D184A/1631.ts
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袣袠袧袨袟袗袥 10
+http://ditv.ydns.eu:80/live/709672DB8830BB58D0542C0ED12D184A/1633.ts
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袣袠袧袨袟袗袥 11
+http://ditv.ydns.eu:80/live/709672DB8830BB58D0542C0ED12D184A/1634.ts
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袣袠袧袨袟袗袥 12
+http://ditv.ydns.eu:80/live/709672DB8830BB58D0542C0ED12D184A/1635.ts
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袣袠袧袨袟袗袥 14
+http://ditv.ydns.eu:80/live/709672DB8830BB58D0542C0ED12D184A/1637.ts
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袣袠袧袨袟袗袥 15
+http://ditv.ydns.eu:80/live/709672DB8830BB58D0542C0ED12D184A/1638.ts
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袣袠袧袨袟袗袥 16
+http://ditv.ydns.eu:80/live/709672DB8830BB58D0542C0ED12D184A/1639.ts
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袣袠袧袨袟袗袥 17
+http://ditv.ydns.eu:80/live/709672DB8830BB58D0542C0ED12D184A/1640.ts
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袣袠袧袨袟袗袥 19
+http://ditv.ydns.eu:80/live/709672DB8830BB58D0542C0ED12D184A/1642.ts
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袣袠袧袝袣袨
+http://ditv.ydns.eu:80/live/709672DB8830BB58D0542C0ED12D184A/1593.ts
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袣袠袧袨 孝袙 HD
+http://ditv.ydns.eu:80/live/709672DB8830BB58D0542C0ED12D184A/1594.ts
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袣袠袧袨 孝袙 HD +4
+http://ditv.ydns.eu:80/live/709672DB8830BB58D0542C0ED12D184A/1595.ts
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袣袨袦袝袛袠携
+http://ditv.ydns.eu:80/live/709672DB8830BB58D0542C0ED12D184A/1599.ts
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袥挟袘袠袦袨袝 HD
+http://ditv.ydns.eu:80/live/709672DB8830BB58D0542C0ED12D184A/1602.ts
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袦袨小肖袠袥鞋袦. 袟袨袥袨孝袗携 袣袨袥袥袝袣笑袠携 HD
+http://ditv.ydns.eu:80/live/709672DB8830BB58D0542C0ED12D184A/1606.ts
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袧袗楔 袣袠袧袨袩袨袣袗袟
+http://ditv.ydns.eu:80/live/709672DB8830BB58D0542C0ED12D184A/1608.ts
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袧小孝
+http://ditv.ydns.eu:80/live/709672DB8830BB58D0542C0ED12D184A/1612.ts
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袝胁褉芯泻懈薪芯
+http://158.101.222.193:88/georgia_play.php?id=eurokino
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 肖械薪懈泻褋+袣懈薪芯
+http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袩褟褌薪懈褑邪! International
+http://158.101.222.193:88/georgia_play.php?id=friday
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袠谢谢褞蟹懈芯薪+
+http://158.101.222.193:88/georgia_play.php?id=illuzionplus
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袞懈胁懈
+http://158.101.222.193:88/georgia_play.php?id=jivi
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袦褍卸褋泻芯械 泻懈薪芯
+http://158.101.222.193:88/georgia_play.php?id=interesnoetv
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袣懈薪芯褏懈褌
+http://158.101.222.193:88/georgia_play.php?id=kinohit
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袣懈薪芯泻芯屑械写懈褟
+http://158.101.222.193:88/georgia_play.php?id=kinokomediya
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袣懈薪芯屑懈泻褋
+http://158.101.222.193:88/georgia_play.php?id=kinomiks
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袣懈薪芯褋械屑褜褟
+http://158.101.222.193:88/georgia_play.php?id=kinosemya
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袧邪褕械 薪芯胁芯械 泻懈薪芯
+http://158.101.222.193:88/georgia_play.php?id=nashanovoekino
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袣懈薪芯褋械褉懈褟
+http://158.101.222.193:88/georgia_play.php?id=kinoseria
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袣懈薪芯褋胁懈写邪薪懈械
+http://158.101.222.193:88/georgia_play.php?id=kinosvidanie
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袣懈薪芯褍卸邪褋
+http://158.101.222.193:88/georgia_play.php?id=kinoujas
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袣褌芯 械褋褌褜 泻褌芯
 http://158.101.222.193:88/georgia_play.php?id=ktoestkto
-#EXTINF: -1 epg-id='univer-tv' group-title='Познавательны', Univer TV
-http://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
-#EXTINF: -1 epg-id='nat-geo-wild' group-title='Познавательны', Nat Geo Wild HD
-http://188.237.47.212:6005
-#EXTINF: -1 epg-id='moya-planeta' group-title='Познавательны', Моя Планета
-http://tv.streams.baikal-telecom.net:8080/Moya_Planeta/index.m3u8
-#EXTINF: -1 epg-id='prosveschenie' group-title='Познавательны', Просвещение
-http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/mono.m3u8
-#EXTINF: -1 epg-id='360-int' group-title='Познавательны', 360° Международный HD
-http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/mono.m3u8
-#EXTINF: -1 epg-id='zagorodnaya-zhizn' group-title='Познавательны', Загородная жизнь
-http://185.57.68.33/40/mpegts
-#EXTINF: -1 epg-id='rtg-hd' group-title='Познавательны', RTG HD
-http://tv.streams.baikal-telecom.net:8080/RTG_HD/index.m3u8
-#EXTINF: -1 epg-id='univer-tv' group-title='Познавательны', Univer TV
-http://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
-#EXTINF: -1 epg-id='no_epg' group-title='Познавательны', лекторий DОСТОЕВСКИЙ
-https://fl1001.bozztv.com/ushba3/tracks-v1a1/mono.m3u8
-#EXTINF: -1 epg-id='moskovsky-obrazovatelny' group-title='Познавательны', Мособр TV HD
-https://retrtb.educom.ru/mosobrtv/tv2/index.m3u8
-#EXTINF: -1 group-title='Познавательны', 24 техно
-http://158.101.222.193:88/georgia_play.php?id=24techno
-#EXTINF: -1 group-title='Познавательны', Viasat explore
-http://158.101.222.193:88/georgia_play.php?id=viasatexp
-#EXTINF: -1 group-title='Познавательны', Viasat History
-http://158.101.222.193:88/georgia_play.php?id=viasathist
-#EXTINF: -1 group-title='Познавательны', Viasat Nature
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袣袙袧 孝袙
+http://158.101.222.193:88/georgia_play.php?id=kvntv
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袦懈褉 24
+http://158.101.222.193:88/georgia_play.php?id=mir24
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袦懈褉
+http://158.101.222.193:88/georgia_play.php?id=mir
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', TV1000 袪褍褋褋泻芯械 泻懈薪芯
+http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袠薪写懈褟
+http://158.101.222.193:88/georgia_play.php?id=zeetv
+#EXTINF: -1 group-title='袣懈薪芯 褋械褉懈邪谢褘0', 袣懈薪芯褏懈褌 HD
+http://195.26.83.96:7005/play/a00m/index.m3u8
+#EXTINF: -1 group-title='袩芯蟹薪邪胁邪褌械谢褜薪褘', 袩袪袨袛袙袠袞袝袧袠袝
+http://dmi3y-tv6.ru/hls/CH_PRODVIZHENIE.m3u8
+#EXTINF: -1 group-title='袩芯蟹薪邪胁邪褌械谢褜薪褘', 小袨挟袟 HD
+http://dmi3y-tv6.ru/hls/CH_SOYUZHD.m3u8
+#EXTINF: -1 group-title='袩芯蟹薪邪胁邪褌械谢褜薪褘', 袧袝袠袟袙袝小孝袧袗携 袪袨小小袠携
+http://dmi3y-tv6.ru/hls/CH_UNKNOWN_RUSSIA.m3u8
+#EXTINF: -1 group-title='袩芯蟹薪邪胁邪褌械谢褜薪褘', 袧袝袠袟袙袝小孝袧袗携 袪袨小小袠携 HD
+http://dmi3y-tv6.ru/hls/CH_UNKNOWN_RUSSIAHD.m3u8
+#EXTINF: -1 group-title='袩芯蟹薪邪胁邪褌械谢褜薪褘', 袧邪褍泻邪 2.0
+http://dmi3y-tv6.ru/hls/CH_NAUKA20.m3u8
+#EXTINF: -1 group-title='袩芯蟹薪邪胁邪褌械谢褜薪褘', viju Nature
 http://158.101.222.193:88/georgia_play.php?id=viasatnat
-#EXTINF: -1 group-title='Познавательны', Viasat Sport
+#EXTINF: -1 group-title='袩芯蟹薪邪胁邪褌械谢褜薪褘', viju History
+http://158.101.222.193:88/georgia_play.php?id=viasathist
+#EXTINF: -1 group-title='袩芯蟹薪邪胁邪褌械谢褜薪褘', viju Explore
+http://158.101.222.193:88/georgia_play.php?id=viasatexp
+#EXTINF: -1 group-title='袩芯蟹薪邪胁邪褌械谢褜薪褘', Viju History
+http://158.101.222.193:88/georgia_play.php?id=viasathist
+#EXTINF: -1 epg-id='viasat-nature' group-title='袩芯蟹薪邪胁邪褌械谢褜薪褘', Viju Nature
+http://158.101.222.193:88/georgia_play.php?id=viasatnat
+#EXTINF: -1 group-title='袩芯蟹薪邪胁邪褌械谢褜薪褘', Viju Explore
+http://158.101.222.193:88/georgia_play.php?id=viasatexp
+#EXTINF: -1 epg-id='terra-inkognita' group-title='袩芯蟹薪邪胁邪褌械谢褜薪褘', 孝械褉褉邪 袠薪泻芯谐薪懈褌邪
+http://178.124.153.123:44400/terra
+#EXTINF: -1 epg-id='domashnie-zhivotnye' group-title='袩芯蟹薪邪胁邪褌械谢褜薪褘', 袛芯屑邪褕薪懈械 卸懈胁芯褌薪褘械
+http://178.212.71.253:8000/play/95/index.m3u8
+#EXTINF: -1 epg-id='zagorodnaya-zhizn' group-title='袩芯蟹薪邪胁邪褌械谢褜薪褘', 袟邪谐芯褉芯写薪邪褟 卸懈蟹薪褜
+http://185.57.68.33/40/mpegts
+#EXTINF: -1 epg-id='365-dnej' group-title='袩芯蟹薪邪胁邪褌械谢褜薪褘', 365 写薪械泄
+http://185.46.16.239:8000/Paramount_Comedy
+#EXTINF: -1 epg-id='kto-est-kto' group-title='袩芯蟹薪邪胁邪褌械谢褜薪褘', 袣褌芯 械褋褌褜 泻褌芯
+http://158.101.222.193:88/georgia_play.php?id=ktoestkto
+#EXTINF: -1 epg-id='univer-tv' group-title='袩芯蟹薪邪胁邪褌械谢褜薪褘', Univer TV
+http://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
+#EXTINF: -1 epg-id='nat-geo-wild' group-title='袩芯蟹薪邪胁邪褌械谢褜薪褘', Nat Geo Wild HD
+http://188.237.47.212:6005
+#EXTINF: -1 epg-id='moya-planeta' group-title='袩芯蟹薪邪胁邪褌械谢褜薪褘', 袦芯褟 袩谢邪薪械褌邪
+http://tv.streams.baikal-telecom.net:8080/Moya_Planeta/index.m3u8
+#EXTINF: -1 epg-id='prosveschenie' group-title='袩芯蟹薪邪胁邪褌械谢褜薪褘', 袩褉芯褋胁械褖械薪懈械
+http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/mono.m3u8
+#EXTINF: -1 epg-id='360-int' group-title='袩芯蟹薪邪胁邪褌械谢褜薪褘', 360掳 袦械卸写褍薪邪褉芯写薪褘泄 HD
+http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/mono.m3u8
+#EXTINF: -1 epg-id='rtg-hd' group-title='袩芯蟹薪邪胁邪褌械谢褜薪褘', RTG HD
+http://tv.streams.baikal-telecom.net:8080/RTG_HD/index.m3u8
+#EXTINF: -1 epg-id='univer-tv' group-title='袩芯蟹薪邪胁邪褌械谢褜薪褘', Univer TV
+http://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
+#EXTINF: -1 epg-id='no_epg' group-title='袩芯蟹薪邪胁邪褌械谢褜薪褘', 谢械泻褌芯褉懈泄 D袨小孝袨袝袙小袣袠袡
+https://fl1001.bozztv.com/ushba3/tracks-v1a1/mono.m3u8
+#EXTINF: -1 epg-id='moskovsky-obrazovatelny' group-title='袩芯蟹薪邪胁邪褌械谢褜薪褘', 袦芯褋芯斜褉 TV HD
+https://retrtb.educom.ru/mosobrtv/tv2/index.m3u8
+#EXTINF: -1 group-title='袩芯蟹薪邪胁邪褌械谢褜薪褘', 24 褌械褏薪芯
+http://158.101.222.193:88/georgia_play.php?id=24techno
+#EXTINF: -1 group-title='袩芯蟹薪邪胁邪褌械谢褜薪褘', Viasat explore
+http://158.101.222.193:88/georgia_play.php?id=viasatexp
+#EXTINF: -1 group-title='袩芯蟹薪邪胁邪褌械谢褜薪褘', Viasat History
+http://158.101.222.193:88/georgia_play.php?id=viasathist
+#EXTINF: -1 group-title='袩芯蟹薪邪胁邪褌械谢褜薪褘', Viasat Nature
+http://158.101.222.193:88/georgia_play.php?id=viasatnat
+#EXTINF: -1 group-title='袩芯蟹薪邪胁邪褌械谢褜薪褘', Viasat Sport
 http://158.101.222.193:88/georgia_play.php?id=viasatsport
-#EXTINF: -1 group-title='Познавательны', Точка РФ
+#EXTINF: -1 group-title='袩芯蟹薪邪胁邪褌械谢褜薪褘', 孝芯褔泻邪 袪肖
 http://158.101.222.193:88/georgia_play.php?id=hdlife
-#EXTINF: -1 group-title='Познавательны', Оружие
-http://158.101.222.193:88/georgia_play.php?id=oruzhie
-#EXTINF: -1 group-title='Познавательны', 365 дней
+#EXTINF: -1 group-title='袩芯蟹薪邪胁邪褌械谢褜薪褘', 365 写薪械泄
 http://158.101.222.193:88/georgia_play.php?id=365day
-#EXTINF: -1 group-title='Познавательны', Мужской
+#EXTINF: -1 group-title='袩芯蟹薪邪胁邪褌械谢褜薪褘', 袦褍卸褋泻芯泄
 http://158.101.222.193:88/georgia_play.php?id=muzhskoy
-#EXTINF: -1 group-title='Познавательны', Ностальгия
+#EXTINF: -1 group-title='袩芯蟹薪邪胁邪褌械谢褜薪褘', 袧芯褋褌邪谢褜谐懈褟
 http://158.101.222.193:88/georgia_play.php?id=nostalgy
-#EXTINF: -1 group-title='Познавательны', Загородная жизнь
+#EXTINF: -1 group-title='袩芯蟹薪邪胁邪褌械谢褜薪褘', 袟邪谐芯褉芯写薪邪褟 卸懈蟹薪褜
 http://195.26.83.96:7007/play/10/index.m3u8
-#EXTINF: -1 epg-id='match-tv' group-title='Спорт0', Матч ТВ
+#EXTINF: -1 group-title='小锌芯褉褌0', 小孝袗袪孝 孝袪袠校袦肖
+http://dmi3y-tv6.ru/hls/CH_START_TRIUMF.m3u8
+#EXTINF: -1 epg-id='match-tv' group-title='小锌芯褉褌0', 袦邪褌褔 孝袙
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
-#EXTINF: -1 group-title='Спорт0', Матч! (Архив)
+#EXTINF: -1 group-title='小锌芯褉褌0', 袦邪褌褔! (袗褉褏懈胁)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
-#EXTINF: -1 group-title='Спорт0', Матч ТВ
+#EXTINF: -1 group-title='小锌芯褉褌0', 袦邪褌褔 孝袙
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/video_800x450_avc1/variant.m3u8
-#EXTINF: -1 epg-id='match-football3' group-title='Спорт0', Матч! Футбол 3
+#EXTINF: -1 epg-id='match-football3' group-title='小锌芯褉褌0', 袦邪褌褔! 肖褍褌斜芯谢 3
 http://185.57.68.33/110/mpegts
-#EXTINF: -1 epg-id='match-tv' user-agent='Mozilla/5.0' group-title='Спорт0', Матч! ТВ
+#EXTINF: -1 epg-id='match-tv' user-agent='Mozilla/5.0' group-title='小锌芯褉褌0', 袦邪褌褔! 孝袙
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
-#EXTINF: -1 epg-id='viasat-sport' group-title='Спорт0', Viju+ Sport
-http://46.8.46.14/viasport/index.m3u8
-#EXTINF: -1 group-title='Спорт0', Футбол
-http://e465ef11.ottolok.net/iptv/XMN783XM3DVAPS4KNNG6TBM7/5050/index.m3u8
-#EXTINF: -1 group-title='Спорт0', Матч! Планета
+#EXTINF: -1 group-title='小锌芯褉褌0', 袦邪褌褔! 袩谢邪薪械褌邪
 http://158.101.222.193:88/georgia_play.php?id=matchplaneta
-#EXTINF: -1 group-title='Спорт0', Бокс ТВ
+#EXTINF: -1 group-title='小锌芯褉褌0', 袘芯泻褋 孝袙
 http://158.101.222.193:88/georgia_play.php?id=boxtv
-#EXTINF: -1 group-title='Спорт0', КХЛ ТВ
+#EXTINF: -1 group-title='小锌芯褉褌0', 袣啸袥 孝袙
 http://195.26.83.96:7007/play/4/index.m3u8
-#EXTINF: -1 group-title='Спорт0', Матч!
+#EXTINF: -1 group-title='小锌芯褉褌0', 袦邪褌褔!
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='Спорт0', Конный мир
+#EXTINF: -1 group-title='小锌芯褉褌0', 袣芯薪薪褘泄 屑懈褉
 http://cdn-01.bonus-tv.ru/kmir/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='Спорт0', Матч! Арена
+#EXTINF: -1 group-title='小锌芯褉褌0', 袦邪褌褔! 袗褉械薪邪
 http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
-#EXTINF: -1 group-title='Спорт0', Матч! Планета
+#EXTINF: -1 group-title='小锌芯褉褌0', 袦邪褌褔! 袩谢邪薪械褌邪
 http://158.101.222.193:88/georgia_play.php?id=matchplaneta
-#EXTINF: -1 group-title='Спорт0', Матч! Премьер
+#EXTINF: -1 group-title='小锌芯褉褌0', 袦邪褌褔! 袩褉械屑褜械褉
 http://178.212.71.253:8000/play/57/index.m3u8
-#EXTINF: -1 group-title='Спорт0', Матч! Футбол 3
+#EXTINF: -1 group-title='小锌芯褉褌0', 袦邪褌褔! 肖褍褌斜芯谢 3
 http://185.57.68.33/110/mpegts
-#EXTINF: -1 group-title='Спорт0', KHL Prime
+#EXTINF: -1 group-title='小锌芯褉褌0', KHL Prime
 http://194.143.148.28:8080/KHL_HD/mpegts
-#EXTINF: -1 group-title='Спорт0', Premier Sport 1 🛡️
+#EXTINF: -1 group-title='小锌芯褉褌0', Premier Sport 1 馃洝锔�
 https://7pal.short.gy/prsport1
-#EXTINF: -1 group-title='Спорт0', Premier Sport 2 🛡️
-https://7pal.short.gy/prsport2
-#EXTINF: -1 group-title='Спорт0', Russian Extreme
+#EXTINF: -1 group-title='小锌芯褉褌0', Russian Extreme
 http://195.26.83.96:7029/play/a008
-#EXTINF: -1 group-title='Спорт0', viju+ Sport
-http://178.134.1.158:8081/viasatsport/index.m3u8
-#EXTINF: -1 group-title='Музыка0', Муз Союз
-http://a0925677.xsph.ru/hls/CH_MUZSOYUZ.m3u8
-#EXTINF: -1 group-title='Музыка0', RUTV
-http://a0925677.xsph.ru/hls/CH_RUTV.m3u8
-#EXTINF: -1 group-title='Музыка0', ТНТ MUSIC
-http://a0925677.xsph.ru/hls/CH_TNT_MUSIC.m3u8
-#EXTINF: -1 group-title='Музыка0', V2BEAT HD720
-http://a0925677.xsph.ru/hls/CH_V2BEATHD720.m3u8
-#EXTINF: -1 group-title='Музыка0', Kronehit
-http://a0925677.xsph.ru/hls/CH_KRONEHIT.m3u8
-#EXTINF: -1 group-title='Музыка0', 88 Stereo HD720
-http://a0925677.xsph.ru/hls/CH_88STEREOHD720.m3u8
-#EXTINF: -1 group-title='Музыка0', Шансон ТВ
-http://a0925677.xsph.ru/hls/CH_SHANSONTV.m3u8
-#EXTINF: -1 group-title='Музыка0', МузСоюз
+#EXTINF: -1 group-title='袦褍蟹褘泻邪0', 袦褍蟹 小芯褞蟹
+http://dmi3y-tv6.ru/hls/CH_MUZSOYUZ.m3u8
+#EXTINF: -1 group-title='袦褍蟹褘泻邪0', RUTV
+http://dmi3y-tv6.ru/hls/CH_RUTV.m3u8
+#EXTINF: -1 group-title='袦褍蟹褘泻邪0', RUTV HD
+http://dmi3y-tv6.ru/hls/CH_RUTVHD.m3u8
+#EXTINF: -1 group-title='袦褍蟹褘泻邪0', V2BEAT HD720
+http://dmi3y-tv6.ru/hls/CH_V2BEATHD720.m3u8
+#EXTINF: -1 group-title='袦褍蟹褘泻邪0', Kronehit
+http://dmi3y-tv6.ru/hls/CH_KRONEHIT.m3u8
+#EXTINF: -1 group-title='袦褍蟹褘泻邪0', Kronehit HD
+http://dmi3y-tv6.ru/hls/CH_KRONEHITHD.m3u8
+#EXTINF: -1 group-title='袦褍蟹褘泻邪0', 楔邪薪褋芯薪 孝袙
+http://dmi3y-tv6.ru/hls/CH_SHANSONTV.m3u8
+#EXTINF: -1 group-title='袦褍蟹褘泻邪0', 袦褍蟹小芯褞蟹
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
-#EXTINF: -1 group-title='Музыка0', Маяк
+#EXTINF: -1 group-title='袦褍蟹褘泻邪0', 袦邪褟泻
 http://icecast-vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps
-#EXTINF: -1 group-title='Музыка0', Вести ФМ
+#EXTINF: -1 group-title='袦褍蟹褘泻邪0', 袙械褋褌懈 肖袦
 http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_192kbps
-#EXTINF: -1 group-title='Музыка0', Радио России
+#EXTINF: -1 group-title='袦褍蟹褘泻邪0', 袪邪写懈芯 袪芯褋褋懈懈
 http://icecast-vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps
-#EXTINF: -1 epg-id='no_epg_music' group-title='Музыка0', DanceHits 80'
+#EXTINF: -1 epg-id='no_epg_music' group-title='袦褍蟹褘泻邪0', DanceHits 80'
 http://dancehits80.denvs.ru:8080/index.m3u8
-#EXTINF: -1 group-title='Музыка0', O2TV
+#EXTINF: -1 group-title='袦褍蟹褘泻邪0', O2TV
 http://195.26.83.96:7006/play/1/index.m3u8
-#EXTINF: -1 group-title='Музыка0', Шансон ТВ
+#EXTINF: -1 group-title='袦褍蟹褘泻邪0', 楔邪薪褋芯薪 孝袙
 http://195.26.83.96:7005/play/a00l/index.m3u8
-#EXTINF: -1 group-title='Музыка0', BRIDGE TV
+#EXTINF: -1 group-title='袦褍蟹褘泻邪0', BRIDGE TV
 http://195.26.83.96:7007/play/a00m/index.m3u8
-#EXTINF: -1 group-title='Музыка0', 1HD Music
+#EXTINF: -1 group-title='袦褍蟹褘泻邪0', 1HD Music
 http://91.247.68.229:8000/play/eee/index.m3u8
-#EXTINF: -1 group-title='Музыка0', Жар Птица
+#EXTINF: -1 group-title='袦褍蟹褘泻邪0', 袞邪褉 袩褌懈褑邪
 http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
-#EXTINF: -1 group-title='Музыка0', Bridge
+#EXTINF: -1 group-title='袦褍蟹褘泻邪0', Bridge
 http://195.26.83.96:7007/play/a00m/index.m3u8
-#EXTINF: -1 group-title='Музыка0', Bridge Hits
+#EXTINF: -1 group-title='袦褍蟹褘泻邪0', Bridge Hits
 http://178.212.71.253:8000/play/134/index.m3u8
-#EXTINF: -1 group-title='Музыка0', Deluxe Dance
+#EXTINF: -1 group-title='袦褍蟹褘泻邪0', Deluxe Dance
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
-#EXTINF: -1 group-title='Музыка0', [Радио] Радио России 66.44 УКВ (Москва)
+#EXTINF: -1 group-title='袦褍蟹褘泻邪0', [袪邪写懈芯] 袪邪写懈芯 袪芯褋褋懈懈 66.44 校袣袙 (袦芯褋泻胁邪)
 http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_64kbps
-#EXTINF: -1 group-title='Музыка0', [Радио] Jazz FM 89.1 FM (Москва)
+#EXTINF: -1 group-title='袦褍蟹褘泻邪0', [袪邪写懈芯] Jazz FM 89.1 FM (袦芯褋泻胁邪)
 http://nashe3.hostingradio.ru/jazz-128.mp3
-#EXTINF: -1 group-title='Музыка0', [Радио] Relax FM 90.8 FM (Москва)
+#EXTINF: -1 group-title='袦褍蟹褘泻邪0', [袪邪写懈芯] Relax FM 90.8 FM (袦芯褋泻胁邪)
 http://ic7.101.ru:8000/v13_1
-#EXTINF: -1 group-title='Музыка0', [Радио] Rock FM 95.2 FM (Москва)
+#EXTINF: -1 group-title='袦褍蟹褘泻邪0', [袪邪写懈芯] Rock FM 95.2 FM (袦芯褋泻胁邪)
 http://nashe1.hostingradio.ru/rock-128.mp3
-#EXTINF: -1 group-title='Музыка0', [Радио] Дорожное радио 96.0 FM (Москва)
+#EXTINF: -1 group-title='袦褍蟹褘泻邪0', [袪邪写懈芯] 袛芯褉芯卸薪芯械 褉邪写懈芯 96.0 FM (袦芯褋泻胁邪)
 http://dorognoe.hostingradio.ru:8000/dorognoe_acc
-#EXTINF: -1 group-title='Музыка0', [Радио] Комсомольская Правда 97.2 FM (Москва)
+#EXTINF: -1 group-title='袦褍蟹褘泻邪0', [袪邪写懈芯] 袣芯屑褋芯屑芯谢褜褋泻邪褟 袩褉邪胁写邪 97.2 FM (袦芯褋泻胁邪)
 http://kpradio.hostingradio.ru:8000/128
-#EXTINF: -1 group-title='Музыка0', [Радио] Новое Радио 98.4 FM (Москва)
+#EXTINF: -1 group-title='袦褍蟹褘泻邪0', [袪邪写懈芯] 袧芯胁芯械 袪邪写懈芯 98.4 FM (袦芯褋泻胁邪)
 http://icecast.newradio.cdnvideo.ru/newradio3
-#EXTINF: -1 group-title='Музыка0', [Радио] Best FM 100.5 FM (Москва)
+#EXTINF: -1 group-title='袦褍蟹褘泻邪0', [袪邪写懈芯] Best FM 100.5 FM (袦芯褋泻胁邪)
 http://nashe3.hostingradio.ru/best-128.mp3
-#EXTINF: -1 group-title='Музыка0', [Радио] Наше радио 101.7 FM (Москва)
+#EXTINF: -1 group-title='袦褍蟹褘泻邪0', [袪邪写懈芯] 袧邪褕械 褉邪写懈芯 101.7 FM (袦芯褋泻胁邪)
 http://nashe3.hostingradio.ru/nashe-128.mp3
-#EXTINF: -1 group-title='Эфир+-Резерв', Первый канал (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV-1.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Первый канал
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Первый канал (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_2.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Первый канал (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_4.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Первый канал (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_6.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Первый канал (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_7.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Первый канал (+8)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_8.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Первый канал (+9)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_9.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Россия 1 (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1-1.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Россия 1
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Россия 1 (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_2.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Россия 1 (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_4.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Россия 1 (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_6.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Россия 1 (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_7.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Россия 1 (+8)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_8.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Россия 1 (+9)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_9.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', НТВ (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV-1.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', НТВ
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', НТВ (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV_2.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', НТВ (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV_4.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', НТВ (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV_6.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', НТВ (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV_7.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Пятый канал (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV-1.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Пятый канал
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Пятый канал (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV_2.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Пятый канал (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV_4.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Пятый канал (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV_6.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Пятый канал (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV_7.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Россия К (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIAK-1.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Россия К
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIAK.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Россия К (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIAK_2.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Россия К (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIAK_4.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Россия К (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIAK_6.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Россия К (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIAK_7.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Россия 24
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA24.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Россия 24 (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA24_2.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Россия 24 (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA24_6.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Карусель (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_KARUSEL-1.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Карусель
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_KARUSEL.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Карусель (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_KARUSEL_2.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Карусель (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_KARUSEL_4.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Карусель (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_KARUSEL_6.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Карусель (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_KARUSEL_7.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Карусель (+8)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_KARUSEL_8.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', ОТР
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_OTR.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', ТВЦ (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TVC-1.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', ТВЦ
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TVC.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', ТВЦ (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TVC_2.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', ТВЦ (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TVC_4.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', ТВЦ (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TVC_6.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', ТВЦ (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TVC_7.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', РЕН ТВ (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RENTV-1.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', РЕН ТВ
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RENTV.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', РЕН ТВ (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RENTV_2.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', РЕН ТВ (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RENTV_4.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', РЕН ТВ (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RENTV_6.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', РЕН ТВ (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RENTV_7.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', СПАС (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_SPAS-1.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', СПАС
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_SPAS.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', СПАС (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_SPAS_2.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', СПАС (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_SPAS_4.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', СПАС (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_SPAS_6.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', СПАС (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_SPAS_7.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', СТС (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_STS-1.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', СТС
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_STS.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', СТС (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_STS_2.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', СТС (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_STS_4.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', СТС (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_STS_6.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', СТС (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_STS_7.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Домашний (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_DOMASHNIY-1.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Домашний
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_DOMASHNIY.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Домашний (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_DOMASHNIY_2.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Домашний (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_DOMASHNIY_4.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Домашний (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_DOMASHNIY_6.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Домашний (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_DOMASHNIY_7.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', ТВ3 (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TV3-1.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', ТВ3
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TV3.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', ТВ3 (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TV3_2.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', ТВ3 (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TV3_4.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', ТВ3 (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TV3_6.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', ТВ3 (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TV3_7.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Пятница! (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_FRIDAY-1.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Пятница!
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_FRIDAY.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Пятница! (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_FRIDAY_2.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Пятница! (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_FRIDAY_4.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Пятница! (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_FRIDAY_6.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Пятница! (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_FRIDAY_7.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Звезда (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA-1.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Звезда
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Звезда (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA_2.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Звезда (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA_4.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Звезда (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA_6.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Звезда (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA_7.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', МИР (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MIR-1.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', МИР
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MIR.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', МИР (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MIR_2.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', МИР (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MIR_4.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', МИР (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MIR_6.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', МИР (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MIR_7.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', ТНТ (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TNT-1.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', ТНТ
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TNT.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', ТНТ (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TNT_2.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', ТНТ (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TNT_4.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', ТНТ (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TNT_6.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', ТНТ (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TNT_7.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', МУЗ ТВ (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV-1.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', МУЗ ТВ
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', МУЗ ТВ (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV_2.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', МУЗ ТВ (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV_4.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', МУЗ ТВ (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV_6.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', МУЗ ТВ (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV_7.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Че! (-1)
-http://dmitry-tv.ddns.net/hls/zabava/CH_CHE-1.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Че!
-http://dmitry-tv.ddns.net/hls/zabava/CH_CHE.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Че! (+2)
-http://dmitry-tv.ddns.net/hls/zabava/CH_CHE_2.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Че! (+4)
-http://dmitry-tv.ddns.net/hls/zabava/CH_CHE_4.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Че! (+6)
-http://dmitry-tv.ddns.net/hls/zabava/CH_CHE_6.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Че! (+7)
-http://dmitry-tv.ddns.net/hls/zabava/CH_CHE_7.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Ю (-1)
-http://dmitry-tv.ddns.net/hls/zabava/CH_U-1.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Ю
-http://dmitry-tv.ddns.net/hls/zabava/CH_U.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Ю (+2)
-http://dmitry-tv.ddns.net/hls/zabava/CH_U_2.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Ю (+4)
-http://dmitry-tv.ddns.net/hls/zabava/CH_U_4.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Ю (+6)
-http://dmitry-tv.ddns.net/hls/zabava/CH_U_6.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Ю (+7)
-http://dmitry-tv.ddns.net/hls/zabava/CH_U_7.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', СТС Love (-1)
-http://dmitry-tv.ddns.net/hls/zabava/CH_STSLOVE-1.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', СТС Love
-http://dmitry-tv.ddns.net/hls/zabava/CH_STSLOVE.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', СТС Love (+2)
-http://dmitry-tv.ddns.net/hls/zabava/CH_STSLOVE_2.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', СТС Love (+4)
-http://dmitry-tv.ddns.net/hls/zabava/CH_STSLOVE_4.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', 2x2 (-1)
-http://dmitry-tv.ddns.net/hls/zabava/CH_2X2-1.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', 2x2
-http://dmitry-tv.ddns.net/hls/zabava/CH_2X2.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', 2x2 (+2)
-http://dmitry-tv.ddns.net/hls/zabava/CH_2X2_2.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', 2x2 (+4)
-http://dmitry-tv.ddns.net/hls/zabava/CH_2X2_4.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', 2x2 (+6)
-http://dmitry-tv.ddns.net/hls/zabava/CH_2X2_6.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', 2x2 (+7)
-http://dmitry-tv.ddns.net/hls/zabava/CH_2X2_7.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Суббота! (-1)
-http://dmitry-tv.ddns.net/hls/zabava/CH_SUBBOTA-1.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Суббота!
-http://dmitry-tv.ddns.net/hls/zabava/CH_SUBBOTA.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Суббота! (+2)
-http://dmitry-tv.ddns.net/hls/zabava/CH_SUBBOTA_2.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Суббота! (+4)
-http://dmitry-tv.ddns.net/hls/zabava/CH_SUBBOTA_4.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Суббота! (+6)
-http://dmitry-tv.ddns.net/hls/zabava/CH_SUBBOTA_6.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Суббота! (+7)
-http://dmitry-tv.ddns.net/hls/zabava/CH_SUBBOTA_7.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', ТНТ4 (-1)
-http://dmitry-tv.ddns.net/hls/zabava/CH_TNT4-1.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', ТНТ4
-http://dmitry-tv.ddns.net/hls/zabava/CH_TNT4.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', ТНТ4 (+2)
-http://dmitry-tv.ddns.net/hls/zabava/CH_TNT4_2.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', ТНТ4 (+4)
-http://dmitry-tv.ddns.net/hls/zabava/CH_TNT4_4.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', ТНТ4 (+6)
-http://dmitry-tv.ddns.net/hls/zabava/CH_TNT4_6.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', ТНТ4 (+7)
-http://dmitry-tv.ddns.net/hls/zabava/CH_TNT4_7.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Солнце (-1)
-http://dmitry-tv.ddns.net/hls/zabava/CH_DISNEY-1.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Солнце
-http://dmitry-tv.ddns.net/hls/zabava/CH_DISNEY.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Солнце (+2)
-http://dmitry-tv.ddns.net/hls/zabava/CH_DISNEY_2.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Солнце (+4)
-http://dmitry-tv.ddns.net/hls/zabava/CH_DISNEY_4.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Солнце (+6)
-http://dmitry-tv.ddns.net/hls/zabava/CH_DISNEY_6.m3u8
-#EXTINF: -1 group-title='Эфир+-Резерв', Солнце (+7)
-http://dmitry-tv.ddns.net/hls/zabava/CH_DISNEY_7.m3u8
-
+#EXTINF: -1 group-title='袦褍蟹褘泻邪0', [袪邪写懈芯] 袪袗袛袠袨 啸袠孝 HD720 (袨褉褋泻)
+http://dmi3y-tv6.ru/hls/CH_RADIOXITHD720_ORSK.m3u8
+#EXTINF: -1 group-title='袦褍蟹褘泻邪0', [袪邪写懈芯] MCM HD720 (袠褉泻褍褌褋泻)
+http://dmi3y-tv6.ru/hls/CH_MCMHD720_IRK.m3u8
+#EXTINF: -1 group-title='袦褍蟹褘泻邪0', [袪邪写懈芯] 袙械褋褌懈 FM HD (auto)
+http://player.smotrim.ru/iframe/stream/live_id/0487fd79-60e6-4333-a545-909d6e015173.m3u8
+#EXTINF: -1 group-title='袦褍蟹褘泻邪0', [袪邪写懈芯] 袪邪写懈芯 袪芯褋褋懈懈 HD (auto)
+http://player.smotrim.ru/iframe/stream/live_id/39ebf09f-bf74-4040-83e6-94b770ba77c4.m3u8
+#EXTINF: -1 epg-id='pervy' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 袩械褉胁褘泄 (袦芯褋泻胁邪)
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
+#EXTINF: -1 epg-id='rossia1' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 袪芯褋褋懈褟 1 (袦芯褋泻胁邪)
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
+#EXTINF: -1 epg-id='ntv' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 袧孝袙 (袦芯褋泻胁邪)
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
+#EXTINF: -1 epg-id='kultura' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 袪芯褋褋懈褟 袣 (袦芯褋泻胁邪)
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK/variant.m3u8
+#EXTINF: -1 epg-id='tvcentr' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 孝袙 笑械薪褌褉 (袦芯褋泻胁邪)
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
+#EXTINF: -1 epg-id='zvezda' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 袟胁械蟹写邪 (袦芯褋泻胁邪)
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
+#EXTINF: -1 epg-id='che' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 效械! (袦芯褋泻胁邪)
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8
+#EXTINF: -1 epg-id='yu' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 挟 (袦芯褋泻胁邪)
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R03_U/variant.m3u8
+#EXTINF: -1 epg-id='solnce' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 小芯谢薪褑械 (袦芯褋泻胁邪)
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_OTT_DISNEY/variant.m3u8
+#EXTINF: -1 epg-id='teotv' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 孝袝袨-孝袙 (袦芯褋泻胁邪)
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_TEOTV/variant.m3u8
+#EXTINF: -1 epg-id='sts-love' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 小孝小 Love (袦芯褋泻胁邪)
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STSLOVE/variant.m3u8
+#EXTINF: -1 epg-id='doverie' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 袦芯褋泻胁邪 袛芯胁械褉懈械 (袦芯褋泻胁邪)
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
+#EXTINF: -1 epg-id='moskva-24' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 袦芯褋泻胁邪 24 (袦芯褋泻胁邪)
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_MOSKOV24/variant.m3u8
+#EXTINF: -1 epg-id='pervy' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 袩械褉胁褘泄
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
+#EXTINF: -1 epg-id='pervy-pl2' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 袩械褉胁褘泄 (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8
+#EXTINF: -1 epg-id='pervy-pl3' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 袩械褉胁褘泄 (+3)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_3/variant.m3u8
+#EXTINF: -1 epg-id='pervy-pl4' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 袩械褉胁褘泄 (+4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/variant.m3u8
+#EXTINF: -1 epg-id='pervy-pl5' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 袩械褉胁褘泄 (+5)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_5/variant.m3u8
+#EXTINF: -1 epg-id='pervy-pl6' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 袩械褉胁褘泄 (+6)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_6/variant.m3u8
+#EXTINF: -1 epg-id='pervy-pl8' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 袩械褉胁褘泄 (+8)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8
+#EXTINF: -1 epg-id='rossia1' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 袪芯褋褋懈褟 1
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
+#EXTINF: -1 epg-id='rossia1-pl2' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 袪芯褋褋懈褟 1 (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
+#EXTINF: -1 epg-id='rossia1-pl4' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 袪芯褋褋懈褟 1 (+4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/variant.m3u8
+#EXTINF: -1 epg-id='rossia1-pl7' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 袪芯褋褋懈褟 1 (+7)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/variant.m3u8
+#EXTINF: -1 epg-id='match-tv' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 袦邪褌褔!
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
+#EXTINF: -1 epg-id='ntv' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 袧孝袙
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
+#EXTINF: -1 epg-id='ntv-pl2' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 袧孝袙 (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8
+#EXTINF: -1 epg-id='ntv-pl4' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 袧孝袙 (+4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8
+#EXTINF: -1 epg-id='ntv-pl7' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 袧孝袙 (+7)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
+#EXTINF: -1 epg-id='5kanal-ru' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 袩褟褌褘泄
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
+#EXTINF: -1 epg-id='5kanal-ru-pl2' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 袩褟褌褘泄 (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/variant.m3u8
+#EXTINF: -1 epg-id='5kanal-ru-pl4' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 袩褟褌褘泄 (+4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_4/variant.m3u8
+#EXTINF: -1 epg-id='5kanal-ru-pl7' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 袩褟褌褘泄 (+7)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8
+#EXTINF: -1 epg-id='kultura' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 袪芯褋褋懈褟 袣
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
+#EXTINF: -1 epg-id='kultura-pl2' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 袪芯褋褋懈褟 袣 (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_2/variant.m3u8
+#EXTINF: -1 epg-id='kultura-pl4' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 袪芯褋褋懈褟 袣 (+4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_4/variant.m3u8
+#EXTINF: -1 epg-id='kultura-pl7' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 袪芯褋褋懈褟 袣 (+7)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/variant.m3u8
+#EXTINF: -1 epg-id='rossia-24' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 袪芯褋褋懈褟 24
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
+#EXTINF: -1 epg-id='karusel' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 袣邪褉褍褋械谢褜
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
+#EXTINF: -1 epg-id='karusel-pl2' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 袣邪褉褍褋械谢褜 (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
+#EXTINF: -1 epg-id='karusel-pl4' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 袣邪褉褍褋械谢褜 (+4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_4/variant.m3u8
+#EXTINF: -1 epg-id='karusel-pl7' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 袣邪褉褍褋械谢褜 (+7)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
+#EXTINF: -1 epg-id='otr' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 袨孝袪
+https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
+#EXTINF: -1 epg-id='tvcentr' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 孝袙 笑械薪褌褉
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
+#EXTINF: -1 epg-id='tvcentr-pl2' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 孝袙 笑械薪褌褉 (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8
+#EXTINF: -1 epg-id='tvcentr-pl4' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 孝袙 笑械薪褌褉 (+4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8
+#EXTINF: -1 epg-id='tvcentr-pl7' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 孝袙 笑械薪褌褉 (+7)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8
+#EXTINF: -1 epg-id='rentv' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 袪袝袧 孝袙
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+#EXTINF: -1 epg-id='rentv-pl2' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 袪袝袧 孝袙 (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8
+#EXTINF: -1 epg-id='rentv-pl4' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 袪袝袧 孝袙 (+4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8
+#EXTINF: -1 epg-id='rentv-pl7' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 袪袝袧 孝袙 (+7)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
+#EXTINF: -1 epg-id='spas' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 小锌邪褋
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
+#EXTINF: -1 epg-id='spas-pl2' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 小锌邪褋 (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS_2/variant.m3u8
+#EXTINF: -1 epg-id='spas-pl7' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 小锌邪褋 (+7)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS_7/variant.m3u8
+#EXTINF: -1 epg-id='sts' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 小孝小
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
+#EXTINF: -1 epg-id='sts-pl2' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 小孝小 (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8
+#EXTINF: -1 epg-id='sts-pl4' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 小孝小 (+4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_4/variant.m3u8
+#EXTINF: -1 epg-id='sts-pl7' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 小孝小 (+7)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
+#EXTINF: -1 epg-id='domashny' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 袛芯屑邪褕薪懈泄
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
+#EXTINF: -1 epg-id='domashny-pl2' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 袛芯屑邪褕薪懈泄 (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/variant.m3u8
+#EXTINF: -1 epg-id='domashny-pl4' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 袛芯屑邪褕薪懈泄 (+4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_4/variant.m3u8
+#EXTINF: -1 epg-id='domashny-pl7' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 袛芯屑邪褕薪懈泄 (+7)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
+#EXTINF: -1 epg-id='tv3-ru' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 孝袙3
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
+#EXTINF: -1 epg-id='tv3-ru-pl2' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 孝袙3 (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/variant.m3u8
+#EXTINF: -1 epg-id='tv3-ru-pl4' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 孝袙3 (+4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_4/variant.m3u8
+#EXTINF: -1 epg-id='tv3-ru-pl7' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 孝袙3 (+7)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8
+#EXTINF: -1 epg-id='piatnica' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 袩褟褌薪懈褑邪
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
+#EXTINF: -1 epg-id='piatnica-pl2' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 袩褟褌薪懈褑邪 (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/variant.m3u8
+#EXTINF: -1 epg-id='piatnica-pl4' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 袩褟褌薪懈褑邪 (+4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8
+#EXTINF: -1 epg-id='piatnica-pl7' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 袩褟褌薪懈褑邪 (+7)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
+#EXTINF: -1 epg-id='zvezda' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 袟胁械蟹写邪
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
+#EXTINF: -1 epg-id='zvezda-pl2' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 袟胁械蟹写邪 (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/variant.m3u8
+#EXTINF: -1 epg-id='zvezda-pl4' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 袟胁械蟹写邪 (+4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/variant.m3u8
+#EXTINF: -1 epg-id='zvezda-pl7' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 袟胁械蟹写邪 (+7)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8
+#EXTINF: -1 epg-id='mir' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 袦袠袪
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
+#EXTINF: -1 epg-id='mir-pl2' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 袦袠袪 (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_2/variant.m3u8
+#EXTINF: -1 epg-id='mir-pl4' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 袦袠袪 (+4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_4/variant.m3u8
+#EXTINF: -1 epg-id='mir-pl7' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 袦袠袪 (+7)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
+#EXTINF: -1 epg-id='tnt' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 孝袧孝
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
+#EXTINF: -1 epg-id='tnt-pl2' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 孝袧孝 (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
+#EXTINF: -1 epg-id='tnt-pl4' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 孝袧孝 (+4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8
+#EXTINF: -1 epg-id='tnt-pl7' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 孝袧孝 (+7)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
+#EXTINF: -1 epg-id='muztv' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 袦校袟-孝袙
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
+#EXTINF: -1 epg-id='muztv-pl2' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 袦校袟-孝袙 (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
+#EXTINF: -1 epg-id='muztv-pl4' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 袦校袟-孝袙 (+4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8
+#EXTINF: -1 epg-id='muztv-pl7' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 袦校袟-孝袙 (+7)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
+#EXTINF: -1 epg-id='2na2' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 2x2
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
+#EXTINF: -1 epg-id='2na2-pl2' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 2x2 (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8
+#EXTINF: -1 epg-id='2na2-pl4' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 2x2 (+4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/variant.m3u8
+#EXTINF: -1 epg-id='2na2-pl7' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 2x2 (+7)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/variant.m3u8
+#EXTINF: -1 epg-id='sts-love' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 小孝小 Love
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
+#EXTINF: -1 epg-id='sts-love-pl2' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 小孝小 Love (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/variant.m3u8
+#EXTINF: -1 epg-id='sts-love-pl4' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 小孝小 Love (+4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_4/variant.m3u8
+#EXTINF: -1 epg-id='solnce' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 小芯谢薪褑械
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
+#EXTINF: -1 epg-id='solnce-pl2' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 小芯谢薪褑械 (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_2/variant.m3u8
+#EXTINF: -1 epg-id='solnce-pl4' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 小芯谢薪褑械 (+4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_4/variant.m3u8
+#EXTINF: -1 epg-id='solnce-pl7' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 小芯谢薪褑械 (+7)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
+#EXTINF: -1 epg-id='super' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 小褍斜斜芯褌邪
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
+#EXTINF: -1 epg-id='super-pl2' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 小褍斜斜芯褌邪 (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8
+#EXTINF: -1 epg-id='super-pl4' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 小褍斜斜芯褌邪 (+4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/variant.m3u8
+#EXTINF: -1 epg-id='super-pl7' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 小褍斜斜芯褌邪 (+7)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
+#EXTINF: -1 epg-id='tnt4' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 孝袧孝4
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
+#EXTINF: -1 epg-id='tnt4-pl2' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 孝袧孝4 (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/variant.m3u8
+#EXTINF: -1 epg-id='tnt4-pl4' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 孝袧孝4 (+4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_4/variant.m3u8
+#EXTINF: -1 epg-id='tnt4-pl7' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 孝袧孝4 (+7)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8
+#EXTINF: -1 epg-id='che' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 效械!
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
+#EXTINF: -1 epg-id='che-pl2' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 效械! (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_2/variant.m3u8
+#EXTINF: -1 epg-id='che-pl4' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 效械! (+4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_4/variant.m3u8
+#EXTINF: -1 epg-id='che-pl7' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 效械! (+7)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8
+#EXTINF: -1 epg-id='yu' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 挟
+https://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
+#EXTINF: -1 epg-id='yu-pl2' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 挟 (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/variant.m3u8
+#EXTINF: -1 epg-id='yu-pl4' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 挟 (+4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
+#EXTINF: -1 epg-id='yu-pl7' user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 挟 (+7)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
+#EXTINF: -1 user-agent='HlsWinkPlayer' group-title='协褎懈褉+-袪械蟹械褉胁', 袙褋褢 孝袙 HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
